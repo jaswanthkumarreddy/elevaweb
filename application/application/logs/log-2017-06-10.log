@@ -1,0 +1,45 @@
+ERROR - 2017-06-10 03:26:08 --> Severity: Warning --> date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. /home/youmeopc/public_html/demo/elevaweb/application/system/libraries/Email.php 988
+ERROR - 2017-06-10 03:26:08 --> Severity: Warning --> date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. /home/youmeopc/public_html/demo/elevaweb/application/system/libraries/Email.php 993
+ERROR - 2017-06-10 06:17:34 --> Severity: Warning --> date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. /home/youmeopc/public_html/demo/elevaweb/application/system/libraries/Email.php 988
+ERROR - 2017-06-10 06:17:34 --> Severity: Warning --> date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. /home/youmeopc/public_html/demo/elevaweb/application/system/libraries/Email.php 993
+ERROR - 2017-06-10 06:17:38 --> Severity: Warning --> date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. /home/youmeopc/public_html/demo/elevaweb/application/system/libraries/Email.php 988
+ERROR - 2017-06-10 06:17:38 --> Severity: Warning --> date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. /home/youmeopc/public_html/demo/elevaweb/application/system/libraries/Email.php 993
+ERROR - 2017-06-10 21:23:53 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-06-10 16:53:57 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-10 16:53:57 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-10 16:54:00 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-06-10 16:54:00 --> Could not find the language line "feeds button add_new_feed"
+ERROR - 2017-06-10 16:54:00 --> Could not find the language line "feeds input email"
+ERROR - 2017-06-10 16:54:00 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-06-10 16:54:00 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-06-10 16:54:00 --> Could not find the language line "feeds input email"
+ERROR - 2017-06-10 16:54:00 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-06-10 16:54:00 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 117
+ERROR - 2017-06-10 16:54:00 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 121
+ERROR - 2017-06-10 16:54:00 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 117
+ERROR - 2017-06-10 16:54:00 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 121
+ERROR - 2017-06-10 16:54:00 --> Could not find the language line "feeds title feed_delete"
+ERROR - 2017-06-10 16:54:00 --> Could not find the language line "feeds msg delete_confirm"
+ERROR - 2017-06-10 16:54:00 --> Could not find the language line "feeds title feed_delete"
+ERROR - 2017-06-10 16:54:00 --> Could not find the language line "feeds msg delete_confirm"
+ERROR - 2017-06-10 16:54:02 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-06-10 16:54:02 --> Severity: Notice --> Undefined variable: paymentlist /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/form.php 62
+ERROR - 2017-06-10 16:54:10 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-06-10 16:54:10 --> Severity: Notice --> Undefined variable: paymentlist /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/form.php 62
+ERROR - 2017-06-10 17:19:48 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-06-10 17:19:48 --> Could not find the language line "feeds button add_new_feed"
+ERROR - 2017-06-10 17:19:48 --> Could not find the language line "feeds input email"
+ERROR - 2017-06-10 17:19:48 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-06-10 17:19:48 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-06-10 17:19:48 --> Could not find the language line "feeds input email"
+ERROR - 2017-06-10 17:19:48 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-06-10 17:19:48 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 117
+ERROR - 2017-06-10 17:19:48 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 121
+ERROR - 2017-06-10 17:19:48 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 117
+ERROR - 2017-06-10 17:19:48 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 121
+ERROR - 2017-06-10 17:19:48 --> Could not find the language line "feeds title feed_delete"
+ERROR - 2017-06-10 17:19:48 --> Could not find the language line "feeds msg delete_confirm"
+ERROR - 2017-06-10 17:19:48 --> Could not find the language line "feeds title feed_delete"
+ERROR - 2017-06-10 17:19:48 --> Could not find the language line "feeds msg delete_confirm"
+ERROR - 2017-06-10 17:19:51 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-06-10 17:19:51 --> Severity: Notice --> Undefined variable: paymentlist /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/form.php 62

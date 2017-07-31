@@ -1,0 +1,247 @@
+ERROR - 2017-05-02 14:02:10 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-02 15:02:13 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 15:02:13 --> Could not find the language line "contacts input company state"
+ERROR - 2017-05-02 15:02:13 --> Could not find the language line "contacts input company state"
+ERROR - 2017-05-02 15:02:13 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 15:02:13 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 15:02:13 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 15:02:13 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 15:02:13 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 15:02:13 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 15:02:40 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-02 15:14:44 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 15:14:44 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 15:16:58 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 15:16:58 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 15:17:02 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 15:17:02 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 15:18:11 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 15:18:11 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 15:25:04 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 15:25:04 --> Could not find the language line "contacts input company state"
+ERROR - 2017-05-02 15:25:04 --> Could not find the language line "contacts input company state"
+ERROR - 2017-05-02 15:25:06 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 15:25:06 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 15:26:51 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 15:26:51 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 15:26:51 --> Severity: Notice --> Undefined index: phone_work  C:\wamp64\www\myopeneyes\application\models\Contacts_model.php 125
+ERROR - 2017-05-02 15:26:52 --> Query error: Unknown column 'title' in 'field list' - Invalid query: INSERT INTO `users` (`client_id`, `first_name`, `last_name`, `title`, `email_work`, `email`, `phone_work`, `phone`, `address`, `address1`, `city`, `state`, `zip`, `country`, `is_hot`, `notes`, `enter_by`, `owner`, `left_company`, `report_to`, `ip_address`, `created_by`, `created_on`, `is_active`) VALUES ('2', 'Parthiv', 'Shah', 'Web Producter', 'parthiv@investis.com', '2585shah@gmail.com', NULL, '7383119597', 'P-16 Rajeswer gold viwe ', 'harni road , baroda', 'Baroda', 'Gujrat', '390019', 'India', '1', 'Data enter by parthiv', '1', '6', '2', '7', '::1', '1', '2017-05-02 15:26:52', '1')
+ERROR - 2017-05-02 15:27:53 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 15:27:53 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 15:27:53 --> Query error: Unknown column 'title' in 'field list' - Invalid query: INSERT INTO `users` (`client_id`, `first_name`, `last_name`, `title`, `email_work`, `email`, `phone_work`, `phone`, `address`, `address1`, `city`, `state`, `zip`, `country`, `is_hot`, `notes`, `enter_by`, `owner`, `left_company`, `report_to`, `ip_address`, `created_by`, `created_on`, `is_active`) VALUES ('2', 'Parthiv', 'Shah', 'Web Producter', 'parthiv@investis.com', '2585shah@gmail.com', '0265124578', '7383119597', 'P-16 Rajeswer gold viwe ', 'harni road , baroda', 'Baroda', 'Gujrat', '390019', 'India', '1', 'Data enter by parthiv', '1', '6', '2', '7', '::1', '1', '2017-05-02 15:27:53', '1')
+ERROR - 2017-05-02 15:28:27 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 15:28:27 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 15:29:22 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 15:29:22 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 15:29:22 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 15:29:22 --> Could not find the language line "contacts input company state"
+ERROR - 2017-05-02 15:29:22 --> Could not find the language line "contacts input company state"
+ERROR - 2017-05-02 15:29:22 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 15:31:45 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 15:31:45 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 15:31:49 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 15:31:49 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 15:44:12 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 15:44:12 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 15:44:30 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 15:44:30 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 15:44:44 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 15:44:44 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 15:44:45 --> Severity: Notice --> Undefined index: is_hot C:\wamp64\www\myopeneyes\application\models\Contacts_model.php 133
+ERROR - 2017-05-02 15:44:45 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 15:44:45 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 15:44:45 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 15:14:34 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-02 16:19:27 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-02 17:15:41 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 17:15:41 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 17:15:41 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 17:16:06 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\controllers\admin\Contacts.php 293
+ERROR - 2017-05-02 17:16:06 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 17:16:06 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 17:16:06 --> Severity: Notice --> Undefined variable: contact_id C:\wamp64\www\myopeneyes\application\views\admin\contacts\form.php 6
+ERROR - 2017-05-02 17:16:06 --> Severity: Notice --> Undefined variable: leftCompany C:\wamp64\www\myopeneyes\application\views\admin\contacts\form.php 16
+ERROR - 2017-05-02 17:16:06 --> Severity: Notice --> Undefined variable: userList C:\wamp64\www\myopeneyes\application\views\admin\contacts\form.php 119
+ERROR - 2017-05-02 17:16:06 --> Severity: Notice --> Undefined variable: userList C:\wamp64\www\myopeneyes\application\views\admin\contacts\form.php 129
+ERROR - 2017-05-02 17:16:06 --> Severity: Notice --> Undefined variable: leftCompany C:\wamp64\www\myopeneyes\application\views\admin\contacts\form.php 135
+ERROR - 2017-05-02 17:17:14 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\controllers\admin\Contacts.php 293
+ERROR - 2017-05-02 17:17:14 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 17:17:14 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 17:17:14 --> Severity: Notice --> Undefined variable: contact_id C:\wamp64\www\myopeneyes\application\views\admin\contacts\form.php 6
+ERROR - 2017-05-02 17:17:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\controllers\admin\Contacts.php 293
+ERROR - 2017-05-02 17:17:46 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 17:17:46 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 17:20:30 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\controllers\admin\Contacts.php 293
+ERROR - 2017-05-02 17:20:30 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 17:20:30 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 17:21:07 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 17:21:07 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 17:21:47 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 17:21:47 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 17:21:47 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\contacts\form.php 118
+ERROR - 2017-05-02 17:21:47 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\contacts\form.php 128
+ERROR - 2017-05-02 17:23:49 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 17:23:49 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 17:35:06 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 17:35:06 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 17:39:03 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 17:39:03 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 17:40:12 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 17:40:12 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 17:40:12 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 17:40:15 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 17:40:15 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 17:45:38 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 17:45:38 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 17:49:47 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 17:49:47 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 17:52:05 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 17:52:05 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 17:52:05 --> Severity: Notice --> Undefined index: is_hot C:\wamp64\www\myopeneyes\application\models\Contacts_model.php 183
+ERROR - 2017-05-02 17:52:05 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\models\Contacts_model.php 195
+ERROR - 2017-05-02 17:52:05 --> Severity: Notice --> Undefined variable: up_data C:\wamp64\www\myopeneyes\application\models\Contacts_model.php 196
+ERROR - 2017-05-02 17:53:29 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 17:53:29 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 17:53:29 --> Severity: Notice --> Undefined index: is_hot C:\wamp64\www\myopeneyes\application\models\Contacts_model.php 183
+ERROR - 2017-05-02 17:53:29 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 17:53:29 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 17:53:29 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 17:53:36 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 17:53:36 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 17:53:46 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 17:53:46 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 17:53:46 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 17:53:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 17:53:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 17:54:15 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 17:54:15 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 17:54:21 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 17:54:21 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 17:54:21 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 17:54:21 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 17:54:21 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 17:54:33 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 17:54:33 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 18:02:31 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 18:02:31 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 18:02:31 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:02:31 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 18:02:31 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 18:02:40 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 18:02:40 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 18:02:47 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 18:02:47 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 18:02:47 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:02:47 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 18:02:47 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-02 18:19:00 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:20:36 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:21:27 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 18:21:27 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 18:23:08 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 17:24:12 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-02 17:24:13 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-02 18:25:04 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:25:04 --> Severity: Notice --> Undefined variable: user C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 102
+ERROR - 2017-05-02 18:25:04 --> Severity: Notice --> Undefined variable: user C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 102
+ERROR - 2017-05-02 18:25:23 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:28:41 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:28:41 --> Could not find the language line "contacts col email_work"
+ERROR - 2017-05-02 18:28:41 --> Could not find the language line "contacts col phone_work"
+ERROR - 2017-05-02 18:28:41 --> Could not find the language line "contacts col email_work"
+ERROR - 2017-05-02 18:28:41 --> Could not find the language line "contacts col phone_work"
+ERROR - 2017-05-02 18:29:59 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:29:59 --> Could not find the language line "contacts col phone_work"
+ERROR - 2017-05-02 18:29:59 --> Could not find the language line "contacts col phone_work"
+ERROR - 2017-05-02 18:30:26 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:32:11 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:32:15 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-02 18:32:17 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:32:19 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 18:32:19 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 18:32:23 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:32:32 --> Could not find the language line "users input status"
+ERROR - 2017-05-02 18:32:58 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-02 18:33:33 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:33:35 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 18:33:35 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 18:36:08 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-02 18:36:17 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:38:34 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-02 18:38:57 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-02 18:39:32 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-02 18:39:34 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:39:43 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:45:09 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:45:14 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:54:00 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:54:08 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:54:10 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:54:14 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:54:16 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 18:55:18 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-02 17:55:30 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-02 18:09:20 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-02 19:09:23 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-02 18:27:25 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-02 18:28:12 --> 404 Page Not Found: User/forgot
+ERROR - 2017-05-02 18:34:34 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-02 19:43:15 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-02 20:43:19 --> Could not find the language line "users input status"
+ERROR - 2017-05-02 20:49:11 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-02 20:49:19 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 21:30:35 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-02 21:30:39 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-02 22:39:01 --> Severity: Notice --> Undefined index: logged_in C:\wamp64\www\myopeneyes\htdocs\themes\admin\login.php 40
+ERROR - 2017-05-02 22:40:08 --> Severity: Notice --> Undefined index: logged_in C:\wamp64\www\myopeneyes\htdocs\themes\admin\login.php 40
+ERROR - 2017-05-02 22:40:08 --> Could not find the language line "admin button dashboard"
+ERROR - 2017-05-02 22:40:08 --> Could not find the language line "admin menu master"
+ERROR - 2017-05-02 22:40:08 --> Could not find the language line "admin menu user"
+ERROR - 2017-05-02 22:40:08 --> Could not find the language line "admin menu clients"
+ERROR - 2017-05-02 22:40:08 --> Could not find the language line "admin menu candidates"
+ERROR - 2017-05-02 22:40:08 --> Could not find the language line "admin menu user"
+ERROR - 2017-05-02 22:40:08 --> Could not find the language line "admin menu clients"
+ERROR - 2017-05-02 22:40:08 --> Could not find the language line "admin menu joborders"
+ERROR - 2017-05-02 22:40:08 --> Could not find the language line "admin menu candidates"
+ERROR - 2017-05-02 22:40:08 --> Could not find the language line "admin button messages"
+ERROR - 2017-05-02 22:40:08 --> Could not find the language line "admin button settings"
+ERROR - 2017-05-02 22:41:20 --> Severity: Notice --> Undefined index: logged_in C:\wamp64\www\myopeneyes\htdocs\themes\admin\login.php 40
+ERROR - 2017-05-02 22:41:20 --> Could not find the language line "admin button dashboard"
+ERROR - 2017-05-02 22:41:20 --> Could not find the language line "admin menu master"
+ERROR - 2017-05-02 22:41:20 --> Could not find the language line "admin menu user"
+ERROR - 2017-05-02 22:41:20 --> Could not find the language line "admin menu clients"
+ERROR - 2017-05-02 22:41:20 --> Could not find the language line "admin menu candidates"
+ERROR - 2017-05-02 22:41:20 --> Could not find the language line "admin menu user"
+ERROR - 2017-05-02 22:41:20 --> Could not find the language line "admin menu clients"
+ERROR - 2017-05-02 22:41:20 --> Could not find the language line "admin menu joborders"
+ERROR - 2017-05-02 22:41:20 --> Could not find the language line "admin menu candidates"
+ERROR - 2017-05-02 22:41:20 --> Could not find the language line "admin button messages"
+ERROR - 2017-05-02 22:41:20 --> Could not find the language line "admin button settings"
+ERROR - 2017-05-02 22:43:58 --> Could not find the language line "admin button dashboard"
+ERROR - 2017-05-02 22:43:58 --> Could not find the language line "admin menu master"
+ERROR - 2017-05-02 22:43:58 --> Could not find the language line "admin menu user"
+ERROR - 2017-05-02 22:43:58 --> Could not find the language line "admin menu clients"
+ERROR - 2017-05-02 22:43:58 --> Could not find the language line "admin menu candidates"
+ERROR - 2017-05-02 22:43:58 --> Could not find the language line "admin menu user"
+ERROR - 2017-05-02 22:43:58 --> Could not find the language line "admin menu clients"
+ERROR - 2017-05-02 22:43:58 --> Could not find the language line "admin menu joborders"
+ERROR - 2017-05-02 22:43:58 --> Could not find the language line "admin menu candidates"
+ERROR - 2017-05-02 22:43:58 --> Could not find the language line "admin button messages"
+ERROR - 2017-05-02 22:43:58 --> Could not find the language line "admin button settings"
+ERROR - 2017-05-02 22:44:17 --> Could not find the language line "admin button dashboard"
+ERROR - 2017-05-02 22:44:17 --> Could not find the language line "admin menu master"
+ERROR - 2017-05-02 22:44:17 --> Could not find the language line "admin menu user"
+ERROR - 2017-05-02 22:44:17 --> Could not find the language line "admin menu clients"
+ERROR - 2017-05-02 22:44:17 --> Could not find the language line "admin menu candidates"
+ERROR - 2017-05-02 22:44:17 --> Could not find the language line "admin menu user"
+ERROR - 2017-05-02 22:44:17 --> Could not find the language line "admin menu clients"
+ERROR - 2017-05-02 22:44:17 --> Could not find the language line "admin menu joborders"
+ERROR - 2017-05-02 22:44:17 --> Could not find the language line "admin menu candidates"
+ERROR - 2017-05-02 22:44:17 --> Could not find the language line "admin button messages"
+ERROR - 2017-05-02 22:44:17 --> Could not find the language line "admin button settings"
+ERROR - 2017-05-02 23:13:32 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 23:13:32 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-02 23:13:39 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-02 23:13:46 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-02 23:13:47 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-02 23:13:47 --> Could not find the language line "contacts col title"

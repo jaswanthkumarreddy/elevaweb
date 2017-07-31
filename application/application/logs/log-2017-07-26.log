@@ -1,0 +1,360 @@
+ERROR - 2017-07-26 06:40:30 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php:164) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Common.php 573
+ERROR - 2017-07-26 06:40:30 --> Severity: Parsing Error --> syntax error, unexpected '*' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 164
+ERROR - 2017-07-26 06:40:30 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php:164) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Common.php 573
+ERROR - 2017-07-26 06:40:30 --> Severity: Parsing Error --> syntax error, unexpected '*' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 164
+ERROR - 2017-07-26 06:40:41 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php:164) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Common.php 573
+ERROR - 2017-07-26 06:40:41 --> Severity: Parsing Error --> syntax error, unexpected '*' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 164
+ERROR - 2017-07-26 06:40:41 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php:164) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Common.php 573
+ERROR - 2017-07-26 06:40:41 --> Severity: Parsing Error --> syntax error, unexpected '*' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 164
+ERROR - 2017-07-26 06:41:02 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php:164) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Common.php 573
+ERROR - 2017-07-26 06:41:02 --> Severity: Parsing Error --> syntax error, unexpected '*' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 164
+ERROR - 2017-07-26 06:41:02 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php:164) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Common.php 573
+ERROR - 2017-07-26 06:41:02 --> Severity: Parsing Error --> syntax error, unexpected '*' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 164
+ERROR - 2017-07-26 06:43:34 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php:164) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Common.php 573
+ERROR - 2017-07-26 06:43:34 --> Severity: Parsing Error --> syntax error, unexpected '*' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 164
+ERROR - 2017-07-26 06:43:34 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php:164) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Common.php 573
+ERROR - 2017-07-26 06:43:34 --> Severity: Parsing Error --> syntax error, unexpected '*' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 164
+ERROR - 2017-07-26 07:01:16 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php:164) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Common.php 573
+ERROR - 2017-07-26 07:01:16 --> Severity: Parsing Error --> syntax error, unexpected '*' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 164
+ERROR - 2017-07-26 07:01:16 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php:164) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Common.php 573
+ERROR - 2017-07-26 07:01:16 --> Severity: Parsing Error --> syntax error, unexpected '*' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 164
+ERROR - 2017-07-26 07:18:24 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php:164) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Common.php 573
+ERROR - 2017-07-26 07:18:24 --> Severity: Parsing Error --> syntax error, unexpected '*' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 164
+ERROR - 2017-07-26 07:18:24 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php:164) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Common.php 573
+ERROR - 2017-07-26 07:18:24 --> Severity: Parsing Error --> syntax error, unexpected '*' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 164
+ERROR - 2017-07-26 07:21:20 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php:164) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Common.php 573
+ERROR - 2017-07-26 07:21:20 --> Severity: Parsing Error --> syntax error, unexpected '*' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 164
+ERROR - 2017-07-26 07:21:20 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php:164) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Common.php 573
+ERROR - 2017-07-26 07:21:20 --> Severity: Parsing Error --> syntax error, unexpected '*' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 164
+ERROR - 2017-07-26 07:28:08 --> Severity: Warning --> Illegal string offset 'full_name' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 167
+ERROR - 2017-07-26 07:28:08 --> Severity: Warning --> Illegal string offset 'email_id' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 169
+ERROR - 2017-07-26 07:28:08 --> Severity: Warning --> Illegal string offset 'mobile_no' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 170
+ERROR - 2017-07-26 07:28:08 --> Severity: Warning --> Illegal string offset 'website' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 172
+ERROR - 2017-07-26 07:28:08 --> Severity: Warning --> Illegal string offset 'is_active' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 175
+ERROR - 2017-07-26 07:28:08 --> Severity: Warning --> Illegal string offset 'payment_status' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 176
+ERROR - 2017-07-26 07:28:08 --> Severity: Warning --> Illegal string offset 'id' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 191
+ERROR - 2017-07-26 07:28:08 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 14
+ERROR - 2017-07-26 07:28:08 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 15
+ERROR - 2017-07-26 07:28:08 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 16
+ERROR - 2017-07-26 07:34:15 --> Severity: Warning --> Illegal string offset 'id' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 156
+ERROR - 2017-07-26 07:34:15 --> Severity: Warning --> Illegal string offset 'full_name' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 168
+ERROR - 2017-07-26 07:34:15 --> Severity: Warning --> Illegal string offset 'email_id' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 170
+ERROR - 2017-07-26 07:34:15 --> Severity: Warning --> Illegal string offset 'mobile_no' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 171
+ERROR - 2017-07-26 07:34:15 --> Severity: Warning --> Illegal string offset 'website' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 173
+ERROR - 2017-07-26 07:34:15 --> Severity: Warning --> Illegal string offset 'is_active' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 176
+ERROR - 2017-07-26 07:34:15 --> Severity: Warning --> Illegal string offset 'payment_status' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 177
+ERROR - 2017-07-26 07:34:15 --> Severity: Warning --> Illegal string offset 'id' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 193
+ERROR - 2017-07-26 07:34:15 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 14
+ERROR - 2017-07-26 07:34:15 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 15
+ERROR - 2017-07-26 07:34:15 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 16
+ERROR - 2017-07-26 07:35:54 --> Severity: Warning --> Illegal string offset 'id' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 156
+ERROR - 2017-07-26 07:35:54 --> Severity: Warning --> Illegal string offset 'full_name' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 168
+ERROR - 2017-07-26 07:35:54 --> Severity: Warning --> Illegal string offset 'email_id' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 170
+ERROR - 2017-07-26 07:35:54 --> Severity: Warning --> Illegal string offset 'mobile_no' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 171
+ERROR - 2017-07-26 07:35:54 --> Severity: Warning --> Illegal string offset 'website' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 173
+ERROR - 2017-07-26 07:35:54 --> Severity: Warning --> Illegal string offset 'is_active' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 176
+ERROR - 2017-07-26 07:35:54 --> Severity: Warning --> Illegal string offset 'payment_status' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 177
+ERROR - 2017-07-26 07:35:54 --> Severity: Warning --> Illegal string offset 'id' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 193
+ERROR - 2017-07-26 07:35:54 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 14
+ERROR - 2017-07-26 07:35:54 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 15
+ERROR - 2017-07-26 07:35:54 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 16
+ERROR - 2017-07-26 07:37:06 --> Severity: Warning --> Illegal string offset 'id' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 156
+ERROR - 2017-07-26 07:37:06 --> Severity: Warning --> Illegal string offset 'full_name' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 168
+ERROR - 2017-07-26 07:37:06 --> Severity: Warning --> Illegal string offset 'email_id' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 170
+ERROR - 2017-07-26 07:37:06 --> Severity: Warning --> Illegal string offset 'mobile_no' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 171
+ERROR - 2017-07-26 07:37:06 --> Severity: Warning --> Illegal string offset 'website' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 173
+ERROR - 2017-07-26 07:37:06 --> Severity: Warning --> Illegal string offset 'is_active' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 176
+ERROR - 2017-07-26 07:37:06 --> Severity: Warning --> Illegal string offset 'payment_status' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 177
+ERROR - 2017-07-26 07:37:06 --> Severity: Warning --> Illegal string offset 'id' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 193
+ERROR - 2017-07-26 07:37:06 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 14
+ERROR - 2017-07-26 07:37:06 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 15
+ERROR - 2017-07-26 07:37:06 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 16
+ERROR - 2017-07-26 07:37:34 --> Severity: Warning --> Illegal string offset 'full_name' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 168
+ERROR - 2017-07-26 07:37:34 --> Severity: Warning --> Illegal string offset 'email_id' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 170
+ERROR - 2017-07-26 07:37:34 --> Severity: Warning --> Illegal string offset 'mobile_no' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 171
+ERROR - 2017-07-26 07:37:34 --> Severity: Warning --> Illegal string offset 'website' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 173
+ERROR - 2017-07-26 07:37:34 --> Severity: Warning --> Illegal string offset 'is_active' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 176
+ERROR - 2017-07-26 07:37:34 --> Severity: Warning --> Illegal string offset 'payment_status' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 177
+ERROR - 2017-07-26 07:37:34 --> Severity: Warning --> Illegal string offset 'id' /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 193
+ERROR - 2017-07-26 07:37:34 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 14
+ERROR - 2017-07-26 07:37:34 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 15
+ERROR - 2017-07-26 07:37:34 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 16
+ERROR - 2017-07-26 07:52:21 --> Severity: Notice --> Undefined variable: array /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 191
+ERROR - 2017-07-26 07:52:21 --> Severity: Warning --> array_merge(): Argument #1 is not an array /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 191
+ERROR - 2017-07-26 07:52:21 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 14
+ERROR - 2017-07-26 07:52:21 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 15
+ERROR - 2017-07-26 07:52:21 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 16
+ERROR - 2017-07-26 07:52:44 --> Severity: Notice --> Undefined variable: array /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 191
+ERROR - 2017-07-26 07:52:44 --> Severity: Warning --> array_merge(): Argument #1 is not an array /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 191
+ERROR - 2017-07-26 07:52:44 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 14
+ERROR - 2017-07-26 07:52:44 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 15
+ERROR - 2017-07-26 07:52:44 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 16
+ERROR - 2017-07-26 07:53:06 --> Severity: Notice --> Undefined variable: array /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 191
+ERROR - 2017-07-26 07:53:06 --> Severity: Warning --> array_merge(): Argument #1 is not an array /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 191
+ERROR - 2017-07-26 07:53:06 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 14
+ERROR - 2017-07-26 07:53:06 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 15
+ERROR - 2017-07-26 07:53:06 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 16
+ERROR - 2017-07-26 11:27:26 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-26 11:27:26 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-26 11:27:57 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-26 11:27:57 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-26 11:28:10 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-26 11:28:11 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-26 16:00:12 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-26 11:30:15 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-26 11:30:15 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 11:30:15 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:30:15 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:30:15 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:30:15 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:30:15 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:30:15 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:30:15 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:30:15 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:30:15 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:30:15 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:30:20 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-26 11:30:20 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 11:30:20 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:30:20 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:30:20 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:30:20 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:30:20 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:30:20 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:30:20 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:30:20 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:30:20 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:30:20 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:30:30 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 11:30:39 --> Severity: Notice --> Undefined index: register_date /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 192
+ERROR - 2017-07-26 11:30:39 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/helpers/url_helper.php 564
+ERROR - 2017-07-26 11:33:42 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-26 11:33:42 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-26 11:34:14 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-26 11:34:14 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-26 11:35:06 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-26 11:35:06 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-26 11:35:17 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-26 11:35:17 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-26 11:36:54 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 11:36:57 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-26 11:36:57 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 11:36:57 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:36:57 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:36:57 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:36:57 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:36:57 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:36:57 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:36:57 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:36:57 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:36:57 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:36:57 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:37:01 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-26 11:37:01 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 11:37:01 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:37:01 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:37:01 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:37:01 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:37:01 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:37:01 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:37:01 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:37:01 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:37:01 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:37:01 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:37:06 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 11:37:22 --> Severity: Notice --> Undefined index: register_date /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 192
+ERROR - 2017-07-26 11:37:22 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/helpers/url_helper.php 564
+ERROR - 2017-07-26 11:37:30 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 11:37:41 --> Severity: Notice --> Undefined index: register_date /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 192
+ERROR - 2017-07-26 11:37:41 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/helpers/url_helper.php 564
+ERROR - 2017-07-26 11:37:44 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 11:38:14 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-26 11:38:15 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-26 16:27:58 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-26 11:58:01 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-26 11:58:01 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 11:58:01 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:58:01 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:58:01 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:58:01 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:58:01 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:58:01 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:58:01 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:58:01 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:58:01 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:58:01 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 11:58:04 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 11:58:07 --> Severity: Notice --> Undefined index: register_date /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 192
+ERROR - 2017-07-26 11:58:07 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/helpers/url_helper.php 564
+ERROR - 2017-07-26 11:58:10 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 16:34:10 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-26 12:04:15 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-26 12:04:15 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 12:04:15 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:04:15 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:04:15 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:04:15 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:04:15 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:04:15 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:04:15 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:04:15 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:04:15 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:04:15 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:04:28 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-26 12:04:28 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 12:04:34 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-26 12:04:34 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 12:04:34 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:04:34 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:04:34 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:04:34 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:04:34 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:04:34 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:04:34 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:04:34 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:04:42 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 12:26:11 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 12:26:22 --> Severity: Notice --> Undefined index: register_date /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 192
+ERROR - 2017-07-26 12:26:22 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/helpers/url_helper.php 564
+ERROR - 2017-07-26 12:35:19 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 12:35:31 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 12:35:47 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-26 12:35:47 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 12:35:47 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:35:47 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:35:47 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:35:47 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:35:47 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:35:47 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:35:47 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:35:47 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:37:20 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 12:37:25 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-26 12:37:25 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 12:37:25 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:37:25 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:37:25 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:37:25 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:37:25 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:37:25 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:37:25 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:37:25 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:37:25 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:37:25 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:37:40 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-26 12:37:40 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 12:37:40 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:37:40 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:37:40 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:37:40 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:37:40 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:37:40 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:37:40 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:37:40 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:37:40 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:37:40 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:38:39 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 12:39:13 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 12:39:31 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-26 12:39:31 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 12:39:31 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:39:31 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:39:31 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:39:31 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:39:31 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:39:31 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:39:31 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:39:31 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:39:38 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-26 12:39:38 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 12:39:38 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:39:38 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:39:38 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:39:38 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:39:38 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:39:38 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:39:38 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:39:38 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:39:38 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:39:38 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:40:32 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 12:41:10 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-26 12:41:10 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 12:41:10 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:41:10 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:41:10 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:41:10 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:41:10 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:41:10 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:41:10 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:41:10 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:41:10 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:41:10 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:41:19 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 12:41:32 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-26 12:41:32 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-26 12:41:58 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-26 12:41:58 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 12:41:58 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:41:58 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:41:58 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:41:58 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:41:58 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:41:58 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:41:58 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:41:58 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:41:58 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:41:58 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:42:26 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 12:42:45 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-26 12:42:45 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 12:42:45 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:42:45 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:42:45 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:42:45 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:42:45 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:42:45 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:42:45 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:42:45 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:42:45 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:42:45 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:43:02 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-26 12:43:02 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 12:43:02 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:43:02 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:43:02 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:43:02 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:43:02 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:43:02 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:43:02 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:43:02 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:43:02 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:43:02 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 12:43:20 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-26 12:43:20 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-26 18:22:49 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-26 13:52:53 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-26 13:52:53 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-26 13:52:53 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-26 13:52:53 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-26 13:52:53 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-26 13:52:53 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-26 13:52:53 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-26 13:52:53 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-26 13:52:53 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-26 13:52:53 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-26 13:52:53 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-26 13:52:53 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-26 13:52:56 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-26 13:52:56 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-26 13:52:56 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 13:52:56 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 13:52:56 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 13:52:56 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 13:52:56 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 13:52:56 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 13:52:56 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 13:52:56 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 13:52:56 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 13:52:56 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-26 13:53:01 --> Could not find the language line "customers input last_name"

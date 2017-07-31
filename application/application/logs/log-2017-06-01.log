@@ -1,0 +1,103 @@
+ERROR - 2017-06-01 02:49:51 --> Query error: Unknown column 'changepassword' in 'field list' - Invalid query: 
+                SELECT
+                    full_name,                 
+                    customer_id, 
+                    email_id,
+                    is_active,
+					salt,
+					password,
+					changepassword 
+                FROM customers
+                WHERE email_id = '2585shah@gmail.com'  LIMIT 1 
+ERROR - 2017-06-01 02:50:53 --> Severity: Notice --> Undefined variable: password /home/youmeopc/public_html/demo/elevaweb/application/application/controllers/Api.php 107
+ERROR - 2017-06-01 02:54:42 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-06-01 05:17:01 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-06-01 11:26:26 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-06-01 10:36:03 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-06-01 11:36:33 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-01 11:36:33 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-01 11:36:39 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-01 11:36:43 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-01 11:36:43 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-01 11:36:49 --> Query error: Unknown column 'updated_by' in 'field list' - Invalid query: UPDATE `customers` SET `is_active` = 0, `deleted` = 1, `updated_by` = NULL, `updated_on` = '2017-06-01 11:36:49'
+WHERE `customer_id` > 1
+AND `customer_id` = '21'
+ERROR - 2017-06-01 11:37:15 --> Could not find the language line "form_validation__check_changepass"
+ERROR - 2017-06-01 11:37:21 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-01 11:37:21 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-01 11:39:10 --> Could not find the language line "form_validation__check_changepass"
+ERROR - 2017-06-01 11:39:50 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-01 11:39:50 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-01 11:41:41 --> Severity: Notice --> Undefined index: customerId /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 353
+ERROR - 2017-06-01 11:41:41 --> Could not find the language line "form_validation__check_changepass"
+ERROR - 2017-06-01 11:53:37 --> Severity: Notice --> Undefined index: customerId /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 353
+ERROR - 2017-06-01 11:53:37 --> Could not find the language line "form_validation__check_changepass"
+ERROR - 2017-06-01 11:53:50 --> Severity: Notice --> Undefined index: customerId /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 353
+ERROR - 2017-06-01 11:53:50 --> Could not find the language line "form_validation__check_changepass"
+ERROR - 2017-06-01 11:58:07 --> Severity: Notice --> Undefined index: customerId /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 353
+ERROR - 2017-06-01 11:58:07 --> Could not find the language line "form_validation__check_changepass"
+ERROR - 2017-06-01 11:58:21 --> Severity: Notice --> Undefined index: customerId /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 353
+ERROR - 2017-06-01 11:58:21 --> Could not find the language line "form_validation__check_changepass"
+ERROR - 2017-06-01 11:58:45 --> Severity: Notice --> Undefined index: customerId /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 353
+ERROR - 2017-06-01 11:58:45 --> Could not find the language line "form_validation__check_changepass"
+ERROR - 2017-06-01 11:59:37 --> Severity: Notice --> Undefined index: customerId /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 353
+ERROR - 2017-06-01 11:59:37 --> Could not find the language line "form_validation__check_changepass"
+ERROR - 2017-06-01 12:01:23 --> Severity: Notice --> Undefined index: customerId /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 353
+ERROR - 2017-06-01 12:01:23 --> Could not find the language line "form_validation__check_changepass"
+ERROR - 2017-06-01 12:01:26 --> Severity: Notice --> Undefined index: customerId /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 353
+ERROR - 2017-06-01 12:01:26 --> Could not find the language line "form_validation__check_changepass"
+ERROR - 2017-06-01 12:05:39 --> Severity: Notice --> Undefined index: customerId /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 353
+ERROR - 2017-06-01 12:05:39 --> Could not find the language line "form_validation__check_changepass"
+ERROR - 2017-06-01 12:05:41 --> Severity: Notice --> Undefined index: customerId /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 353
+ERROR - 2017-06-01 12:05:41 --> Could not find the language line "form_validation__check_changepass"
+ERROR - 2017-06-01 12:06:59 --> Severity: error --> Exception: /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php exists, but doesn't declare class Customers_model /home/youmeopc/public_html/demo/elevaweb/application/system/core/Loader.php 336
+ERROR - 2017-06-01 12:09:20 --> Severity: Notice --> Undefined index: customerId /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 353
+ERROR - 2017-06-01 12:09:23 --> Severity: Notice --> Undefined index: customerId /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 353
+ERROR - 2017-06-01 12:09:24 --> Severity: error --> Exception: /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php exists, but doesn't declare class Customers_model /home/youmeopc/public_html/demo/elevaweb/application/system/core/Loader.php 336
+ERROR - 2017-06-01 12:09:29 --> Severity: Notice --> Undefined index: customerId /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 353
+ERROR - 2017-06-01 12:13:07 --> Severity: Notice --> Undefined index: customerId /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 353
+ERROR - 2017-06-01 12:13:09 --> Severity: Notice --> Undefined index: customerId /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 353
+ERROR - 2017-06-01 12:14:30 --> Severity: Notice --> Undefined index: customerId /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 353
+ERROR - 2017-06-01 12:14:30 --> Could not find the language line "form_validation__check_changepass"
+ERROR - 2017-06-01 11:35:10 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-06-01 12:35:20 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-01 12:35:20 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-01 11:35:21 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-06-01 12:35:27 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-01 12:35:27 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-01 12:35:30 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-01 12:35:30 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-01 12:35:32 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-01 12:35:32 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-01 11:36:45 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-06-01 11:36:56 --> 404 Page Not Found: Feedhtml/index
+ERROR - 2017-06-01 12:37:06 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-01 12:37:06 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-01 12:37:15 --> Could not find the language line "menus input name"
+ERROR - 2017-06-01 12:37:19 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-01 12:37:19 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-01 12:37:31 --> Could not find the language line "menus input name"
+ERROR - 2017-06-01 12:37:41 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-01 12:37:41 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-01 12:37:47 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-01 11:37:56 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-06-01 12:38:41 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-01 12:38:41 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-01 12:48:07 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-01 12:48:07 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-01 14:35:32 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-06-01 15:35:35 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-01 15:35:35 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-01 15:35:38 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-01 15:35:41 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-01 15:35:41 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-01 15:39:28 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-06-01 14:53:56 --> Severity: Parsing Error --> syntax error, unexpected ')' /home/youmeopc/public_html/demo/elevaweb/application/application/controllers/Api.php 214
+ERROR - 2017-06-01 15:54:18 --> Severity: Notice --> Undefined index: website /home/youmeopc/public_html/demo/elevaweb/application/application/controllers/Api.php 214
+ERROR - 2017-06-01 15:56:24 --> Severity: Notice --> Undefined index: website /home/youmeopc/public_html/demo/elevaweb/application/application/controllers/Api.php 214
+ERROR - 2017-06-01 16:02:10 --> Severity: Notice --> Undefined index: changepassword /home/youmeopc/public_html/demo/elevaweb/application/application/controllers/Api.php 219
+ERROR - 2017-06-01 16:02:10 --> Severity: Notice --> Undefined index: changepassword /home/youmeopc/public_html/demo/elevaweb/application/application/controllers/Api.php 219
+ERROR - 2017-06-01 16:09:46 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-01 16:09:49 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-01 16:09:49 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-01 16:19:14 --> Could not find the language line "form_validation__check_changepass"

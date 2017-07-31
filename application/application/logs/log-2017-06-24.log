@@ -1,0 +1,99 @@
+ERROR - 2017-06-24 13:37:58 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-06-24 20:28:28 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-06-24 15:58:33 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-06-24 15:58:33 --> Could not find the language line "feeds input email"
+ERROR - 2017-06-24 15:58:33 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-06-24 15:58:33 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-06-24 15:58:33 --> Could not find the language line "feeds input email"
+ERROR - 2017-06-24 15:58:33 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-06-24 15:58:33 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-06-24 15:58:33 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-06-24 15:58:33 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-06-24 15:58:33 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-06-24 15:58:33 --> Could not find the language line "feeds title feed_delete"
+ERROR - 2017-06-24 15:58:33 --> Could not find the language line "feeds msg delete_confirm"
+ERROR - 2017-06-24 15:58:33 --> Could not find the language line "feeds title feed_delete"
+ERROR - 2017-06-24 15:58:33 --> Could not find the language line "feeds msg delete_confirm"
+ERROR - 2017-06-24 15:58:35 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-06-24 15:58:35 --> Severity: Notice --> Undefined variable: paymentlist /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-06-24 20:47:12 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-06-24 20:47:25 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-06-24 16:45:52 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 157
+ERROR - 2017-06-24 16:45:52 --> Severity: Notice --> Undefined index: website /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 159
+ERROR - 2017-06-24 16:45:52 --> Severity: Notice --> Undefined index: is_active /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 162
+ERROR - 2017-06-24 16:45:52 --> Severity: Notice --> Undefined index: payment_status /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 163
+ERROR - 2017-06-24 16:45:52 --> Severity: Notice --> Undefined index: id /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 179
+ERROR - 2017-06-24 16:45:52 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/youmeopc/public_html/demo/elevaweb/application/system/core/Exceptions.php:271) /home/youmeopc/public_html/demo/elevaweb/application/application/helpers/core_helper.php 14
+ERROR - 2017-06-24 16:45:52 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/youmeopc/public_html/demo/elevaweb/application/system/core/Exceptions.php:271) /home/youmeopc/public_html/demo/elevaweb/application/application/helpers/core_helper.php 15
+ERROR - 2017-06-24 16:45:52 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/youmeopc/public_html/demo/elevaweb/application/system/core/Exceptions.php:271) /home/youmeopc/public_html/demo/elevaweb/application/application/helpers/core_helper.php 16
+ERROR - 2017-06-24 16:46:26 --> Severity: Notice --> Undefined index: website /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 159
+ERROR - 2017-06-24 16:46:26 --> Severity: Notice --> Undefined index: is_active /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 162
+ERROR - 2017-06-24 16:46:26 --> Severity: Notice --> Undefined index: payment_status /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 163
+ERROR - 2017-06-24 16:46:26 --> Severity: Notice --> Undefined index: id /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 179
+ERROR - 2017-06-24 16:46:26 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/youmeopc/public_html/demo/elevaweb/application/system/core/Exceptions.php:271) /home/youmeopc/public_html/demo/elevaweb/application/application/helpers/core_helper.php 14
+ERROR - 2017-06-24 16:46:26 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/youmeopc/public_html/demo/elevaweb/application/system/core/Exceptions.php:271) /home/youmeopc/public_html/demo/elevaweb/application/application/helpers/core_helper.php 15
+ERROR - 2017-06-24 16:46:26 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/youmeopc/public_html/demo/elevaweb/application/system/core/Exceptions.php:271) /home/youmeopc/public_html/demo/elevaweb/application/application/helpers/core_helper.php 16
+ERROR - 2017-06-24 16:47:06 --> Severity: Notice --> Undefined index: is_active /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 162
+ERROR - 2017-06-24 16:47:06 --> Severity: Notice --> Undefined index: payment_status /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 163
+ERROR - 2017-06-24 16:47:06 --> Severity: Notice --> Undefined index: id /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 179
+ERROR - 2017-06-24 16:47:06 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/youmeopc/public_html/demo/elevaweb/application/system/core/Exceptions.php:271) /home/youmeopc/public_html/demo/elevaweb/application/application/helpers/core_helper.php 14
+ERROR - 2017-06-24 16:47:06 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/youmeopc/public_html/demo/elevaweb/application/system/core/Exceptions.php:271) /home/youmeopc/public_html/demo/elevaweb/application/application/helpers/core_helper.php 15
+ERROR - 2017-06-24 16:47:06 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/youmeopc/public_html/demo/elevaweb/application/system/core/Exceptions.php:271) /home/youmeopc/public_html/demo/elevaweb/application/application/helpers/core_helper.php 16
+ERROR - 2017-06-24 16:47:39 --> Severity: Notice --> Undefined index: payment_status /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 163
+ERROR - 2017-06-24 16:47:39 --> Severity: Notice --> Undefined index: id /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 179
+ERROR - 2017-06-24 16:47:39 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/youmeopc/public_html/demo/elevaweb/application/system/core/Exceptions.php:271) /home/youmeopc/public_html/demo/elevaweb/application/application/helpers/core_helper.php 14
+ERROR - 2017-06-24 16:47:39 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/youmeopc/public_html/demo/elevaweb/application/system/core/Exceptions.php:271) /home/youmeopc/public_html/demo/elevaweb/application/application/helpers/core_helper.php 15
+ERROR - 2017-06-24 16:47:39 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/youmeopc/public_html/demo/elevaweb/application/system/core/Exceptions.php:271) /home/youmeopc/public_html/demo/elevaweb/application/application/helpers/core_helper.php 16
+ERROR - 2017-06-24 16:48:31 --> Severity: Notice --> Undefined index: id /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 179
+ERROR - 2017-06-24 16:48:31 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/youmeopc/public_html/demo/elevaweb/application/system/core/Exceptions.php:271) /home/youmeopc/public_html/demo/elevaweb/application/application/helpers/core_helper.php 14
+ERROR - 2017-06-24 16:48:31 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/youmeopc/public_html/demo/elevaweb/application/system/core/Exceptions.php:271) /home/youmeopc/public_html/demo/elevaweb/application/application/helpers/core_helper.php 15
+ERROR - 2017-06-24 16:48:31 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/youmeopc/public_html/demo/elevaweb/application/system/core/Exceptions.php:271) /home/youmeopc/public_html/demo/elevaweb/application/application/helpers/core_helper.php 16
+ERROR - 2017-06-24 16:59:49 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-24 16:59:49 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-24 16:59:49 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 16:59:49 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 16:59:49 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 16:59:49 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 16:59:49 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 16:59:49 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 16:59:49 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 16:59:49 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 16:59:49 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 16:59:49 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 16:59:57 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-24 16:59:57 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-24 16:59:57 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 16:59:57 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 16:59:57 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 16:59:57 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 16:59:57 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 16:59:57 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 16:59:57 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 16:59:57 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 16:59:57 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 16:59:57 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 17:00:02 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-24 17:00:02 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-24 17:00:02 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 17:00:02 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 17:00:02 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 17:00:02 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 17:00:02 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 17:00:02 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 17:00:10 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-24 17:00:10 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-24 17:00:10 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 17:00:10 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 17:00:10 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 17:00:10 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 17:00:10 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 17:00:10 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 17:00:10 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 17:00:10 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 17:00:10 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 17:00:10 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 17:00:18 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-24 17:00:18 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-24 17:00:18 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-06-24 17:00:25 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-24 17:01:21 --> Could not find the language line "form_validation__check_login"

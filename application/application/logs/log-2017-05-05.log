@@ -1,0 +1,35 @@
+ERROR - 2017-05-05 17:04:54 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-05 17:05:00 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-05 17:05:02 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-05 17:05:02 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-05 18:42:39 --> Could not find the language line "users input status"
+ERROR - 2017-05-05 18:42:42 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-05 18:42:45 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-05 18:42:45 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-05 19:25:26 --> Could not find the language line "users input status"
+ERROR - 2017-05-05 19:17:28 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-05 19:31:28 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-05 20:32:43 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-05 20:32:54 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-05 22:41:05 --> Severity: Notice --> Undefined index: image C:\wamp64\www\myopeneyes\application\controllers\admin\User.php 98
+ERROR - 2017-05-05 22:41:05 --> Severity: Notice --> Undefined variable: image C:\wamp64\www\myopeneyes\application\views\admin\user\login.php 35
+ERROR - 2017-05-05 22:42:04 --> Severity: Notice --> Undefined variable: data C:\wamp64\www\myopeneyes\application\views\admin\user\login.php 36
+ERROR - 2017-05-05 22:43:56 --> Severity: Notice --> Use of undefined constant base_url - assumed 'base_url' C:\wamp64\www\myopeneyes\application\controllers\admin\User.php 88
+ERROR - 2017-05-05 21:43:56 --> 404 Page Not Found: Base_urlcaptcha/1494020636.819.jpg
+ERROR - 2017-05-05 22:44:13 --> Severity: Notice --> Undefined property: CI_Config::$base_url C:\wamp64\www\myopeneyes\application\controllers\admin\User.php 88
+ERROR - 2017-05-05 22:44:39 --> Severity: Notice --> Undefined property: CI_Config::$base_url C:\wamp64\www\myopeneyes\application\controllers\admin\User.php 88
+ERROR - 2017-05-05 22:44:39 --> Severity: Notice --> Undefined variable: image C:\wamp64\www\myopeneyes\application\views\admin\user\login.php 36
+ERROR - 2017-05-05 22:45:58 --> Severity: Notice --> Undefined index: image C:\wamp64\www\myopeneyes\application\controllers\admin\User.php 98
+ERROR - 2017-05-05 22:45:58 --> Severity: Notice --> Undefined variable: image C:\wamp64\www\myopeneyes\application\views\admin\user\login.php 36
+ERROR - 2017-05-05 22:46:20 --> Severity: Notice --> Undefined variable: data C:\wamp64\www\myopeneyes\application\views\admin\user\login.php 36
+ERROR - 2017-05-05 22:48:05 --> Severity: Notice --> Undefined variable: image C:\wamp64\www\myopeneyes\application\views\admin\user\login.php 36
+ERROR - 2017-05-05 22:49:41 --> Severity: Notice --> Undefined variable: image C:\wamp64\www\myopeneyes\application\views\admin\user\login.php 36
+ERROR - 2017-05-05 22:50:57 --> Severity: Notice --> Undefined variable: image C:\wamp64\www\myopeneyes\application\views\admin\user\login.php 36
+ERROR - 2017-05-05 22:51:11 --> Severity: Notice --> Undefined variable: image C:\wamp64\www\myopeneyes\application\views\admin\user\login.php 36
+ERROR - 2017-05-05 22:51:19 --> Severity: Notice --> Undefined variable: image C:\wamp64\www\myopeneyes\application\views\admin\user\login.php 36
+ERROR - 2017-05-05 22:54:09 --> Severity: Notice --> Undefined variable: captcha C:\wamp64\www\myopeneyes\application\views\admin\user\login.php 34
+ERROR - 2017-05-05 22:54:11 --> Severity: Notice --> Undefined variable: captcha C:\wamp64\www\myopeneyes\application\views\admin\user\login.php 34
+ERROR - 2017-05-05 22:57:00 --> Severity: Notice --> Undefined variable: image C:\wamp64\www\myopeneyes\application\views\admin\user\login.php 34
+ERROR - 2017-05-05 22:57:02 --> Severity: Notice --> Undefined variable: image C:\wamp64\www\myopeneyes\application\views\admin\user\login.php 34
+ERROR - 2017-05-05 22:58:53 --> Severity: Notice --> Undefined variable: image C:\wamp64\www\myopeneyes\application\views\admin\user\login.php 34
+ERROR - 2017-05-05 22:59:15 --> Severity: Notice --> Undefined variable: captcha C:\wamp64\www\myopeneyes\application\views\admin\user\login.php 34

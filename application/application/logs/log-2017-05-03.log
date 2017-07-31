@@ -1,0 +1,87 @@
+ERROR - 2017-05-03 14:08:17 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-03 14:11:53 --> 404 Page Not Found: User/forgot
+ERROR - 2017-05-03 14:24:42 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-03 14:25:04 --> 404 Page Not Found: User/forgot
+ERROR - 2017-05-03 14:44:18 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-03 15:44:22 --> Could not find the language line "users input status"
+ERROR - 2017-05-03 15:53:04 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\user\profile_form.php 56
+ERROR - 2017-05-03 15:11:31 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-03 16:11:37 --> Could not find the language line "users input status"
+ERROR - 2017-05-03 16:25:12 --> Severity: Notice --> Undefined index: language C:\wamp64\www\myopeneyes\application\controllers\admin\User.php 159
+ERROR - 2017-05-03 16:25:12 --> Severity: Notice --> Undefined index: language C:\wamp64\www\myopeneyes\application\core\MY_Controller.php 63
+ERROR - 2017-05-03 15:26:39 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-03 16:26:43 --> Could not find the language line "users input status"
+ERROR - 2017-05-03 16:26:51 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-03 15:27:39 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-03 16:27:46 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-03 16:27:49 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-03 15:30:00 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-03 16:30:03 --> Could not find the language line "users input status"
+ERROR - 2017-05-03 15:33:08 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-03 16:33:09 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-03 16:33:15 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-03 15:33:29 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-03 16:33:31 --> Could not find the language line "users input status"
+ERROR - 2017-05-03 16:34:01 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-03 17:01:25 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-03 17:01:46 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-03 17:01:49 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-03 17:01:54 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-03 17:01:57 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-03 17:03:36 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-03 18:07:27 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-03 18:07:30 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-03 18:08:28 --> Could not find the language line "users input status"
+ERROR - 2017-05-03 18:08:31 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-03 18:10:02 --> Severity: Warning --> include(C:\wamp64\www\myopeneyes\system\language/english/contact_lang.php): failed to open stream: No such file or directory C:\wamp64\www\myopeneyes\application\core\MY_Lang.php 112
+ERROR - 2017-05-03 18:10:02 --> Severity: Warning --> include(): Failed opening 'C:\wamp64\www\myopeneyes\system\language/english/contact_lang.php' for inclusion (include_path='.;C:\php\pear') C:\wamp64\www\myopeneyes\application\core\MY_Lang.php 112
+ERROR - 2017-05-03 18:10:02 --> Language file contains no data: language/english/contact_lang.php
+ERROR - 2017-05-03 18:10:02 --> Severity: error --> Exception: Unable to locate the model you have specified: Contact_model C:\wamp64\www\myopeneyes\system\core\Loader.php 344
+ERROR - 2017-05-03 17:34:24 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-03 17:54:55 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-03 18:55:01 --> Could not find the language line "users input status"
+ERROR - 2017-05-03 18:10:15 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-03 19:10:29 --> Could not find the language line "users input status"
+ERROR - 2017-05-03 19:12:31 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-03 19:22:50 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-03 19:22:52 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-03 19:22:52 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-03 19:23:50 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-03 19:39:37 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-03 19:52:21 --> Severity: Error --> Call to undefined method Skills_model::industriesDropDownList() C:\wamp64\www\myopeneyes\application\controllers\admin\Clients.php 311
+ERROR - 2017-05-03 19:55:24 --> Could not find the language line "users input status"
+ERROR - 2017-05-03 19:58:44 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-03 19:05:41 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-03 19:05:53 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-03 19:07:54 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-03 19:11:14 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-03 20:11:28 --> Could not find the language line "users input status"
+ERROR - 2017-05-03 19:17:41 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-03 20:19:33 --> Could not find the language line "users input status"
+ERROR - 2017-05-03 20:22:07 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-03 20:27:12 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-03 20:27:15 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-03 20:27:15 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-03 20:27:28 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-03 20:27:49 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-03 20:27:53 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-03 20:29:39 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-03 20:43:26 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-03 20:43:51 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-03 21:26:58 --> Could not find the language line "users input status"
+ERROR - 2017-05-03 21:29:37 --> Could not find the language line "users input status"
+ERROR - 2017-05-03 21:30:36 --> Could not find the language line "users input status"
+ERROR - 2017-05-03 21:30:49 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-03 21:31:01 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-03 21:31:04 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-03 21:31:04 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-03 21:31:24 --> Could not find the language line "users input status"
+ERROR - 2017-05-03 21:43:30 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-03 21:44:12 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-03 21:44:15 --> Could not find the language line "contacts col owner"
+ERROR - 2017-05-03 21:44:15 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-03 21:45:59 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-03 21:46:03 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-03 22:14:34 --> Could not find the language line "users input status"
+ERROR - 2017-05-03 22:15:43 --> Could not find the language line "users input status"
+ERROR - 2017-05-03 21:54:04 --> 404 Page Not Found: Themes/admin

@@ -1,0 +1,334 @@
+ERROR - 2017-07-28 04:01:00 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-28 07:34:36 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-28 09:44:05 --> Severity: Notice --> Undefined index: register_date /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/models/Customers_model.php 198
+ERROR - 2017-07-28 09:44:05 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 14
+ERROR - 2017-07-28 09:44:05 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 15
+ERROR - 2017-07-28 09:44:05 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/system/core/Exceptions.php:271) /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/helpers/core_helper.php 16
+ERROR - 2017-07-28 14:20:47 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-28 14:23:51 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-28 09:54:57 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-28 09:54:57 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 09:54:57 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 09:54:57 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 09:54:57 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 09:54:57 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 09:54:57 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 09:54:57 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 09:54:57 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 09:54:57 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 09:54:57 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 09:54:57 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 09:55:00 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-28 09:55:00 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-28 09:55:00 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-28 09:55:00 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-28 09:55:00 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-28 09:55:00 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-28 09:55:00 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-28 09:55:00 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-28 09:55:00 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-28 09:55:00 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-28 09:55:00 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-28 09:55:00 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-28 09:55:03 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-28 09:55:03 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-28 14:49:14 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-28 10:19:17 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-28 10:19:17 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 10:19:17 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:19:17 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:19:17 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:19:17 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:19:17 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:19:17 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:19:17 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:19:17 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:19:17 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:19:17 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:19:18 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-28 10:19:18 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 10:19:18 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:19:18 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:19:18 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:19:18 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:19:18 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:19:18 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:19:18 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:19:18 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:19:18 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:19:18 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:19:20 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-28 10:19:20 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-28 10:19:20 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-28 10:19:20 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-28 10:19:20 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-28 10:19:20 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-28 10:19:20 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-28 10:19:20 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-28 10:19:20 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-28 10:19:20 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-28 10:19:20 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-28 10:19:20 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-28 10:19:23 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-28 10:19:23 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-28 10:21:26 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-28 10:21:26 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 10:21:26 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:21:26 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:21:26 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:21:26 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:21:26 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:21:26 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:21:26 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:21:26 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:21:26 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:21:26 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 10:21:29 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 10:31:25 --> Could not find the language line "feeds msg edit_feed_success"
+ERROR - 2017-07-28 10:31:25 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-28 10:31:25 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-28 10:31:25 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-28 10:31:25 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-28 10:31:25 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-28 10:31:25 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-28 10:31:25 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-28 10:31:25 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-28 10:31:25 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-28 10:31:25 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-28 10:31:25 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-28 10:31:25 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-28 10:32:48 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-28 10:32:48 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-28 10:32:52 --> Could not find the language line "feeds msg edit_feed_success"
+ERROR - 2017-07-28 10:32:52 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-28 10:32:52 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-28 10:32:52 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-28 10:32:52 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-28 10:32:52 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-28 10:32:52 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-28 10:32:52 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-28 10:32:52 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-28 10:32:52 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-28 10:32:52 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-28 10:32:52 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-28 10:32:52 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-28 11:15:39 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-28 11:17:53 --> Could not find the language line "form_validation__check_changepass"
+ERROR - 2017-07-28 11:37:58 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-28 11:40:50 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-28 11:40:59 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-28 12:25:09 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-28 12:25:09 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 12:25:09 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:09 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:09 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:09 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:09 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:09 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:09 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:09 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:09 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:09 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:16 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-28 12:25:16 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 12:25:16 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:16 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:16 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:16 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:16 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:16 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:16 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:16 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:16 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:16 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 16:55:41 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-28 12:25:44 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-28 12:25:44 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 12:25:44 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:44 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:44 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:44 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:44 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:44 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:44 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:44 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:44 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:25:44 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:26:02 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-28 12:26:03 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 12:26:07 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-28 12:26:07 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 12:26:10 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-28 12:26:10 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 12:26:10 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:26:10 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:26:10 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:26:10 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:26:10 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:26:10 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 12:26:10 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 17:55:29 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-28 13:25:34 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-28 13:25:34 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-28 13:25:34 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-28 13:25:34 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-28 13:25:34 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-28 13:25:34 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-28 13:25:34 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-28 13:25:34 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-28 13:25:34 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-28 13:25:34 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-28 13:25:34 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-28 13:25:34 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-28 13:25:40 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-28 13:25:40 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 13:25:40 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 13:25:40 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 13:25:40 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 13:25:40 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 13:25:40 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 13:25:40 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 13:25:40 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 13:25:40 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 13:25:40 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 13:25:40 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 13:25:50 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 13:52:38 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-28 14:31:44 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-28 14:31:44 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 14:31:44 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 14:31:44 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 14:31:44 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 14:31:44 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 14:31:44 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 14:31:44 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 14:31:44 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 14:31:44 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 14:31:44 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 14:31:44 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 14:31:52 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 14:51:28 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-28 14:52:08 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-28 19:51:54 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-28 15:22:00 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-28 15:22:00 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 15:22:00 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:22:00 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:22:00 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:22:00 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:22:00 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:22:00 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:22:00 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:22:00 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:22:00 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:22:00 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:22:11 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-28 15:22:11 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 15:22:17 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-28 15:22:17 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 15:22:17 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:22:19 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 15:24:49 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-28 15:24:49 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 15:24:49 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:24:52 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 15:25:28 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 15:38:07 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 15:46:24 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 15:50:37 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 15:51:21 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 15:52:03 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-28 15:52:03 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 15:52:03 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:52:03 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:52:03 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:52:03 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:52:03 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:52:03 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:52:03 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:52:03 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:52:03 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:52:03 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:52:10 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-28 15:52:10 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 15:52:10 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 15:52:13 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 21:26:44 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-28 16:57:12 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-28 16:57:12 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-28 16:57:12 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-28 16:57:12 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-28 16:57:12 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-28 16:57:12 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-28 16:57:12 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-28 16:57:12 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-28 16:57:12 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-28 16:57:12 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-28 16:57:12 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-28 16:57:12 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-28 17:01:21 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-28 17:01:21 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-28 17:01:24 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-28 17:01:24 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 17:01:24 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 17:01:24 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 17:01:24 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 17:01:24 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 17:01:24 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 17:01:24 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 17:01:24 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 17:01:24 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 17:01:24 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 17:01:24 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 17:01:33 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 17:01:42 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-28 17:01:42 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 17:01:42 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 17:01:42 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 17:01:42 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 17:01:42 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 17:01:42 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 17:01:42 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 17:01:42 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 17:01:42 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 17:01:42 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 17:01:42 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 17:01:44 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 17:20:24 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-28 20:32:51 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-28 20:32:51 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-28 20:32:51 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-28 20:32:51 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-28 20:32:51 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-28 20:32:51 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-28 20:32:51 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-28 20:32:51 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-28 20:32:51 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-28 20:32:51 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-28 20:32:51 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-28 20:32:51 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-28 20:32:53 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-28 20:32:53 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 20:32:53 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 20:32:53 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 20:32:53 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 20:32:53 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 20:32:53 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 20:32:53 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 20:32:53 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 20:32:53 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 20:32:53 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 20:32:53 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 20:32:54 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-28 20:32:54 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-28 20:32:54 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 20:32:54 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 20:32:54 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 20:32:54 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 20:32:54 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 20:32:54 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 20:32:54 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 20:32:54 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 20:32:54 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 20:32:54 --> Severity: Notice --> Undefined index: last_name /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-28 20:32:56 --> Could not find the language line "customers input last_name"

@@ -1,0 +1,527 @@
+ERROR - 2017-07-14 11:09:01 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-14 06:39:04 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-14 06:39:04 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 06:39:04 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 06:39:04 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-14 06:39:04 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 06:39:04 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 06:39:04 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 06:39:04 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 06:39:04 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 06:39:04 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 06:39:04 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 06:39:04 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 06:39:04 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 06:39:04 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 06:39:04 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 06:39:04 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 06:39:04 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 06:39:04 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 06:39:04 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 06:39:04 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 06:39:04 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 06:39:04 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 06:39:04 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 06:39:04 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 06:39:04 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 06:39:04 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 06:39:09 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-14 06:39:09 --> Severity: Notice --> Undefined variable: paymentlist /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-14 10:02:24 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-14 15:45:23 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-14 11:15:26 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-14 11:15:26 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 11:15:26 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 11:15:26 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-14 11:15:26 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 11:15:26 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 11:15:26 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 11:15:26 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 11:15:26 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 11:15:26 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 11:15:26 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 11:15:26 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 11:15:26 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 11:15:26 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 11:15:26 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 11:15:26 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 11:15:26 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 11:15:26 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 11:15:26 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 11:15:26 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 11:15:26 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 11:15:26 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 11:15:26 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 11:15:26 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 11:15:26 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 11:15:26 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 11:15:32 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-14 11:15:32 --> Severity: Notice --> Undefined variable: paymentlist /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-14 11:20:53 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-14 12:35:09 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-14 12:35:16 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-14 17:58:59 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-14 13:29:02 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-14 13:29:02 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 13:29:02 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 13:29:02 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-14 13:29:02 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 13:29:02 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 13:29:02 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:29:02 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:29:02 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:29:02 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:29:02 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:29:02 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:29:02 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:29:02 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:29:02 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:29:02 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:29:02 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:29:02 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:29:02 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:29:02 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:29:02 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:29:02 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:29:02 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:29:02 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:29:02 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:29:02 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:29:08 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-14 13:29:08 --> Severity: Notice --> Undefined variable: paymentlist /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-14 18:09:08 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-14 13:39:15 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-14 13:39:15 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-14 13:39:15 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:39:15 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:39:15 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:39:15 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:39:15 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:39:15 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:39:15 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:39:15 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:39:15 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:39:15 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:40:01 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-14 13:40:01 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 13:40:01 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 13:40:01 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-14 13:40:01 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 13:40:01 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 13:40:01 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:40:01 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:40:01 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:40:01 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:40:01 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:40:01 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:40:01 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:40:01 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:40:01 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:40:01 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:40:01 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:40:01 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:40:01 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:40:01 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:40:01 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:40:01 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:40:01 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:40:01 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:40:01 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:40:01 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:40:32 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-14 13:40:32 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-14 13:40:32 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:40:32 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:40:32 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:40:32 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:40:32 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:40:32 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:40:32 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:40:32 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:40:32 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:40:32 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:40:43 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-14 13:40:43 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 13:40:43 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 13:40:43 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-14 13:40:43 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 13:40:43 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 13:40:43 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:40:43 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:40:43 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:40:43 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:40:43 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:40:43 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:40:43 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:40:43 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:40:43 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:40:43 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:40:43 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:40:43 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:40:43 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:40:43 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:40:43 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:40:43 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:40:43 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:40:43 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:40:43 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:40:43 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:41:35 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-14 13:41:35 --> Severity: Notice --> Undefined variable: paymentlist /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-14 13:42:11 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-14 13:42:11 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 13:42:11 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 13:42:11 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-14 13:42:11 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 13:42:11 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 13:42:11 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:42:11 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:42:11 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:42:11 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:42:11 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:42:11 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:42:11 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:42:11 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:42:11 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:42:11 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:42:11 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:42:11 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:42:11 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:42:11 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:42:11 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:42:11 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:42:11 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:42:11 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:42:11 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:42:11 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:42:14 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-14 13:42:14 --> Severity: Notice --> Undefined variable: paymentlist /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-14 13:46:37 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-14 13:46:37 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-14 13:46:37 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:46:37 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:46:37 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:46:37 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:46:37 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:46:37 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:46:37 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:46:37 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:46:37 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:46:37 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 13:50:04 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-14 13:50:04 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 13:50:04 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 13:50:04 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-14 13:50:04 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 13:50:04 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 13:50:04 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:50:04 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:50:04 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:50:04 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:50:04 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:50:04 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:50:04 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:50:04 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:50:04 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:50:04 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:50:04 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:50:04 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:50:04 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:50:04 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:50:04 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:50:04 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:50:04 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:50:04 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:50:04 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:50:04 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:50:57 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-14 13:50:57 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 13:50:57 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 13:50:57 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-14 13:50:57 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 13:50:57 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 13:50:57 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:50:57 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:50:57 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:50:57 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:50:57 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:50:57 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:50:57 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:50:57 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:50:57 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:50:57 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:50:57 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:50:57 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:50:57 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:50:57 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:50:57 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:50:57 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:50:57 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:50:57 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:50:57 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:50:57 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:51:06 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-14 13:51:06 --> Severity: Notice --> Undefined variable: paymentlist /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-14 13:58:18 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-14 13:58:18 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 13:58:18 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 13:58:18 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-14 13:58:18 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 13:58:18 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 13:58:18 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:58:18 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:58:18 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:58:18 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:58:18 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:58:18 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:58:18 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:58:18 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:58:18 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:58:18 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:58:18 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:58:18 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:58:18 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:58:18 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:58:18 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:58:18 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:58:18 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:58:18 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:58:18 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:58:18 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:58:27 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-14 13:58:27 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 13:58:27 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 13:58:27 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-14 13:58:27 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 13:58:27 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 13:58:27 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:58:27 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:58:27 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:58:27 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:58:27 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:58:27 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:58:27 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:58:27 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:58:27 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:58:27 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:58:27 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:58:27 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:58:27 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:58:27 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:58:27 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:58:27 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:58:27 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:58:27 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:58:27 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 13:58:27 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 13:58:27 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-14 13:58:27 --> Severity: Notice --> Undefined variable: paymentlist /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-14 14:03:13 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-14 14:03:13 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 14:03:13 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 14:03:13 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-14 14:03:13 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 14:03:13 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 14:03:13 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:13 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:13 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:13 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:13 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:13 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:13 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:13 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:13 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:13 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:13 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:13 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:13 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:13 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:13 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:13 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:13 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:13 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:13 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:13 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:16 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-14 14:03:16 --> Severity: Notice --> Undefined variable: paymentlist /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-14 14:03:21 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-14 14:03:21 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 14:03:21 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 14:03:21 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-14 14:03:21 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 14:03:21 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 14:03:21 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:21 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:21 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:21 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:21 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:21 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:21 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:21 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:21 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:21 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:21 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:21 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:21 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:21 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:21 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:21 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:21 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:21 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:21 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:21 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:24 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-14 14:03:24 --> Severity: Notice --> Undefined variable: paymentlist /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-14 14:03:26 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-14 14:03:26 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 14:03:26 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 14:03:26 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-14 14:03:26 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 14:03:26 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 14:03:26 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:26 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:26 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:26 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:26 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:26 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:26 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:26 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:26 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:26 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:26 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:26 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:26 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:26 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:26 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:26 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:26 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:26 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:26 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:03:26 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:03:28 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-14 14:03:28 --> Severity: Notice --> Undefined variable: paymentlist /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-14 14:23:56 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-14 14:23:56 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 14:23:56 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 14:23:56 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-14 14:23:56 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 14:23:56 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 14:23:56 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:23:56 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:23:56 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:23:56 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:23:56 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:23:56 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:23:56 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:23:56 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:23:56 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:23:56 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:23:56 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:23:56 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:23:56 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:23:56 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:23:56 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:23:56 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:23:56 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:23:56 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:23:56 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 14:23:56 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 14:24:00 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-14 14:24:00 --> Severity: Notice --> Undefined variable: paymentlist /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-14 15:13:23 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-14 15:13:23 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 15:13:23 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 15:13:23 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-14 15:13:23 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 15:13:23 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 15:13:23 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 15:13:23 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 15:13:23 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 15:13:23 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 15:13:23 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 15:13:23 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 15:13:23 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 15:13:23 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 15:13:23 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 15:13:23 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 15:13:23 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 15:13:23 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 15:13:23 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 15:13:23 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 15:13:23 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 15:13:23 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 15:13:23 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 15:13:23 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 15:13:23 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 15:13:23 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 15:13:28 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-14 15:13:28 --> Severity: Notice --> Undefined variable: paymentlist /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-14 20:29:57 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-14 16:00:29 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-14 17:45:22 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-14 17:45:22 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 17:45:22 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 17:45:22 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-14 17:45:22 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 17:45:22 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 17:45:22 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 17:45:22 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 17:45:22 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 17:45:22 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 17:45:22 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 17:45:22 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 17:45:22 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 17:45:22 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 17:45:22 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 17:45:22 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 17:45:22 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 17:45:22 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 17:45:22 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 17:45:22 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 17:45:22 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 17:45:22 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 17:45:22 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 17:45:22 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 17:45:22 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 17:45:22 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 18:13:58 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-07-14 18:54:02 --> Could not find the language line "customers col last_name"
+ERROR - 2017-07-14 18:54:02 --> Could not find the language line "customers input last_name"
+ERROR - 2017-07-14 18:54:02 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 18:54:02 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 18:54:02 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 18:54:02 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 18:54:02 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 18:54:02 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 18:54:02 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 18:54:02 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 18:54:02 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 18:54:02 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/list.php 114
+ERROR - 2017-07-14 18:54:12 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-14 18:54:12 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 18:54:12 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 18:54:12 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-14 18:54:12 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-14 18:54:12 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-14 18:54:12 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 18:54:12 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 18:54:12 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 18:54:12 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 18:54:12 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 18:54:12 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 18:54:12 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 18:54:12 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 18:54:12 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 18:54:12 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 18:54:12 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 18:54:12 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 18:54:12 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 18:54:12 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 18:54:12 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 18:54:12 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 18:54:12 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 18:54:12 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 18:54:12 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-14 18:54:12 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-14 18:54:28 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-14 18:54:28 --> Severity: Notice --> Undefined variable: paymentlist /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/form.php 66

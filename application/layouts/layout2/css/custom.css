@@ -1,0 +1,23 @@
+.navbar {    
+    background: #fff url(../images/img/pattern-icons.png);    
+}
+
+.contact-widget {
+    background: unset;
+}
+
+.navbar-brand{
+    padding: 0px 0px;  
+}
+
+.navbar-top.affix .navbar-brand {
+    padding: 0px 0px;  
+}
+
+.affix > .container > .navbar-header > .navbar-brand{
+	padding: 0px 0px;  
+}
+
+.affix > .container > .navbar-header > .navbar-brand > img {
+   max-width: 76%;
+}

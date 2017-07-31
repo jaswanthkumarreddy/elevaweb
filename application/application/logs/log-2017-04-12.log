@@ -1,0 +1,648 @@
+ERROR - 2017-04-12 13:58:54 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 14:00:30 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 15:00:34 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 15:00:34 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 14:00:34 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 15:00:36 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 15:00:36 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 15:00:36 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 15:00:36 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 15:00:36 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 15:00:36 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 14:00:36 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 15:20:53 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 15:20:53 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 15:20:53 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 15:20:53 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 15:20:53 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 15:20:53 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 15:20:53 --> Severity: Notice --> Undefined variable: usersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\form.php 47
+ERROR - 2017-04-12 14:20:53 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 15:21:24 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 15:21:24 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 15:21:24 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 15:21:24 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 15:21:24 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 15:21:24 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 14:21:24 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 15:21:45 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 15:21:45 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 15:21:45 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 15:21:45 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 15:21:45 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 15:21:45 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 14:21:45 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 15:35:36 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 15:35:36 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 15:35:36 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 15:35:36 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 15:35:36 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 15:35:36 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 14:35:36 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 15:36:35 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 15:36:35 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 15:36:35 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 15:36:35 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 15:36:35 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 15:36:35 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 15:36:36 --> Severity: Parsing Error --> syntax error, unexpected '=>' (T_DOUBLE_ARROW) C:\wamp64\www\myopeneyes\application\views\admin\joborders\form.php 114
+ERROR - 2017-04-12 15:36:45 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 15:36:45 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 15:36:45 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 15:36:45 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 15:36:45 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 15:36:45 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 14:36:46 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 14:50:07 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 14:50:44 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 14:50:46 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 15:53:05 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 15:53:05 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 14:53:06 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 15:53:08 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 15:53:08 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 15:53:08 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 15:53:08 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 15:53:08 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 15:53:08 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 14:53:08 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 15:55:24 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 15:55:24 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 14:55:25 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 15:02:04 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 15:02:07 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 16:19:39 --> Severity: Notice --> Array to string conversion C:\wamp64\www\myopeneyes\system\helpers\form_helper.php 610
+ERROR - 2017-04-12 16:30:13 --> Severity: Notice --> Undefined variable: accessLevel C:\wamp64\www\myopeneyes\application\views\admin\users\form.php 52
+ERROR - 2017-04-12 15:38:24 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 15:38:30 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 15:51:37 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 16:51:52 --> Severity: Notice --> Undefined index: is_hot C:\wamp64\www\myopeneyes\application\models\Clients_model.php 204
+ERROR - 2017-04-12 15:51:53 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 15:52:05 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 15:52:08 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 15:52:49 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 17:01:02 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 17:01:02 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 16:01:02 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 17:01:04 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 17:01:04 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 17:01:04 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 17:01:04 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 17:01:04 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 17:01:04 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 16:01:04 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 17:01:40 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 17:01:40 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 17:01:40 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 17:01:40 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 17:01:40 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 17:01:40 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 16:01:40 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 17:03:50 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 17:03:50 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 17:16:52 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 17:16:52 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 17:16:52 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 17:16:52 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 17:16:52 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 17:16:52 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 16:16:53 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 17:30:12 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 17:30:12 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 17:34:08 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 17:34:08 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 17:34:08 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 17:34:08 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 17:34:08 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 17:34:08 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 16:34:08 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 17:34:19 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 17:34:19 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 17:34:19 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 17:34:19 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 17:34:19 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 17:34:19 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 16:34:20 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 17:47:17 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 17:47:17 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 17:47:17 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 17:47:17 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 17:47:17 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 17:47:17 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 16:47:18 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 17:48:01 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 17:48:01 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 17:48:01 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 17:48:01 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 17:48:01 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 17:48:01 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 16:48:01 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 17:48:31 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 17:48:31 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 17:48:31 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 17:48:31 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 17:48:31 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 17:48:31 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 16:48:32 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 17:50:11 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 17:50:11 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 17:57:28 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 17:57:28 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 17:57:28 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 17:57:28 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 17:57:28 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 17:57:28 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 17:57:28 --> Severity: Notice --> Undefined index: contact_id C:\wamp64\www\myopeneyes\application\models\Joborders_model.php 149
+ERROR - 2017-04-12 17:57:28 --> Severity: Notice --> Undefined index: entered_by C:\wamp64\www\myopeneyes\application\models\Joborders_model.php 151
+ERROR - 2017-04-12 17:57:28 --> Query error: Column 'entered_by' cannot be null - Invalid query: 
+                INSERT INTO joborder (
+                   recruiter,
+				   contact_id,
+				   company_id,
+				   entered_by,
+				   owner,
+				   site_id,
+				   client_job_id,
+				   title,
+				   description,
+				   notes,
+				   type,
+				   duration,
+				   rate_max,
+				   salary,
+				   openings,
+				   city,
+				   state,
+				   start_date,
+				   key_skills,
+				   date_created,
+				   date_modified
+				   
+                ) VALUES ( 
+                    '3',
+					NULL,
+					'6',
+					NULL,
+					'4', 
+					'1',
+                    'Job - 007',
+                    'Sr.PHP Developer',
+                    '', 
+                    '',
+                    'H',
+					'2 Month',
+					'75',
+                    '55',
+					'20',
+
+					'Baroda',
+					'Gujarat',
+					'2017-04-12',
+					'PHP , Jquery , Javascirp ', 
+                    '2017-04-12 17:57:28',
+                    '2017-04-12 17:57:28' 					 
+                )
+            
+ERROR - 2017-04-12 17:57:41 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 17:57:41 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 17:57:42 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 17:57:42 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 17:57:42 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 17:57:42 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 17:57:42 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 17:57:42 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 16:57:43 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 17:58:22 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 17:58:23 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 17:58:23 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 17:58:23 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 17:58:23 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 17:58:23 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 17:58:23 --> Severity: Notice --> Undefined index: contact_id C:\wamp64\www\myopeneyes\application\models\Joborders_model.php 149
+ERROR - 2017-04-12 17:58:23 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 17:58:23 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 16:58:23 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 17:58:29 --> Severity: Notice --> Undefined index: email1 C:\wamp64\www\myopeneyes\application\controllers\admin\Joborders.php 319
+ERROR - 2017-04-12 17:58:29 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 17:58:29 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 17:58:29 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 17:58:29 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 17:58:29 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 17:58:29 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 17:58:29 --> Severity: Notice --> Undefined variable: comanylist C:\wamp64\www\myopeneyes\application\views\admin\joborders\form.php 24
+ERROR - 2017-04-12 17:58:29 --> Severity: Notice --> Undefined variable: usersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\form.php 47
+ERROR - 2017-04-12 17:58:29 --> Severity: Notice --> Undefined variable: usersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\form.php 55
+ERROR - 2017-04-12 17:58:29 --> Severity: Notice --> Undefined variable: jobTypeList C:\wamp64\www\myopeneyes\application\views\admin\joborders\form.php 85
+ERROR - 2017-04-12 16:58:30 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 18:00:13 --> Severity: Notice --> Undefined index: email1 C:\wamp64\www\myopeneyes\application\controllers\admin\Joborders.php 319
+ERROR - 2017-04-12 18:00:13 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 18:00:13 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 18:00:13 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 18:00:13 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 18:00:13 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 18:00:13 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 17:00:14 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 18:01:21 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 18:01:21 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 18:01:21 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 18:01:21 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 18:01:21 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 18:01:21 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 17:01:22 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 18:06:10 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 18:06:10 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 18:06:10 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 18:06:10 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 18:06:10 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 18:06:10 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 17:06:11 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 18:07:33 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 18:07:34 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 18:07:34 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 18:07:34 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 18:07:34 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 18:07:34 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 17:07:34 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 18:14:09 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 18:14:09 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 18:14:09 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 18:14:09 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 18:14:09 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 18:14:09 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 17:14:10 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 18:16:07 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 18:16:07 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 18:16:07 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 18:16:07 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 18:16:07 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 18:16:07 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 17:16:08 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 18:24:19 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 18:24:19 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 18:24:19 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 18:24:19 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 18:24:19 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 18:24:19 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 17:24:19 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 18:25:12 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 18:25:12 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 18:25:12 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 18:25:12 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 18:25:12 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 18:25:12 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 17:25:13 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 18:30:03 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 18:30:03 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 18:30:03 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 18:30:03 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 18:30:03 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 18:30:03 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 17:30:04 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 18:35:37 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 18:35:37 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 18:35:37 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 18:35:37 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 18:35:37 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 18:35:37 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 17:35:37 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 18:35:55 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 18:35:55 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 18:45:58 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 18:45:58 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 18:50:51 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 18:50:51 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 18:50:51 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 18:50:51 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 18:50:51 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 18:50:51 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 18:50:51 --> Severity: Error --> Call to undefined method Joborders::fileUpload() C:\wamp64\www\myopeneyes\application\controllers\admin\Joborders.php 323
+ERROR - 2017-04-12 18:51:11 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 18:51:11 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 18:51:11 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 18:51:11 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 18:51:11 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 18:51:11 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 18:51:11 --> Severity: Notice --> Undefined variable: resumeNameGetAfterUpload C:\wamp64\www\myopeneyes\application\controllers\admin\Joborders.php 324
+ERROR - 2017-04-12 18:51:11 --> Severity: Notice --> Undefined index: contact_id C:\wamp64\www\myopeneyes\application\models\Joborders_model.php 207
+ERROR - 2017-04-12 18:51:11 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE joborder_id = '9'
+                    AND deleted = '0'' at line 30 - Invalid query: 
+                UPDATE joborder
+                SET
+				 recruiter = '3',
+			 					
+					contact_id = NULL,
+					company_id = '4',
+					entered_by = '1',
+				    owner = '4',
+					site_id = '1',
+					
+                    client_job_id = 'Job - 007',
+                    title = 'Sr.PHP Developer1',
+                    description = 'dfdsf',
+                    notes = 'dfsdf',
+                   
+					type = 'C',
+					duration = '2 Month',
+					rate_max = '75',
+					salary = '55',					
+					openings = '20',
+					city = 'Baroda1',
+
+					state = 'Gujarat1',
+					start_date = '2017-04-13',
+					key_skills = 'PHP , Jquery , Javascirp ',
+
+					
+                    date_modified = '2017-04-12 18:51:11',					
+					  			
+					WHERE joborder_id = '9'
+                    AND deleted = '0'
+            
+ERROR - 2017-04-12 18:52:20 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 18:52:20 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 18:56:16 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 18:56:16 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 18:56:16 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 18:56:16 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 18:56:16 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 18:56:16 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 18:56:16 --> Severity: Warning --> Missing argument 2 for Joborders_model::edit_company(), called in C:\wamp64\www\myopeneyes\application\controllers\admin\Joborders.php on line 324 and defined C:\wamp64\www\myopeneyes\application\models\Joborders_model.php 193
+ERROR - 2017-04-12 18:56:16 --> Severity: Notice --> Undefined index: contact_id C:\wamp64\www\myopeneyes\application\models\Joborders_model.php 207
+ERROR - 2017-04-12 18:56:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE joborder_id = '9'
+                    AND deleted = '0'' at line 30 - Invalid query: 
+                UPDATE joborder
+                SET
+				 recruiter = '3',
+			 					
+					contact_id = NULL,
+					company_id = '4',
+					entered_by = '1',
+				    owner = '4',
+					site_id = '1',
+					
+                    client_job_id = 'Job - 007',
+                    title = 'Sr.PHP Developer1',
+                    description = 'dfdsf',
+                    notes = 'dfsdf',
+                   
+					type = 'C',
+					duration = '2 Month',
+					rate_max = '75',
+					salary = '55',					
+					openings = '20',
+					city = 'Baroda1',
+
+					state = 'Gujarat1',
+					start_date = '2017-04-13',
+					key_skills = 'PHP , Jquery , Javascirp ',
+
+					
+                    date_modified = '2017-04-12 18:56:16',					
+					  			
+					WHERE joborder_id = '9'
+                    AND deleted = '0'
+            
+ERROR - 2017-04-12 18:56:36 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 18:56:36 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 18:56:36 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 18:56:36 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 18:56:36 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 18:56:36 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 18:56:36 --> Severity: Notice --> Undefined index: contact_id C:\wamp64\www\myopeneyes\application\models\Joborders_model.php 207
+ERROR - 2017-04-12 18:56:36 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE joborder_id = '9'
+                    AND deleted = '0'' at line 30 - Invalid query: 
+                UPDATE joborder
+                SET
+				 recruiter = '3',
+			 					
+					contact_id = NULL,
+					company_id = '4',
+					entered_by = '1',
+				    owner = '4',
+					site_id = '1',
+					
+                    client_job_id = 'Job - 007',
+                    title = 'Sr.PHP Developer1',
+                    description = 'dfdsf',
+                    notes = 'dfsdf',
+                   
+					type = 'C',
+					duration = '2 Month',
+					rate_max = '75',
+					salary = '55',					
+					openings = '20',
+					city = 'Baroda1',
+
+					state = 'Gujarat1',
+					start_date = '2017-04-13',
+					key_skills = 'PHP , Jquery , Javascirp ',
+
+					
+                    date_modified = '2017-04-12 18:56:36',					
+					  			
+					WHERE joborder_id = '9'
+                    AND deleted = '0'
+            
+ERROR - 2017-04-12 18:57:19 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 18:57:19 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 18:58:33 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 18:58:33 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 18:58:33 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 18:58:33 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 18:58:33 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 18:58:33 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 18:58:33 --> Severity: Notice --> Undefined index: contact_id C:\wamp64\www\myopeneyes\application\models\Joborders_model.php 207
+ERROR - 2017-04-12 18:58:33 --> Severity: Notice --> Undefined index: h_importresume C:\wamp64\www\myopeneyes\application\models\Joborders_model.php 240
+ERROR - 2017-04-12 18:58:33 --> Severity: Notice --> Undefined index: resume-test C:\wamp64\www\myopeneyes\application\models\Joborders_model.php 244
+ERROR - 2017-04-12 18:58:33 --> Could not find the language line "joborders msg edit_client_success"
+ERROR - 2017-04-12 18:58:33 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 18:58:33 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 17:58:34 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 18:59:30 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 18:59:30 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 17:59:31 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:01:01 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 19:01:01 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 19:01:01 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 19:01:01 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 19:01:01 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 19:01:01 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 18:01:02 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:03:48 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 19:03:48 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 19:03:49 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 19:03:49 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 19:03:49 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 19:03:49 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 18:03:49 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:03:59 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 19:03:59 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 19:03:59 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 19:03:59 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 19:03:59 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 19:03:59 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 18:04:00 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:04:20 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 19:04:20 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 19:04:20 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 19:04:20 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 19:04:20 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 19:04:20 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 18:04:21 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:04:42 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:04:42 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:05:13 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:05:13 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:05:42 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:05:42 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:16:34 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:16:34 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:17:19 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:17:19 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:21:34 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:21:34 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:22:54 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:22:54 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:26:18 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 19:26:18 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 19:26:18 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 19:26:18 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 19:26:18 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 19:26:18 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 19:26:18 --> Severity: Notice --> Undefined index: h_importresume C:\wamp64\www\myopeneyes\application\models\Joborders_model.php 240
+ERROR - 2017-04-12 19:26:18 --> Severity: Notice --> Undefined index: resume-test C:\wamp64\www\myopeneyes\application\models\Joborders_model.php 244
+ERROR - 2017-04-12 19:26:18 --> Could not find the language line "joborders msg edit_client_success"
+ERROR - 2017-04-12 19:26:18 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:26:18 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 18:26:18 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:26:21 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 19:26:21 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 19:26:21 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 19:26:21 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 19:26:21 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 19:26:21 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 18:26:22 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:26:43 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:26:43 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:29:28 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 19:29:28 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 19:29:28 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 19:29:28 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 19:29:28 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 19:29:28 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 18:29:28 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:29:40 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 19:29:40 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 19:29:40 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 19:29:40 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 19:29:40 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 19:29:40 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 18:29:41 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:29:58 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 19:29:58 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 19:29:58 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 19:29:58 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 19:29:58 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 19:29:58 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 18:29:59 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:34:25 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:34:25 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:36:32 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:36:32 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:37:28 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:37:28 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:38:18 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:38:18 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 18:38:19 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:38:23 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-12 19:38:23 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-12 19:38:23 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-12 19:38:23 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-12 19:38:23 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-12 19:38:23 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-12 18:38:24 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:39:15 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:39:15 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 18:41:37 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:41:41 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:41:41 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 18:41:42 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 18:41:44 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 18:49:57 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:02:00 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 20:02:05 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 20:02:05 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:02:05 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 20:02:42 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 20:02:42 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:02:42 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 20:02:56 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 20:02:56 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:02:57 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 20:07:58 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 20:07:58 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:07:58 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 20:08:47 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 20:08:47 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:08:47 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 20:09:40 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 20:09:40 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:09:40 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 20:09:52 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 20:09:52 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:09:52 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 20:11:33 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 20:11:33 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:11:33 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 20:12:53 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 20:12:53 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:12:53 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:27:15 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:27:21 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:27:34 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:28:04 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:28:11 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:28:14 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:28:24 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:28:28 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:28:36 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:28:41 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:29:06 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:29:18 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:37:26 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:37:35 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:37:40 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:37:49 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:37:56 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:37:59 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:38:08 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 20:38:09 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 20:38:09 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:38:10 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:38:13 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:39:43 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 20:40:01 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 20:40:01 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:40:02 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 20:41:59 --> Severity: Notice --> Array to string conversion C:\wamp64\www\myopeneyes\application\controllers\admin\Joborders.php 111
+ERROR - 2017-04-12 20:43:06 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 20:43:06 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:43:06 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:43:10 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:43:10 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 20:45:35 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 20:45:35 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:45:35 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 20:45:43 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 20:45:43 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:45:43 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 20:47:16 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 20:47:16 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:47:16 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 20:47:19 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 20:47:19 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-12 19:47:20 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 19:47:38 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 21:58:51 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 22:00:31 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-12 22:01:22 --> 404 Page Not Found: Themes/admin

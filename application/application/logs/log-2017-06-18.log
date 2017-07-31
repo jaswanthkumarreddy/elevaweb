@@ -1,0 +1,23 @@
+ERROR - 2017-06-18 10:01:13 --> 404 Page Not Found: A/index
+ERROR - 2017-06-18 10:01:40 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-06-18 10:40:27 --> 404 Page Not Found: Api/edit_customer
+ERROR - 2017-06-18 06:11:44 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-06-18 10:46:42 --> 404 Page Not Found: Api/edit_customer
+ERROR - 2017-06-18 06:19:44 --> Severity: Notice --> Undefined variable: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/controllers/Api.php 111
+ERROR - 2017-06-18 06:20:13 --> Severity: Notice --> Undefined variable: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/controllers/Api.php 111
+ERROR - 2017-06-18 06:20:59 --> Severity: Notice --> Undefined variable: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/controllers/Api.php 111
+ERROR - 2017-06-18 11:01:30 --> 404 Page Not Found: Api/edit_customer
+ERROR - 2017-06-18 11:02:41 --> 404 Page Not Found: Api/edit_customer
+ERROR - 2017-06-18 11:02:53 --> 404 Page Not Found: Api/edit_customer
+ERROR - 2017-06-18 06:35:18 --> Severity: Notice --> Undefined index: is_active /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 162
+ERROR - 2017-06-18 06:35:18 --> Severity: Notice --> Undefined index: payment_status /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 163
+ERROR - 2017-06-18 06:35:18 --> Severity: Notice --> Undefined index: id /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 179
+ERROR - 2017-06-18 06:36:48 --> Severity: Notice --> Undefined index: is_active /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 162
+ERROR - 2017-06-18 06:36:48 --> Severity: Notice --> Undefined index: payment_status /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 163
+ERROR - 2017-06-18 06:36:48 --> Severity: Notice --> Undefined index: id /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 179
+ERROR - 2017-06-18 06:41:16 --> Severity: Notice --> Undefined index: is_active /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 162
+ERROR - 2017-06-18 06:41:16 --> Severity: Notice --> Undefined index: payment_status /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 163
+ERROR - 2017-06-18 06:41:16 --> Severity: Notice --> Undefined index: id /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 179
+ERROR - 2017-06-18 06:41:53 --> Severity: Notice --> Undefined index: payment_status /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 163
+ERROR - 2017-06-18 06:41:53 --> Severity: Notice --> Undefined index: id /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 179
+ERROR - 2017-06-18 06:42:19 --> Severity: Notice --> Undefined index: id /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 179

@@ -1,0 +1,266 @@
+ERROR - 2017-04-06 15:49:50 --> Could not find the language line "clients input name"
+ERROR - 2017-04-06 15:49:50 --> Could not find the language line "clients input city"
+ERROR - 2017-04-06 15:49:50 --> Could not find the language line "clients input state"
+ERROR - 2017-04-06 15:52:11 --> Could not find the language line "clients input name"
+ERROR - 2017-04-06 15:52:11 --> Could not find the language line "clients input city"
+ERROR - 2017-04-06 15:52:11 --> Could not find the language line "clients input state"
+ERROR - 2017-04-06 15:54:50 --> Could not find the language line "clients input name"
+ERROR - 2017-04-06 15:54:50 --> Could not find the language line "clients input city"
+ERROR - 2017-04-06 15:54:50 --> Could not find the language line "clients input state"
+ERROR - 2017-04-06 15:56:17 --> Could not find the language line "clients input name"
+ERROR - 2017-04-06 15:56:17 --> Could not find the language line "clients input city"
+ERROR - 2017-04-06 15:56:17 --> Could not find the language line "clients input state"
+ERROR - 2017-04-06 15:56:17 --> Could not find the language line "clients input phone1"
+ERROR - 2017-04-06 15:57:34 --> Could not find the language line "clients input name"
+ERROR - 2017-04-06 15:57:34 --> Could not find the language line "clients input city"
+ERROR - 2017-04-06 15:57:34 --> Could not find the language line "clients input state"
+ERROR - 2017-04-06 15:58:17 --> Could not find the language line "clients input name"
+ERROR - 2017-04-06 15:58:17 --> Could not find the language line "clients input city"
+ERROR - 2017-04-06 15:58:17 --> Could not find the language line "clients input state"
+ERROR - 2017-04-06 16:14:57 --> Severity: Notice --> Undefined index: status C:\wamp64\www\myopeneyes\application\controllers\admin\Clients.php 347
+ERROR - 2017-04-06 16:14:57 --> Severity: Notice --> Undefined index: status C:\wamp64\www\myopeneyes\application\controllers\admin\Clients.php 347
+ERROR - 2017-04-06 16:14:57 --> Severity: Notice --> Undefined index: status C:\wamp64\www\myopeneyes\application\controllers\admin\Clients.php 347
+ERROR - 2017-04-06 16:14:57 --> Severity: Notice --> Undefined index: status C:\wamp64\www\myopeneyes\application\controllers\admin\Clients.php 347
+ERROR - 2017-04-06 16:14:57 --> Severity: Notice --> Undefined index: status C:\wamp64\www\myopeneyes\application\controllers\admin\Clients.php 347
+ERROR - 2017-04-06 16:52:24 --> Query error: Unknown column 'id' in 'where clause' - Invalid query: 
+                UPDATE company
+                SET
+                    is_admin = '0',
+                    status = '0',
+                    deleted = '1',
+                    updated = '2017-04-06 16:52:24'
+                WHERE id = '6'
+                    AND id > 1
+            
+ERROR - 2017-04-06 16:53:52 --> Query error: Unknown column 'id' in 'where clause' - Invalid query: 
+                UPDATE company
+                SET
+                    is_admin = '0',
+                    status = '0',
+                    deleted = '1',
+                    updated = '2017-04-06 16:53:52'
+                WHERE id = '6'
+                    AND id > 1
+            
+ERROR - 2017-04-06 16:55:13 --> Query error: Unknown column 'id' in 'where clause' - Invalid query: 
+                UPDATE company
+                SET
+                    deleted = '1',
+                    updated = '2017-04-06 16:55:13'
+                WHERE id = '6'
+                    AND id > 1
+            
+ERROR - 2017-04-06 16:56:07 --> Could not find the language line "clients msg delete_company"
+ERROR - 2017-04-06 17:06:12 --> Could not find the language line "clients msg delete_company"
+ERROR - 2017-04-06 17:23:37 --> Could not find the language line "contact input created"
+ERROR - 2017-04-06 17:25:05 --> Could not find the language line "contact input created"
+ERROR - 2017-04-06 16:29:48 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:29:48 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:29:55 --> Could not find the language line "contact input created"
+ERROR - 2017-04-06 16:29:56 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:29:56 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:36:09 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:36:09 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:45:57 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:47:37 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:49:08 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:49:08 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:49:09 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:49:11 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:49:11 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:49:12 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:49:19 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:49:20 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:49:23 --> Could not find the language line "contact input created"
+ERROR - 2017-04-06 16:49:24 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:49:24 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:49:24 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:49:45 --> Could not find the language line "contact input created"
+ERROR - 2017-04-06 16:49:45 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:49:45 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:49:45 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:49:46 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:49:49 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:49:50 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:49:54 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:49:54 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:49:54 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:49:59 --> Could not find the language line "contact input created"
+ERROR - 2017-04-06 16:49:59 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:49:59 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:49:59 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:50:00 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:52:51 --> Could not find the language line "contact title messages_list"
+ERROR - 2017-04-06 17:52:51 --> Could not find the language line "contact input created"
+ERROR - 2017-04-06 16:52:52 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:52:52 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:52:52 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:56:10 --> Could not find the language line "contact title messages_list"
+ERROR - 2017-04-06 17:56:10 --> Could not find the language line "contact input created"
+ERROR - 2017-04-06 16:56:11 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:56:11 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 16:56:11 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 18:03:11 --> Could not find the language line "contact title messages_list"
+ERROR - 2017-04-06 18:03:11 --> Could not find the language line "contact input created"
+ERROR - 2017-04-06 17:03:11 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:03:11 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:03:12 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:03:23 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:03:23 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:03:23 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 18:06:24 --> Could not find the language line "contact title messages_list"
+ERROR - 2017-04-06 18:06:24 --> Could not find the language line "contact input created"
+ERROR - 2017-04-06 17:06:25 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:06:25 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:06:26 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:06:32 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:06:32 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:06:33 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 18:17:15 --> Could not find the language line "contact title messages_list"
+ERROR - 2017-04-06 18:17:15 --> Could not find the language line "contact input created"
+ERROR - 2017-04-06 17:17:15 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:17:15 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:17:16 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 18:19:15 --> Could not find the language line "contact title messages_list"
+ERROR - 2017-04-06 18:19:15 --> Could not find the language line "contact input created"
+ERROR - 2017-04-06 17:19:16 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:19:16 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:19:16 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 18:20:00 --> Could not find the language line "contact title messages_list"
+ERROR - 2017-04-06 17:20:01 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:20:01 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:20:01 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 18:21:07 --> Could not find the language line "contact title messages_list"
+ERROR - 2017-04-06 17:21:07 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:21:07 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:21:08 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 18:24:19 --> Could not find the language line "contact title messages_list"
+ERROR - 2017-04-06 17:24:19 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:24:20 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:25:43 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:25:44 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:31:45 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:31:45 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:31:45 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:33:01 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:33:01 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:40:14 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:40:14 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:40:14 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:41:33 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:41:33 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:41:33 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:41:36 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:41:36 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:41:36 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:43:43 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:43:46 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:43:47 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:44:01 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:44:02 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:44:03 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:44:04 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:47:23 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 17:59:53 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 18:38:24 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 18:38:41 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 18:52:32 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 18:56:32 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 18:57:17 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 18:59:31 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:01:05 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:01:34 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:02:12 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:02:31 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:04:42 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:05:03 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:05:12 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:07:26 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:08:04 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:08:17 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:08:32 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:09:23 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:09:37 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:09:54 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:10:21 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:10:29 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:11:09 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:11:51 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:12:01 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 20:12:45 --> Severity: Notice --> Undefined variable: client C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 82
+ERROR - 2017-04-06 20:12:45 --> Severity: Notice --> Undefined variable: client C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 83
+ERROR - 2017-04-06 19:12:46 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 20:13:17 --> Severity: Notice --> Undefined variable: client C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 83
+ERROR - 2017-04-06 19:13:18 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 20:13:38 --> Severity: Notice --> Undefined variable: client C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 83
+ERROR - 2017-04-06 19:13:38 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 20:14:20 --> Severity: Notice --> Undefined variable: client C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 83
+ERROR - 2017-04-06 19:14:21 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 20:15:09 --> Severity: Notice --> Undefined variable: client C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 83
+ERROR - 2017-04-06 19:15:10 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:16:01 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:16:11 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:16:37 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:16:41 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:17:53 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:21:06 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:21:36 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:21:41 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:23:16 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:23:42 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:24:23 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:24:27 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:26:15 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:26:35 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:26:44 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:27:18 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:27:22 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:28:08 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:28:12 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:29:25 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:30:30 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:31:22 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:31:55 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:33:28 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:45:09 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:50:29 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:51:03 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:51:18 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:52:26 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:52:45 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:53:09 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:53:25 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 19:53:32 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 20:48:45 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:02:00 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:02:09 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:03:05 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:06:05 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:07:25 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:08:16 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:10:03 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:10:33 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:11:56 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:12:25 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:15:19 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:15:28 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:15:38 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:15:50 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:16:14 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:17:35 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:18:33 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:18:47 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:18:58 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:22:27 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:23:15 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:23:24 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:23:51 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:24:57 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:26:35 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:27:51 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:28:52 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:33:50 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:33:58 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:34:02 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:45:36 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-06 22:49:21 --> 404 Page Not Found: Themes/admin

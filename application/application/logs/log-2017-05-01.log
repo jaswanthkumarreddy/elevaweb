@@ -1,0 +1,453 @@
+ERROR - 2017-05-01 13:54:34 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-01 14:55:20 --> Could not find the language line "users input is_active"
+ERROR - 2017-05-01 15:00:32 --> Could not find the language line "users input is_active"
+ERROR - 2017-05-01 15:08:26 --> Query error: Unknown column 'company_id' in 'order clause' - Invalid query: 
+            SELECT SQL_CALC_FOUND_ROWS *
+            FROM clients
+            WHERE deleted = '0'
+         ORDER BY company_id asc LIMIT 0, 10
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 96
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 116
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 117
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 96
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 116
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 117
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 96
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 116
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 117
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 96
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 116
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 117
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 96
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 116
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 117
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 96
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 116
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 117
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 167
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 167
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 172
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 179
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 167
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 167
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 172
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 179
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 167
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 167
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 172
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 179
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 167
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 167
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 172
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 179
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 167
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 167
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 172
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 179
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 167
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 167
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 172
+ERROR - 2017-05-01 15:09:05 --> Severity: Notice --> Undefined index: company_id C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 179
+ERROR - 2017-05-01 15:09:54 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 15:24:02 --> Severity: Notice --> Undefined variable: client_id C:\wamp64\www\myopeneyes\application\views\admin\clients\form.php 6
+ERROR - 2017-05-01 15:41:33 --> Severity: Notice --> Undefined variable: client_id C:\wamp64\www\myopeneyes\application\views\admin\clients\form.php 6
+ERROR - 2017-05-01 15:51:02 --> Could not find the language line "clients input company address"
+ERROR - 2017-05-01 15:57:16 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 15:57:16 --> Could not find the language line "clients input company state"
+ERROR - 2017-05-01 15:57:16 --> Could not find the language line "clients input company city"
+ERROR - 2017-05-01 15:57:16 --> Could not find the language line "clients input company state"
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: city C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 102
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: state C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 105
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 108
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: date_created C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 111
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: city C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 102
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: state C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 105
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 108
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: date_created C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 111
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: city C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 102
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: state C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 105
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 108
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: date_created C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 111
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: city C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 102
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: state C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 105
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 108
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: date_created C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 111
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: city C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 102
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: state C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 105
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 108
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: date_created C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 111
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: city C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 102
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: state C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 105
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 108
+ERROR - 2017-05-01 15:57:16 --> Severity: Notice --> Undefined index: date_created C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 111
+ERROR - 2017-05-01 15:59:14 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 16:09:39 --> Query error: Table 'myopeneyes.company' doesn't exist - Invalid query: 
+            SELECT SQL_CALC_FOUND_ROWS j.* , c.name as 'company_name'
+            FROM joborder as j LEFT JOIN company as c ON 
+			j.company_id = c.company_id 
+            WHERE c.deleted = '0'
+         ORDER BY joborder_id asc LIMIT 0, 10
+ERROR - 2017-05-01 16:12:50 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 16:12:50 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 16:12:50 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 16:22:25 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 16:22:25 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 16:22:25 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 16:24:22 --> Could not find the language line "clients error name_exists"
+ERROR - 2017-05-01 16:26:32 --> Could not find the language line "clients error name_exists"
+ERROR - 2017-05-01 16:28:14 --> Could not find the language line "clients error name_exists"
+ERROR - 2017-05-01 16:29:11 --> Could not find the language line "clients error name_exists"
+ERROR - 2017-05-01 16:30:04 --> Could not find the language line "clients error name_exists"
+ERROR - 2017-05-01 16:30:06 --> Could not find the language line "clients error name_exists"
+ERROR - 2017-05-01 16:30:31 --> Could not find the language line "clients error name_exists"
+ERROR - 2017-05-01 16:30:34 --> Could not find the language line "clients error name_exists"
+ERROR - 2017-05-01 16:31:52 --> Could not find the language line "clients error name_exists"
+ERROR - 2017-05-01 16:34:10 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 16:34:10 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 16:34:10 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 16:34:39 --> Severity: Notice --> Undefined variable: client_id C:\wamp64\www\myopeneyes\application\views\admin\clients\form.php 5
+ERROR - 2017-05-01 16:34:39 --> Severity: Notice --> Undefined index: candidate_id C:\wamp64\www\myopeneyes\application\views\admin\clients\form.php 69
+ERROR - 2017-05-01 16:35:18 --> Severity: Notice --> Undefined variable: client_id C:\wamp64\www\myopeneyes\application\views\admin\clients\form.php 5
+ERROR - 2017-05-01 16:35:18 --> Severity: Notice --> Undefined index: candidate_id C:\wamp64\www\myopeneyes\application\views\admin\clients\form.php 69
+ERROR - 2017-05-01 16:48:31 --> Severity: Notice --> Undefined variable: client_id C:\wamp64\www\myopeneyes\application\views\admin\clients\form.php 5
+ERROR - 2017-05-01 16:48:31 --> Severity: Notice --> Undefined index: candidate_id C:\wamp64\www\myopeneyes\application\views\admin\clients\form.php 69
+ERROR - 2017-05-01 16:49:32 --> Severity: Notice --> Undefined index: candidate_id C:\wamp64\www\myopeneyes\application\views\admin\clients\form.php 69
+ERROR - 2017-05-01 17:01:42 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 1' at line 1 - Invalid query: SELECT * FROM clients WHERE client_id = '1' DESC LIMIT 1
+ERROR - 2017-05-01 17:02:48 --> Could not find the language line "users input is_active"
+ERROR - 2017-05-01 17:03:48 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 1' at line 1 - Invalid query: SELECT * FROM clients WHERE client_id = '1' DESC LIMIT 1
+ERROR - 2017-05-01 17:18:09 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 17:18:09 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:18:09 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:18:19 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\models\Clients_model.php 173
+ERROR - 2017-05-01 17:18:19 --> Severity: Notice --> Undefined variable: up_data C:\wamp64\www\myopeneyes\application\models\Clients_model.php 174
+ERROR - 2017-05-01 17:18:54 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\models\Clients_model.php 173
+ERROR - 2017-05-01 17:18:54 --> Severity: Notice --> Undefined variable: up_data C:\wamp64\www\myopeneyes\application\models\Clients_model.php 174
+ERROR - 2017-05-01 17:19:19 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\models\Clients_model.php 173
+ERROR - 2017-05-01 17:19:20 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 17:19:20 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:19:20 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:19:32 --> Severity: Notice --> Undefined index: default_company C:\wamp64\www\myopeneyes\application\models\Clients_model.php 168
+ERROR - 2017-05-01 17:19:32 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\models\Clients_model.php 173
+ERROR - 2017-05-01 17:19:32 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 17:19:32 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:19:32 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:19:51 --> Severity: Notice --> Undefined index: default_company C:\wamp64\www\myopeneyes\application\models\Clients_model.php 168
+ERROR - 2017-05-01 17:19:51 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 17:19:51 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:19:51 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:20:16 --> Severity: Notice --> Undefined index: default_company C:\wamp64\www\myopeneyes\application\models\Clients_model.php 168
+ERROR - 2017-05-01 17:20:16 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 17:20:16 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:20:16 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:20:40 --> Severity: Notice --> Undefined index: default_company C:\wamp64\www\myopeneyes\application\models\Clients_model.php 168
+ERROR - 2017-05-01 17:20:40 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 17:20:40 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:20:40 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:21:18 --> Severity: Notice --> Undefined index: is_hot C:\wamp64\www\myopeneyes\application\models\Clients_model.php 159
+ERROR - 2017-05-01 17:21:18 --> Severity: Notice --> Undefined index: default_company C:\wamp64\www\myopeneyes\application\models\Clients_model.php 168
+ERROR - 2017-05-01 17:21:18 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 17:21:18 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:21:18 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:27:38 --> Severity: Notice --> Undefined index: is_hot C:\wamp64\www\myopeneyes\application\models\Clients_model.php 159
+ERROR - 2017-05-01 17:27:38 --> Severity: Notice --> Undefined index: default_company C:\wamp64\www\myopeneyes\application\models\Clients_model.php 168
+ERROR - 2017-05-01 17:27:38 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 17:27:38 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:27:38 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:31:43 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 17:31:43 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:31:43 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:32:13 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 17:32:13 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:32:13 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:32:31 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 17:32:31 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:32:31 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:33:09 --> Query error: Unknown column 'date_modified' in 'field list' - Invalid query: 
+                UPDATE clients
+                SET
+                    deleted = '1',
+                    date_modified = '2017-05-01 17:33:09'
+                WHERE client_id = '1'
+                    AND client_id > 1
+            
+ERROR - 2017-05-01 17:33:29 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 17:33:29 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:33:29 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:37:29 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 17:37:29 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:37:29 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:37:44 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 17:37:44 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:37:44 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:47:12 --> Could not find the language line "users input phone no work"
+ERROR - 2017-05-01 17:52:27 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 17:52:27 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:52:27 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:52:34 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 17:52:34 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:52:34 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:55:14 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 17:55:14 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:55:14 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:55:53 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 17:55:53 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 17:55:53 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 18:00:46 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:00:46 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 18:00:46 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 18:01:47 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:01:47 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 18:01:47 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 18:03:10 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:03:10 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 18:09:38 --> Could not find the language line "users input is_active"
+ERROR - 2017-05-01 18:09:53 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:09:53 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 18:18:53 --> Severity: Notice --> Undefined index: client_id C:\wamp64\www\myopeneyes\application\models\Industries_model.php 252
+ERROR - 2017-05-01 18:18:53 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\models\Industries_model.php 252
+ERROR - 2017-05-01 18:18:53 --> Severity: Notice --> Undefined index: client_id C:\wamp64\www\myopeneyes\application\models\Industries_model.php 252
+ERROR - 2017-05-01 18:18:53 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\models\Industries_model.php 252
+ERROR - 2017-05-01 18:18:53 --> Severity: Notice --> Undefined index: client_id C:\wamp64\www\myopeneyes\application\models\Industries_model.php 252
+ERROR - 2017-05-01 18:18:53 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\models\Industries_model.php 252
+ERROR - 2017-05-01 18:18:53 --> Severity: Notice --> Undefined index: client_id C:\wamp64\www\myopeneyes\application\models\Industries_model.php 252
+ERROR - 2017-05-01 18:18:53 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\models\Industries_model.php 252
+ERROR - 2017-05-01 18:18:53 --> Severity: Notice --> Undefined index: client_id C:\wamp64\www\myopeneyes\application\models\Industries_model.php 252
+ERROR - 2017-05-01 18:18:53 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\models\Industries_model.php 252
+ERROR - 2017-05-01 18:18:53 --> Severity: Notice --> Undefined index: client_id C:\wamp64\www\myopeneyes\application\models\Industries_model.php 252
+ERROR - 2017-05-01 18:18:53 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\models\Industries_model.php 252
+ERROR - 2017-05-01 18:18:53 --> Severity: Notice --> Undefined index: client_id C:\wamp64\www\myopeneyes\application\models\Industries_model.php 252
+ERROR - 2017-05-01 18:18:53 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\models\Industries_model.php 252
+ERROR - 2017-05-01 18:18:53 --> Severity: Notice --> Undefined index: client_id C:\wamp64\www\myopeneyes\application\models\Industries_model.php 252
+ERROR - 2017-05-01 18:18:53 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\models\Industries_model.php 252
+ERROR - 2017-05-01 18:18:53 --> Severity: Notice --> Undefined index: client_id C:\wamp64\www\myopeneyes\application\models\Industries_model.php 252
+ERROR - 2017-05-01 18:18:53 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\models\Industries_model.php 252
+ERROR - 2017-05-01 18:18:53 --> Severity: Notice --> Undefined index: client_id C:\wamp64\www\myopeneyes\application\models\Industries_model.php 252
+ERROR - 2017-05-01 18:18:53 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\models\Industries_model.php 252
+ERROR - 2017-05-01 18:21:06 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:21:06 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 18:21:08 --> Severity: Notice --> Undefined variable: industriesDropDown C:\wamp64\www\myopeneyes\application\views\admin\clients\form.php 40
+ERROR - 2017-05-01 18:22:23 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:22:23 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 18:22:45 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:22:45 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 18:23:03 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:23:03 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 18:23:25 --> Could not find the language line "users input is_active"
+ERROR - 2017-05-01 18:24:05 --> Could not find the language line "users input status"
+ERROR - 2017-05-01 18:26:04 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:26:04 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 18:26:06 --> Could not find the language line "users input is_active"
+ERROR - 2017-05-01 18:32:15 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:32:15 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 18:32:21 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:32:21 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 18:32:36 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:32:36 --> Could not find the language line "clients input client date created"
+ERROR - 2017-05-01 18:37:31 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:38:22 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:38:27 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:41:12 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:41:16 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:41:23 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:41:27 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:41:30 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:44:54 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'I.industrie_id = C.industrie_id 
+            WHERE deleted = '0'
+         ORDER ' at line 3 - Invalid query: 
+            SELECT SQL_CALC_FOUND_ROWS * , I.title as title
+            FROM clients as C LEFT JOIN industries as I
+			I.industrie_id = C.industrie_id 
+            WHERE deleted = '0'
+         ORDER BY client_id asc LIMIT 0, 10
+ERROR - 2017-05-01 18:45:14 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:45:14 --> Severity: Notice --> Undefined index: industries C:\wamp64\www\myopeneyes\application\views\admin\clients\list.php 110
+ERROR - 2017-05-01 18:45:33 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:47:19 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 18:59:23 --> Could not find the language line "users input status"
+ERROR - 2017-05-01 19:07:43 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 19:20:20 --> Query error: Unknown column 'created' in 'order clause' - Invalid query: 
+            SELECT SQL_CALC_FOUND_ROWS * , I.title as title
+            FROM clients as C LEFT JOIN industries as I ON
+			I.industrie_id = C.industrie_id 
+            WHERE deleted = '0'
+         ORDER BY created desc LIMIT 0, 10
+ERROR - 2017-05-01 18:25:05 --> 404 Page Not Found: admin/Contact/index
+ERROR - 2017-05-01 18:26:50 --> 404 Page Not Found: admin/Contact/index
+ERROR - 2017-05-01 18:26:55 --> 404 Page Not Found: admin/Contact/index
+ERROR - 2017-05-01 19:27:09 --> Severity: Warning --> include(C:\wamp64\www\myopeneyes\system\language/english/contacts_lang.php): failed to open stream: No such file or directory C:\wamp64\www\myopeneyes\application\core\MY_Lang.php 112
+ERROR - 2017-05-01 19:27:09 --> Severity: Warning --> include(): Failed opening 'C:\wamp64\www\myopeneyes\system\language/english/contacts_lang.php' for inclusion (include_path='.;C:\php\pear') C:\wamp64\www\myopeneyes\application\core\MY_Lang.php 112
+ERROR - 2017-05-01 19:27:09 --> Language file contains no data: language/english/contacts_lang.php
+ERROR - 2017-05-01 19:27:09 --> Query error: Unknown column 'contact_id' in 'order clause' - Invalid query: 
+            SELECT SQL_CALC_FOUND_ROWS * , I.title as title
+            FROM clients as C LEFT JOIN industries as I ON
+			I.industrie_id = C.industrie_id 
+            WHERE deleted = '0'
+         ORDER BY contact_id asc LIMIT 0, 10
+ERROR - 2017-05-01 19:28:15 --> Query error: Unknown column 'contact_id' in 'order clause' - Invalid query: 
+            SELECT SQL_CALC_FOUND_ROWS * , I.title as title
+            FROM clients as C LEFT JOIN industries as I ON
+			I.industrie_id = C.industrie_id 
+            WHERE deleted = '0'
+         ORDER BY contact_id asc LIMIT 0, 10
+ERROR - 2017-05-01 19:29:22 --> Severity: error --> Exception: Unable to locate the model you have specified: Contacts_model C:\wamp64\www\myopeneyes\system\core\Loader.php 344
+ERROR - 2017-05-01 19:30:00 --> Severity: error --> Exception: C:\wamp64\www\myopeneyes\application\models/Contacts_model.php exists, but doesn't declare class Contacts_model C:\wamp64\www\myopeneyes\system\core\Loader.php 336
+ERROR - 2017-05-01 19:30:18 --> Severity: error --> Exception: C:\wamp64\www\myopeneyes\application\models/Contacts_model.php exists, but doesn't declare class Contacts_model C:\wamp64\www\myopeneyes\system\core\Loader.php 336
+ERROR - 2017-05-01 19:32:07 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-01 19:33:44 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-01 18:33:49 --> 404 Page Not Found: admin/Contact/index
+ERROR - 2017-05-01 19:34:42 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-01 18:34:45 --> 404 Page Not Found: admin/Contact/index
+ERROR - 2017-05-01 19:35:03 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-01 19:35:05 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-01 19:35:08 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-01 19:38:51 --> Severity: Notice --> Undefined variable: contact_id C:\wamp64\www\myopeneyes\application\views\admin\contacts\form.php 6
+ERROR - 2017-05-01 19:38:57 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-01 19:38:57 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 99
+ERROR - 2017-05-01 19:38:57 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 99
+ERROR - 2017-05-01 19:38:57 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 99
+ERROR - 2017-05-01 19:38:57 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 99
+ERROR - 2017-05-01 19:38:57 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 99
+ERROR - 2017-05-01 19:38:57 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 99
+ERROR - 2017-05-01 19:38:57 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 175
+ERROR - 2017-05-01 19:38:57 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 175
+ERROR - 2017-05-01 19:38:57 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 175
+ERROR - 2017-05-01 19:38:57 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 175
+ERROR - 2017-05-01 19:38:57 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 175
+ERROR - 2017-05-01 19:38:57 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 175
+ERROR - 2017-05-01 20:12:27 --> Severity: Notice --> Undefined variable: contact_id C:\wamp64\www\myopeneyes\application\views\admin\contacts\form.php 6
+ERROR - 2017-05-01 20:21:13 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 99
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 108
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: date_created C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 111
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 99
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 108
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: date_created C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 111
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 99
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 108
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: date_created C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 111
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 99
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 108
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: date_created C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 111
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 99
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 108
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: date_created C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 111
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 99
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 108
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: date_created C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 111
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 175
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 175
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 175
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 175
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 175
+ERROR - 2017-05-01 20:21:13 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 175
+ERROR - 2017-05-01 20:30:37 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 90
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 99
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: date_created C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 102
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 90
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 99
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: date_created C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 102
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 90
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 99
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: date_created C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 102
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 90
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 99
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: date_created C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 102
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 90
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 99
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: date_created C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 102
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 90
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 99
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: date_created C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 102
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 166
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 166
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 166
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 166
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 166
+ERROR - 2017-05-01 20:30:37 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 166
+ERROR - 2017-05-01 20:31:36 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-01 20:31:36 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-01 20:31:36 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-01 20:31:36 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-01 20:31:36 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-01 20:31:36 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-01 20:31:36 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-01 20:31:47 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 20:31:47 --> Severity: Notice --> Undefined variable: contact_id C:\wamp64\www\myopeneyes\application\views\admin\contacts\form.php 6
+ERROR - 2017-05-01 20:31:47 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 20:32:34 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 20:32:34 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 20:32:44 --> Could not find the language line "users input status"
+ERROR - 2017-05-01 20:35:29 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 20:37:06 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 20:37:43 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 20:39:10 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 20:39:10 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-01 20:39:34 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 20:39:34 --> Could not find the language line "contacts col title"
+ERROR - 2017-05-01 20:40:03 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 20:40:33 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 20:42:22 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 20:47:05 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 20:47:05 --> Could not find the language line "contacts input company key technologies"
+ERROR - 2017-05-01 20:47:05 --> Could not find the language line "contacts input company hot company"
+ERROR - 2017-05-01 20:47:05 --> Could not find the language line "contacts input company misc. notes"
+ERROR - 2017-05-01 20:50:03 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 20:50:03 --> Could not find the language line "contacts input company key technologies"
+ERROR - 2017-05-01 20:50:03 --> Could not find the language line "contacts input company hot company"
+ERROR - 2017-05-01 20:50:03 --> Could not find the language line "contacts input company misc. notes"
+ERROR - 2017-05-01 20:51:07 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 20:52:07 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 20:52:07 --> Could not find the language line "clients input client default_company"
+ERROR - 2017-05-01 20:52:07 --> Could not find the language line "clients input client hot client"
+ERROR - 2017-05-01 20:52:07 --> Could not find the language line "clients input is_active"
+ERROR - 2017-05-01 20:53:30 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 20:53:30 --> Could not find the language line "clients input client hot client"
+ERROR - 2017-05-01 20:53:30 --> Could not find the language line "clients input is_active"
+ERROR - 2017-05-01 20:55:04 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 20:55:24 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 21:53:26 --> Could not find the language line "users input status"
+ERROR - 2017-05-01 21:55:33 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 22:01:31 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 22:01:31 --> Severity: Notice --> Undefined property: Contacts::$users_model C:\wamp64\www\myopeneyes\application\controllers\admin\Contacts.php 239
+ERROR - 2017-05-01 22:01:31 --> Severity: Error --> Call to a member function usersDropDownList() on null C:\wamp64\www\myopeneyes\application\controllers\admin\Contacts.php 239
+ERROR - 2017-05-01 22:02:10 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 22:03:23 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 22:03:57 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 22:10:53 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 22:11:11 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 22:23:30 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 22:29:40 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 22:30:07 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 22:30:35 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 22:31:21 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 22:32:43 --> Could not find the language line "users input status"
+ERROR - 2017-05-01 22:32:49 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-01 22:32:59 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-01 22:32:59 --> Could not find the language line "contacts input company state"
+ERROR - 2017-05-01 22:32:59 --> Could not find the language line "contacts input company state"
+ERROR - 2017-05-01 22:32:59 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-01 22:32:59 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-01 22:32:59 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-01 22:32:59 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-01 22:32:59 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-01 22:32:59 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\contacts\list.php 165
+ERROR - 2017-05-01 22:33:02 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 22:33:29 --> Query error: Table 'myopeneyes.company' doesn't exist - Invalid query: 
+            SELECT SQL_CALC_FOUND_ROWS j.* , c.name as 'company_name'
+            FROM joborder as j LEFT JOIN company as c ON 
+			j.company_id = c.company_id 
+            WHERE c.deleted = '0'
+         ORDER BY joborder_id asc LIMIT 0, 10
+ERROR - 2017-05-01 22:33:32 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 22:46:05 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 22:46:05 --> Severity: Notice --> Use of undefined constant client_id - assumed 'client_id' C:\wamp64\www\myopeneyes\application\views\admin\contacts\form.php 13
+ERROR - 2017-05-01 22:46:05 --> Could not find the language line "contacts input client_id"
+ERROR - 2017-05-01 22:46:20 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 22:46:20 --> Severity: Notice --> Use of undefined constant client_id - assumed 'client_id' C:\wamp64\www\myopeneyes\application\views\admin\contacts\form.php 13
+ERROR - 2017-05-01 22:46:38 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 22:46:38 --> Severity: Notice --> Use of undefined constant client_id - assumed 'client_id' C:\wamp64\www\myopeneyes\application\views\admin\contacts\form.php 13
+ERROR - 2017-05-01 22:46:49 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 22:46:50 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 22:47:24 --> Could not find the language line "contacts input company name"
+ERROR - 2017-05-01 22:48:14 --> Could not find the language line "contacts input company name"

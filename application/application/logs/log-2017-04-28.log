@@ -1,0 +1,352 @@
+ERROR - 2017-04-28 14:20:00 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 85
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: status C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 97
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: is_admin C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 100
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 107
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 113
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 85
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: status C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 97
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: is_admin C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 100
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 107
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 113
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 85
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: status C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 97
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: is_admin C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 100
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 107
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 113
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 85
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: status C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 97
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: is_admin C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 100
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 107
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 113
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 85
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: status C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 97
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: is_admin C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 100
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 107
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 113
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 166
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 166
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 171
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 178
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 166
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 166
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 171
+ERROR - 2017-04-28 16:02:31 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 178
+ERROR - 2017-04-28 16:02:32 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 166
+ERROR - 2017-04-28 16:02:32 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 166
+ERROR - 2017-04-28 16:02:32 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 171
+ERROR - 2017-04-28 16:02:32 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 178
+ERROR - 2017-04-28 16:02:32 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 166
+ERROR - 2017-04-28 16:02:32 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 166
+ERROR - 2017-04-28 16:02:32 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 171
+ERROR - 2017-04-28 16:02:32 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 178
+ERROR - 2017-04-28 16:02:32 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 166
+ERROR - 2017-04-28 16:02:32 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 166
+ERROR - 2017-04-28 16:02:32 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 171
+ERROR - 2017-04-28 16:02:32 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 178
+ERROR - 2017-04-28 16:06:51 --> Severity: Notice --> Undefined index: status C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 97
+ERROR - 2017-04-28 16:06:51 --> Severity: Notice --> Undefined index: is_admin C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 100
+ERROR - 2017-04-28 16:06:51 --> Severity: Notice --> Undefined index: status C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 97
+ERROR - 2017-04-28 16:06:51 --> Severity: Notice --> Undefined index: is_admin C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 100
+ERROR - 2017-04-28 16:06:51 --> Severity: Notice --> Undefined index: status C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 97
+ERROR - 2017-04-28 16:06:51 --> Severity: Notice --> Undefined index: is_admin C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 100
+ERROR - 2017-04-28 16:06:51 --> Severity: Notice --> Undefined index: status C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 97
+ERROR - 2017-04-28 16:06:51 --> Severity: Notice --> Undefined index: is_admin C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 100
+ERROR - 2017-04-28 16:06:51 --> Severity: Notice --> Undefined index: status C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 97
+ERROR - 2017-04-28 16:06:51 --> Severity: Notice --> Undefined index: is_admin C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 100
+ERROR - 2017-04-28 16:09:13 --> Severity: Notice --> Undefined index: is_admin C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 100
+ERROR - 2017-04-28 16:09:13 --> Severity: Notice --> Undefined index: is_admin C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 100
+ERROR - 2017-04-28 16:09:13 --> Severity: Notice --> Undefined index: is_admin C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 100
+ERROR - 2017-04-28 16:09:13 --> Severity: Notice --> Undefined index: is_admin C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 100
+ERROR - 2017-04-28 16:09:13 --> Severity: Notice --> Undefined index: is_admin C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 100
+ERROR - 2017-04-28 16:20:38 --> Could not find the language line "users col mobile_no"
+ERROR - 2017-04-28 16:20:38 --> Could not find the language line "users input email_id"
+ERROR - 2017-04-28 16:21:22 --> Could not find the language line "users col mobile_no"
+ERROR - 2017-04-28 16:21:22 --> Could not find the language line "users input users input email"
+ERROR - 2017-04-28 16:21:46 --> Could not find the language line "users col mobile_no"
+ERROR - 2017-04-28 16:21:46 --> Could not find the language line "users input users input email"
+ERROR - 2017-04-28 16:22:21 --> Could not find the language line "users col mobile_no"
+ERROR - 2017-04-28 16:22:21 --> Could not find the language line "users input users input email"
+ERROR - 2017-04-28 16:22:38 --> Could not find the language line "users col mobile_no"
+ERROR - 2017-04-28 16:22:38 --> Could not find the language line "users input users input email"
+ERROR - 2017-04-28 16:23:03 --> Could not find the language line "users col mobile_no"
+ERROR - 2017-04-28 16:23:03 --> Could not find the language line "users input   email"
+ERROR - 2017-04-28 16:23:17 --> Could not find the language line "users col mobile_no"
+ERROR - 2017-04-28 18:15:25 --> Severity: Parsing Error --> syntax error, unexpected '{' C:\wamp64\www\myopeneyes\application\models\Users_model.php 141
+ERROR - 2017-04-28 18:16:53 --> Query error: Unknown column 'id' in 'field list' - Invalid query: 
+                SELECT
+                    id,
+                    username,
+                    password,
+                    salt,
+                    first_name,
+                    last_name,
+                    email_id,
+                    language,
+                    is_admin,
+                    status,
+                    created,
+                    updated,
+					access_level_id
+                FROM users
+                WHERE (username = 'admin'
+                        OR email_id = 'admin')
+                    AND status = '1'
+                    AND deleted = '0'
+                LIMIT 1
+            
+ERROR - 2017-04-28 18:21:43 --> Severity: Notice --> Undefined index: is_admin C:\wamp64\www\myopeneyes\application\controllers\admin\User.php 66
+ERROR - 2017-04-28 18:21:44 --> Severity: Notice --> Undefined index: is_admin C:\wamp64\www\myopeneyes\htdocs\themes\default\template.php 58
+ERROR - 2017-04-28 18:25:27 --> Severity: Notice --> Undefined index: is_admin C:\wamp64\www\myopeneyes\htdocs\themes\default\template.php 58
+ERROR - 2017-04-28 17:25:51 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-28 18:25:55 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 18:27:22 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 18:27:39 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 18:31:56 --> Query error: Unknown column 'id' in 'field list' - Invalid query: 
+            SELECT id
+            FROM users
+            WHERE username = 'test'
+            LIMIT 1
+        
+ERROR - 2017-04-28 18:32:01 --> Query error: Unknown column 'id' in 'field list' - Invalid query: 
+            SELECT id
+            FROM users
+            WHERE email_id = 'test@gmail.com'
+            LIMIT 1
+        
+ERROR - 2017-04-28 18:32:31 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-28 18:32:31 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-28 18:32:33 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-28 18:32:33 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-28 18:32:33 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-28 18:32:33 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-28 18:32:33 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-28 18:32:33 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-28 18:32:33 --> Query error: Unknown column 'id' in 'order clause' - Invalid query: SELECT *
+FROM `users`
+ORDER BY `id`
+ERROR - 2017-04-28 18:32:42 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-28 18:32:42 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-28 18:34:21 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 18:35:36 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 18:36:08 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 18:36:35 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 18:39:13 --> Query error: Unknown column 'id' in 'field list' - Invalid query: 
+            SELECT id
+            FROM users
+            WHERE username = 'test'
+            LIMIT 1
+        
+ERROR - 2017-04-28 18:39:17 --> Query error: Unknown column 'id' in 'field list' - Invalid query: 
+            SELECT id
+            FROM users
+            WHERE email_id = 'test@gmail.com'
+            LIMIT 1
+        
+ERROR - 2017-04-28 18:39:19 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 18:40:33 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 18:42:05 --> Query error: Table 'myopeneyes.{$this->_db}' doesn't exist - Invalid query: INSERT INTO `{$this->_db}` (`client_id`, `username`, `first_name`, `last_name`, `email_id`, `phone_no_work`, `phone_no`, `mobile_no`, `password`, `salt`, `activation_code`, `registration_date`, `ip_address`, `note`, `user_type_id`, `created_by`, `created_on`, `is_active`, `access_level_id`) VALUES ('\'3\'', '\'test\'', '\'test\'', '\'test\'', '\'test@gmail.com\'', '\'123456789\'', '\'369258147\'', '\'1234569870\'', '\'7b5b2a3ac5a942020c189bedb64dbb1b0af175aa7c278ab380ba41a6c180ce92853d3aa154ead84101a70fec8efe51157b51f8068cda73063592be43030db8d2\'', '\'5cbf5690e5a22f631eab3364f06ba97b9bc61aff786b708e77ddb3118308436a743ef280c9fe02204e1f38250135b648b2f6377e9bf10bdcb16b89ee0225e83e\'', '\'123456\'', '\'2017-04-29\'', '::1', '\'Test users\'', '\'3\'', '1', '2017-04-28 18:42:05', '\'1\'', '\'2\'')
+ERROR - 2017-04-28 18:42:53 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 18:42:58 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 18:44:18 --> Query error: Unknown column 'id' in 'field list' - Invalid query: 
+            SELECT id
+            FROM users
+            WHERE username = 'test'
+            LIMIT 1
+        
+ERROR - 2017-04-28 18:44:20 --> Query error: Unknown column 'id' in 'field list' - Invalid query: 
+            SELECT id
+            FROM users
+            WHERE email_id = 'test@gmail.com'
+            LIMIT 1
+        
+ERROR - 2017-04-28 18:49:14 --> Severity: Parsing Error --> syntax error, unexpected ',' C:\wamp64\www\myopeneyes\application\models\Users_model.php 132
+ERROR - 2017-04-28 18:49:36 --> Severity: Parsing Error --> syntax error, unexpected '=>' (T_DOUBLE_ARROW) C:\wamp64\www\myopeneyes\application\models\Users_model.php 137
+ERROR - 2017-04-28 18:59:16 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 18:59:27 --> Query error: Unknown column 'id' in 'field list' - Invalid query: 
+            SELECT id
+            FROM users
+            WHERE username = 'test'
+            LIMIT 1
+        
+ERROR - 2017-04-28 18:59:30 --> Query error: Unknown column 'id' in 'field list' - Invalid query: 
+            SELECT id
+            FROM users
+            WHERE email_id = 'test@gmail.com'
+            LIMIT 1
+        
+ERROR - 2017-04-28 19:00:19 --> Query error: Unknown column 'id' in 'where clause' - Invalid query: 
+                SELECT *
+                FROM users
+                WHERE id = '11'
+                    AND deleted = '0'
+            
+ERROR - 2017-04-28 19:01:18 --> Severity: Notice --> Undefined index: email C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 321
+ERROR - 2017-04-28 19:01:18 --> Severity: 4096 --> Object of class Users could not be converted to string C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 355
+ERROR - 2017-04-28 19:01:18 --> Severity: Notice --> Object of class Users to string conversion C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 355
+ERROR - 2017-04-28 19:01:18 --> Severity: Notice --> Undefined property: Users::$Object C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 355
+ERROR - 2017-04-28 19:01:19 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php:355) C:\wamp64\www\myopeneyes\system\core\Common.php 578
+ERROR - 2017-04-28 19:01:19 --> Severity: Error --> Call to a member function set_title() on null C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 355
+ERROR - 2017-04-28 19:04:46 --> Severity: Notice --> Undefined index: email C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 321
+ERROR - 2017-04-28 19:04:46 --> Severity: 4096 --> Object of class Users could not be converted to string C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 355
+ERROR - 2017-04-28 19:04:46 --> Severity: Notice --> Object of class Users to string conversion C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 355
+ERROR - 2017-04-28 19:04:46 --> Severity: Notice --> Undefined property: Users::$Object C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 355
+ERROR - 2017-04-28 19:04:46 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php:355) C:\wamp64\www\myopeneyes\system\core\Common.php 578
+ERROR - 2017-04-28 19:04:46 --> Severity: Error --> Call to a member function set_title() on null C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 355
+ERROR - 2017-04-28 19:08:29 --> Severity: Notice --> Undefined index: email C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 312
+ERROR - 2017-04-28 19:08:29 --> Severity: 4096 --> Object of class Users could not be converted to string C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 334
+ERROR - 2017-04-28 19:08:29 --> Severity: Notice --> Object of class Users to string conversion C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 334
+ERROR - 2017-04-28 19:08:29 --> Severity: Notice --> Undefined property: Users::$Object C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 334
+ERROR - 2017-04-28 19:08:29 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php:334) C:\wamp64\www\myopeneyes\system\core\Common.php 578
+ERROR - 2017-04-28 19:08:29 --> Severity: Error --> Call to a member function set_title() on null C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 334
+ERROR - 2017-04-28 19:09:03 --> Severity: 4096 --> Object of class Users could not be converted to string C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 334
+ERROR - 2017-04-28 19:09:03 --> Severity: Notice --> Object of class Users to string conversion C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 334
+ERROR - 2017-04-28 19:09:03 --> Severity: Notice --> Undefined property: Users::$Object C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 334
+ERROR - 2017-04-28 19:09:03 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php:334) C:\wamp64\www\myopeneyes\system\core\Common.php 578
+ERROR - 2017-04-28 19:09:03 --> Severity: Error --> Call to a member function set_title() on null C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 334
+ERROR - 2017-04-28 19:10:01 --> Severity: 4096 --> Object of class Users could not be converted to string C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 336
+ERROR - 2017-04-28 19:10:01 --> Severity: Notice --> Object of class Users to string conversion C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 336
+ERROR - 2017-04-28 19:10:01 --> Severity: Notice --> Undefined property: Users::$Object C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 336
+ERROR - 2017-04-28 19:10:01 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php:336) C:\wamp64\www\myopeneyes\system\core\Common.php 578
+ERROR - 2017-04-28 19:10:01 --> Severity: Error --> Call to a member function set_title() on null C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 336
+ERROR - 2017-04-28 19:18:55 --> Severity: 4096 --> Object of class Users could not be converted to string C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 338
+ERROR - 2017-04-28 19:18:55 --> Severity: Notice --> Object of class Users to string conversion C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 338
+ERROR - 2017-04-28 19:18:55 --> Severity: Notice --> Undefined property: Users::$Object C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 338
+ERROR - 2017-04-28 19:18:55 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php:338) C:\wamp64\www\myopeneyes\system\core\Common.php 578
+ERROR - 2017-04-28 19:18:55 --> Severity: Error --> Call to a member function set_title() on null C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 338
+ERROR - 2017-04-28 19:19:10 --> Severity: 4096 --> Object of class Users could not be converted to string C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 338
+ERROR - 2017-04-28 19:19:10 --> Severity: Notice --> Object of class Users to string conversion C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 338
+ERROR - 2017-04-28 19:19:10 --> Severity: Notice --> Undefined property: Users::$Object C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 338
+ERROR - 2017-04-28 19:19:10 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php:338) C:\wamp64\www\myopeneyes\system\core\Common.php 578
+ERROR - 2017-04-28 19:19:10 --> Severity: Error --> Call to a member function set_title() on null C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 338
+ERROR - 2017-04-28 19:19:18 --> Severity: 4096 --> Object of class Users could not be converted to string C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 338
+ERROR - 2017-04-28 19:19:18 --> Severity: Notice --> Object of class Users to string conversion C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 338
+ERROR - 2017-04-28 19:19:18 --> Severity: Notice --> Undefined property: Users::$Object C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 338
+ERROR - 2017-04-28 19:19:19 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php:338) C:\wamp64\www\myopeneyes\system\core\Common.php 578
+ERROR - 2017-04-28 19:19:19 --> Severity: Error --> Call to a member function set_title() on null C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 338
+ERROR - 2017-04-28 19:19:37 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 19:19:37 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\form.php 146
+ERROR - 2017-04-28 19:19:37 --> Severity: Notice --> Undefined variable: page_title C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 6
+ERROR - 2017-04-28 19:19:37 --> Severity: Notice --> Undefined variable: page_header C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 92
+ERROR - 2017-04-28 19:19:41 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 19:19:41 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\form.php 146
+ERROR - 2017-04-28 19:19:41 --> Severity: Notice --> Undefined variable: page_title C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 6
+ERROR - 2017-04-28 19:19:41 --> Severity: Notice --> Undefined variable: page_header C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 92
+ERROR - 2017-04-28 19:19:46 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 19:19:46 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\form.php 146
+ERROR - 2017-04-28 19:19:46 --> Severity: Notice --> Undefined variable: page_title C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 6
+ERROR - 2017-04-28 19:19:46 --> Severity: Notice --> Undefined variable: page_header C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 92
+ERROR - 2017-04-28 19:20:12 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 19:20:12 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\form.php 146
+ERROR - 2017-04-28 19:20:33 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 19:20:33 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\views\admin\users\form.php 146
+ERROR - 2017-04-28 19:21:31 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 19:44:07 --> Query error: Unknown column 'id' in 'field list' - Invalid query: 
+            SELECT id
+            FROM users
+            WHERE email_id = 'test@gmail.com'
+            LIMIT 1
+        
+ERROR - 2017-04-28 19:45:15 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 19:45:31 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 19:49:02 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 19:52:13 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 19:52:43 --> Severity: Warning --> Missing argument 2 for Users_model::email_exists(), called in C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php on line 511 and defined C:\wamp64\www\myopeneyes\application\models\Users_model.php 598
+ERROR - 2017-04-28 19:52:43 --> Severity: Notice --> Undefined variable: current C:\wamp64\www\myopeneyes\application\models\Users_model.php 604
+ERROR - 2017-04-28 19:52:43 --> Severity: Warning --> Missing argument 2 for Users_model::username_exists(), called in C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php on line 490 and defined C:\wamp64\www\myopeneyes\application\models\Users_model.php 569
+ERROR - 2017-04-28 19:52:43 --> Severity: Notice --> Undefined variable: current C:\wamp64\www\myopeneyes\application\models\Users_model.php 576
+ERROR - 2017-04-28 19:52:43 --> Severity: Notice --> Undefined index: password C:\wamp64\www\myopeneyes\application\models\Users_model.php 244
+ERROR - 2017-04-28 19:58:05 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 19:58:15 --> Severity: Warning --> Missing argument 2 for Users_model::email_exists(), called in C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php on line 511 and defined C:\wamp64\www\myopeneyes\application\models\Users_model.php 599
+ERROR - 2017-04-28 19:58:15 --> Severity: Notice --> Undefined variable: current C:\wamp64\www\myopeneyes\application\models\Users_model.php 605
+ERROR - 2017-04-28 19:58:15 --> Severity: Warning --> Missing argument 2 for Users_model::username_exists(), called in C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php on line 490 and defined C:\wamp64\www\myopeneyes\application\models\Users_model.php 570
+ERROR - 2017-04-28 19:58:15 --> Severity: Notice --> Undefined variable: current C:\wamp64\www\myopeneyes\application\models\Users_model.php 577
+ERROR - 2017-04-28 19:58:15 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 19:58:30 --> Severity: Warning --> Missing argument 2 for Users_model::email_exists(), called in C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php on line 511 and defined C:\wamp64\www\myopeneyes\application\models\Users_model.php 599
+ERROR - 2017-04-28 19:58:30 --> Severity: Notice --> Undefined variable: current C:\wamp64\www\myopeneyes\application\models\Users_model.php 605
+ERROR - 2017-04-28 19:58:30 --> Severity: Warning --> Missing argument 2 for Users_model::username_exists(), called in C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php on line 490 and defined C:\wamp64\www\myopeneyes\application\models\Users_model.php 570
+ERROR - 2017-04-28 19:58:30 --> Severity: Notice --> Undefined variable: current C:\wamp64\www\myopeneyes\application\models\Users_model.php 577
+ERROR - 2017-04-28 19:58:30 --> Severity: Notice --> Undefined index: password C:\wamp64\www\myopeneyes\application\models\Users_model.php 244
+ERROR - 2017-04-28 20:00:52 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 314
+ERROR - 2017-04-28 20:00:52 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 20:02:25 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 20:02:36 --> Severity: Warning --> Missing argument 2 for Users_model::email_exists(), called in C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php on line 511 and defined C:\wamp64\www\myopeneyes\application\models\Users_model.php 599
+ERROR - 2017-04-28 20:02:36 --> Severity: Notice --> Undefined variable: current C:\wamp64\www\myopeneyes\application\models\Users_model.php 605
+ERROR - 2017-04-28 20:02:36 --> Severity: Warning --> Missing argument 2 for Users_model::username_exists(), called in C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php on line 490 and defined C:\wamp64\www\myopeneyes\application\models\Users_model.php 570
+ERROR - 2017-04-28 20:02:36 --> Severity: Notice --> Undefined variable: current C:\wamp64\www\myopeneyes\application\models\Users_model.php 577
+ERROR - 2017-04-28 20:02:36 --> Severity: Notice --> Undefined index: password C:\wamp64\www\myopeneyes\application\models\Users_model.php 244
+ERROR - 2017-04-28 20:03:38 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 20:03:57 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 20:56:02 --> Severity: Notice --> Undefined variable: id C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 214
+ERROR - 2017-04-28 21:07:46 --> Severity: Notice --> Array to string conversion C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 210
+ERROR - 2017-04-28 21:07:46 --> Could not find the language line "form_validation_			callback__check_email"
+ERROR - 2017-04-28 21:07:46 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 21:08:13 --> Severity: Notice --> Array to string conversion C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 210
+ERROR - 2017-04-28 21:08:13 --> Could not find the language line "form_validation_			callback__check_email"
+ERROR - 2017-04-28 21:08:13 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 21:08:51 --> Severity: Notice --> Array to string conversion C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 210
+ERROR - 2017-04-28 21:08:51 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 21:09:01 --> Severity: Notice --> Array to string conversion C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 210
+ERROR - 2017-04-28 21:09:01 --> Could not find the language line "form_validation_			callback__check_email"
+ERROR - 2017-04-28 21:09:01 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 21:09:27 --> Could not find the language line "form_validation_			callback__check_email"
+ERROR - 2017-04-28 21:09:27 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 21:09:32 --> Could not find the language line "form_validation_			callback__check_email"
+ERROR - 2017-04-28 21:09:32 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 21:12:59 --> Severity: Notice --> Array to string conversion C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 214
+ERROR - 2017-04-28 21:33:44 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 21:34:19 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 21:36:13 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 21:37:20 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 21:38:47 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 21:40:27 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 21:41:12 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 21:55:02 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 21:55:34 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 21:57:37 --> Severity: Notice --> Undefined variable: current1 C:\wamp64\www\myopeneyes\application\controllers\admin\Users.php 518
+ERROR - 2017-04-28 21:58:56 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 21:59:33 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:00:06 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:04:17 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:05:05 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:05:17 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:05:26 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:07:30 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:07:35 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:08:19 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:11:55 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:12:00 --> Severity: Notice --> Undefined index: password C:\wamp64\www\myopeneyes\application\models\Users_model.php 244
+ERROR - 2017-04-28 22:15:27 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:15:32 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:15:43 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:15:56 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:18:48 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:18:55 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\models\Users_model.php 257
+ERROR - 2017-04-28 22:19:43 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:19:47 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\models\Users_model.php 256
+ERROR - 2017-04-28 22:20:30 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:21:31 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:21:36 --> Severity: Notice --> Undefined index: id C:\wamp64\www\myopeneyes\application\models\Users_model.php 257
+ERROR - 2017-04-28 22:21:45 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:22:46 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:23:04 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:23:19 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:23:50 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:24:44 --> Query error: Unknown column 'id' in 'field list' - Invalid query: UPDATE `users` SET `id` = '13', `first_name` = 'test1', `last_name` = 'test1', `username` = 'test', `email_id` = 'test@gmail.com', `phone_no_work` = '12345678911', `phone_no` = '123456789011', `mobile_no` = '1234569870', `user_type_id` = '2', `registration_date` = '2017-04-29', `activation_code` = '123456', `client_id` = '4', `access_level_id` = '2', `note` = 'ztest 34efdsfsd', `password` = '5cb725e761e988a0155bfad15dcc496a9efbe9468ae1cb7cc089db39a19b8e0938e5d03ab3f93df959c64051d6fd7a2a386c7b6e5a89ffa8f5d3a31e81d123ed', `password_repeat` = '11111111', `is_active` = '1', `submit` = '', `salt` = '00807e27ec0d41f30104ca39327e7fb1cef10a5392c9a8f738003168d4b5aad9dcbedbfa7869664d2e48a7791389e4d6ea529e76105e5e469445e1de73fb13df'
+WHERE `user_id` = '13'
+ERROR - 2017-04-28 22:25:36 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 21:26:21 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-28 22:27:55 --> Query error: Unknown column 'status' in 'field list' - Invalid query: 
+                UPDATE users
+                SET
+                    is_admin = '0',
+                    status = '0',
+                    deleted = '1',
+                    updated = '2017-04-28 22:27:55'
+                WHERE user_id = '13'
+                    AND user_id > 1
+            
+ERROR - 2017-04-28 22:36:03 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 22:44:47 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 23:00:59 --> Could not find the language line "users input is_active"
+ERROR - 2017-04-28 23:01:44 --> Could not find the language line "users input is_active"

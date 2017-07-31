@@ -1,0 +1,18 @@
+[13-May-2017 12:51:13 Europe/London] PHP Fatal error:  Call to undefined method Users_model::login_attempts() in /home/youmeopc/public_html/demo/mlm/application/controllers/admin/User.php on line 297
+[13-May-2017 12:51:58 Europe/London] PHP Fatal error:  Call to undefined method Users_model::login_attempts() in /home/youmeopc/public_html/demo/mlm/application/controllers/admin/User.php on line 297
+[23-May-2017 18:48:52 Europe/London] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/youmeopc/public_html/demo/mlm/application/helpers/custom_helper.php on line 9
+[23-May-2017 18:50:05 Europe/London] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/youmeopc/public_html/demo/mlm/application/helpers/custom_helper.php on line 9
+[23-May-2017 18:50:05 Europe/London] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/youmeopc/public_html/demo/mlm/application/helpers/custom_helper.php on line 9
+[23-May-2017 18:57:01 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/youmeopc/public_html/demo/mlm/application/controllers/admin/Products.php on line 369
+[30-May-2017 08:12:40 Europe/London] PHP Parse error:  syntax error, unexpected ';' in /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/form.php on line 52
+[30-May-2017 08:12:42 Europe/London] PHP Parse error:  syntax error, unexpected ';' in /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/form.php on line 52
+[30-May-2017 08:12:48 Europe/London] PHP Parse error:  syntax error, unexpected ';' in /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/form.php on line 52
+[31-May-2017 16:54:16 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/youmeopc/public_html/demo/elevaweb/application/application/controllers/Api.php on line 306
+[01-Jun-2017 14:53:56 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/youmeopc/public_html/demo/elevaweb/application/application/controllers/Api.php on line 214
+[03-Jun-2017 07:33:10 Etc/GMT] PHP Parse error:  syntax error, unexpected ''required|trim|min_length[2]|m' (T_CONSTANT_ENCAPSED_STRING) in /home/youmeopc/public_html/demo/elevaweb/application/application/controllers/admin/Feeds.php on line 215
+[03-Jun-2017 07:33:42 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/youmeopc/public_html/demo/elevaweb/application/application/controllers/admin/Feeds.php on line 269
+[03-Jun-2017 08:55:31 Europe/London] PHP Fatal error:  Call to undefined method Feeds_model::get_feed() in /home/youmeopc/public_html/demo/elevaweb/application/application/controllers/admin/Feeds.php on line 323
+[03-Jun-2017 11:31:53 Europe/London] PHP Parse error:  syntax error, unexpected ',' in /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/form.php on line 81
+[03-Jun-2017 11:31:56 Europe/London] PHP Parse error:  syntax error, unexpected ',' in /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/form.php on line 81
+[06-Jul-2017 22:23:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/youmeopc/public_html/demo/elevaweb/application/application/controllers/admin/Customers.php on line 402
+[06-Jul-2017 22:26:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/youmeopc/public_html/demo/elevaweb/application/application/controllers/admin/Feeds.php on line 361

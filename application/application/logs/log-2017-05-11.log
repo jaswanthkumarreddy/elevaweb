@@ -1,0 +1,217 @@
+ERROR - 2017-05-11 05:12:39 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-11 05:14:06 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-11 06:15:47 --> Could not find the language line "menus input name"
+ERROR - 2017-05-11 06:15:51 --> Could not find the language line "categorys input first name"
+ERROR - 2017-05-11 06:16:20 --> Severity: Notice --> Undefined index: id /home/youmeopc/public_html/demo/mlm/application/controllers/admin/Settings.php 52
+ERROR - 2017-05-11 06:16:21 --> Could not find the language line "categorys input first name"
+ERROR - 2017-05-11 06:16:23 --> Could not find the language line "subcategorys input first name"
+ERROR - 2017-05-11 06:16:31 --> Could not find the language line "subcategorys input first name"
+ERROR - 2017-05-11 05:29:18 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-11 06:29:41 --> Could not find the language line "menus input name"
+ERROR - 2017-05-11 06:29:43 --> Could not find the language line "categorys input first name"
+ERROR - 2017-05-11 06:29:46 --> Could not find the language line "subcategorys input first name"
+ERROR - 2017-05-11 06:30:45 --> Could not find the language line "subcategorys input first name"
+ERROR - 2017-05-11 06:31:09 --> Could not find the language line "menus input name"
+ERROR - 2017-05-11 06:31:13 --> Could not find the language line "categorys input first name"
+ERROR - 2017-05-11 06:31:14 --> Could not find the language line "subcategorys input first name"
+ERROR - 2017-05-11 06:41:24 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'youmeopc_mlm71'@'localhost' (using password: YES) C:\wamp\www\mlm\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2017-05-11 06:41:24 --> Unable to connect to the database
+ERROR - 2017-05-11 06:50:41 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-11 06:51:33 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-11 06:51:41 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-11 06:53:34 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-11 07:53:47 --> Could not find the language line "users input status"
+ERROR - 2017-05-11 08:16:58 --> Could not find the language line "users input status"
+ERROR - 2017-05-11 07:26:34 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-11 07:27:44 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-11 08:27:47 --> Could not find the language line "menus input name"
+ERROR - 2017-05-11 07:27:49 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-11 08:28:12 --> Severity: Notice --> Undefined index: id C:\wamp\www\mlm\application\controllers\admin\Settings.php 52
+ERROR - 2017-05-11 08:28:23 --> Severity: Notice --> Undefined index: id C:\wamp\www\mlm\application\controllers\admin\Settings.php 52
+ERROR - 2017-05-11 07:34:03 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-11 07:40:13 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-11 07:40:53 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-11 08:42:56 --> Could not find the language line "categorys input first name"
+ERROR - 2017-05-11 08:42:57 --> Could not find the language line "subcategorys input first name"
+ERROR - 2017-05-11 08:43:00 --> Could not find the language line "menus input name"
+ERROR - 2017-05-11 08:45:05 --> Could not find the language line "menus input name"
+ERROR - 2017-05-11 08:47:19 --> Could not find the language line "menus input name"
+ERROR - 2017-05-11 08:17:09 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ C:\wamp\www\mlm\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2017-05-11 08:17:09 --> Unable to connect to the database
+ERROR - 2017-05-11 08:20:12 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-11 08:20:16 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-11 09:20:17 --> Could not find the language line "categorys input first name"
+ERROR - 2017-05-11 09:20:19 --> Could not find the language line "menus input name"
+ERROR - 2017-05-11 09:20:20 --> Could not find the language line "subcategorys input first name"
+ERROR - 2017-05-11 09:20:37 --> Could not find the language line "menus input name"
+ERROR - 2017-05-11 09:20:39 --> Could not find the language line "subcategorys input first name"
+ERROR - 2017-05-11 09:20:40 --> Could not find the language line "categorys input first name"
+ERROR - 2017-05-11 09:22:20 --> Could not find the language line "categorys input first name"
+ERROR - 2017-05-11 09:22:23 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-11 09:28:27 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-11 09:28:33 --> Could not find the language line "users input status"
+ERROR - 2017-05-11 09:30:11 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-11 09:30:32 --> Could not find the language line "categorys input first name"
+ERROR - 2017-05-11 09:30:36 --> Could not find the language line "subcategorys input first name"
+ERROR - 2017-05-11 09:30:42 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-11 09:30:44 --> Could not find the language line "categorys input first name"
+ERROR - 2017-05-11 09:30:47 --> Could not find the language line "users input status"
+ERROR - 2017-05-11 09:32:50 --> Could not find the language line "categorys input first name"
+ERROR - 2017-05-11 08:47:03 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-11 09:55:57 --> Could not find the language line "admin menu customer"
+ERROR - 2017-05-11 09:57:04 --> Severity: Error --> Call to undefined method CI_Session::customerdata() C:\wamp\www\mlm\application\controllers\admin\Customers.php 34
+ERROR - 2017-05-11 09:59:00 --> Severity: Error --> Call to undefined method CI_Session::set_customerdata() C:\wamp\www\mlm\application\controllers\admin\Customers.php 112
+ERROR - 2017-05-11 09:59:31 --> Severity: Error --> Call to undefined method CI_Session::set_customerdata() C:\wamp\www\mlm\application\controllers\admin\Customers.php 112
+ERROR - 2017-05-11 10:00:20 --> Severity: Error --> Call to undefined method CI_Session::set_customerdata() C:\wamp\www\mlm\application\controllers\admin\Customers.php 112
+ERROR - 2017-05-11 10:02:00 --> Could not find the language line "customers title customer_list"
+ERROR - 2017-05-11 10:02:00 --> Could not find the language line "customers title customer_delete"
+ERROR - 2017-05-11 10:02:00 --> Could not find the language line "customers title customer_delete"
+ERROR - 2017-05-11 10:02:00 --> Could not find the language line "customers title customer_delete"
+ERROR - 2017-05-11 10:02:00 --> Could not find the language line "customers title customer_delete"
+ERROR - 2017-05-11 10:02:00 --> Could not find the language line "customers title customer_delete"
+ERROR - 2017-05-11 10:02:00 --> Could not find the language line "customers title customer_delete"
+ERROR - 2017-05-11 10:02:00 --> Could not find the language line "customers title customer_delete"
+ERROR - 2017-05-11 10:02:00 --> Could not find the language line "customers title customer_delete"
+ERROR - 2017-05-11 10:02:09 --> Could not find the language line "customers title customer_list"
+ERROR - 2017-05-11 10:02:09 --> Could not find the language line "customers title customer_delete"
+ERROR - 2017-05-11 10:02:09 --> Could not find the language line "customers title customer_delete"
+ERROR - 2017-05-11 10:02:09 --> Could not find the language line "customers title customer_delete"
+ERROR - 2017-05-11 10:02:09 --> Could not find the language line "customers title customer_delete"
+ERROR - 2017-05-11 10:02:09 --> Could not find the language line "customers title customer_delete"
+ERROR - 2017-05-11 10:02:09 --> Could not find the language line "customers title customer_delete"
+ERROR - 2017-05-11 10:02:09 --> Could not find the language line "customers title customer_delete"
+ERROR - 2017-05-11 10:02:09 --> Could not find the language line "customers title customer_delete"
+ERROR - 2017-05-11 10:04:51 --> Could not find the language line "customers title customers_list"
+ERROR - 2017-05-11 11:20:58 --> Severity: Notice --> Undefined index: customername C:\wamp\www\mlm\application\controllers\admin\Customers.php 357
+ERROR - 2017-05-11 11:20:58 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 11:20:58 --> Query error: Table 'youmeopc_mlm.customer_type' doesn't exist - Invalid query: SELECT *
+FROM `customer_type`
+ERROR - 2017-05-11 11:21:07 --> Query error: Unknown column 'is_admin' in 'field list' - Invalid query: UPDATE `customers` SET `is_admin` = 0, `is_active` = 0, `deleted` = 1, `updated_by` = NULL, `updated_on` = '2017-05-11 11:21:07'
+WHERE `customer_id` > 1
+AND `customer_id` = '15'
+ERROR - 2017-05-11 11:21:20 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 11:21:20 --> Query error: Table 'youmeopc_mlm.customer_type' doesn't exist - Invalid query: SELECT *
+FROM `customer_type`
+ERROR - 2017-05-11 11:21:38 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 11:21:38 --> Query error: Table 'youmeopc_mlm.customer_type' doesn't exist - Invalid query: SELECT *
+FROM `customer_type`
+ERROR - 2017-05-11 12:32:33 --> Query error: Unknown column 'is_admin' in 'field list' - Invalid query: UPDATE `customers` SET `is_admin` = 0, `is_active` = 0, `deleted` = 1, `updated_by` = NULL, `updated_on` = '2017-05-11 12:32:33'
+WHERE `customer_id` > 1
+AND `customer_id` = '15'
+ERROR - 2017-05-11 12:35:23 --> Severity: Notice --> Undefined index: customername C:\wamp\www\mlm\application\controllers\admin\Customers.php 357
+ERROR - 2017-05-11 12:35:23 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 12:35:23 --> Query error: Table 'youmeopc_mlm.customer_type' doesn't exist - Invalid query: SELECT *
+FROM `customer_type`
+ERROR - 2017-05-11 12:48:27 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 12:48:27 --> Query error: Table 'youmeopc_mlm.customer_type' doesn't exist - Invalid query: SELECT *
+FROM `customer_type`
+ERROR - 2017-05-11 12:57:45 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 12:57:45 --> Severity: Error --> Call to undefined method Customers_model::useTypeDropDownList() C:\wamp\www\mlm\application\controllers\admin\Customers.php 382
+ERROR - 2017-05-11 12:58:06 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 12:58:06 --> Severity: Notice --> Undefined variable: customerType C:\wamp\www\mlm\application\controllers\admin\Customers.php 392
+ERROR - 2017-05-11 12:58:06 --> Severity: Notice --> Undefined index: id C:\wamp\www\mlm\application\views\admin\customers\form.php 141
+ERROR - 2017-05-11 12:59:05 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 12:59:05 --> Severity: Notice --> Undefined variable: customerType C:\wamp\www\mlm\application\views\admin\customers\form.php 62
+ERROR - 2017-05-11 12:59:05 --> Severity: Notice --> Undefined index: id C:\wamp\www\mlm\application\views\admin\customers\form.php 141
+ERROR - 2017-05-11 12:59:33 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 12:59:33 --> Severity: Notice --> Undefined index: id C:\wamp\www\mlm\application\views\admin\customers\form.php 135
+ERROR - 2017-05-11 13:05:01 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:05:01 --> Severity: Notice --> Undefined index: id C:\wamp\www\mlm\application\views\admin\customers\form.php 135
+ERROR - 2017-05-11 13:06:41 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:08:17 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:08:23 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:08:26 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:08:46 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:09:25 --> Could not find the language line "users input status"
+ERROR - 2017-05-11 13:10:23 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:10:24 --> Could not find the language line "users input status"
+ERROR - 2017-05-11 13:10:35 --> Could not find the language line "users input status"
+ERROR - 2017-05-11 13:11:05 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:11:06 --> Could not find the language line "users input status"
+ERROR - 2017-05-11 13:11:08 --> Could not find the language line "users input status"
+ERROR - 2017-05-11 13:11:16 --> Could not find the language line "users input status"
+ERROR - 2017-05-11 13:11:51 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:16:35 --> Could not find the language line "users input status"
+ERROR - 2017-05-11 13:16:37 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:17:50 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:17:54 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:18:09 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:18:15 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:18:23 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:18:41 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:18:44 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:18:49 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:20:04 --> Could not find the language line "users input status"
+ERROR - 2017-05-11 13:20:06 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:20:06 --> Severity: Notice --> Undefined index: id C:\wamp\www\mlm\application\views\admin\customers\form.php 135
+ERROR - 2017-05-11 13:22:27 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:22:27 --> Severity: Notice --> Undefined index: id C:\wamp\www\mlm\application\views\admin\customers\form.php 135
+ERROR - 2017-05-11 13:23:28 --> Could not find the language line "users input status"
+ERROR - 2017-05-11 13:23:33 --> Could not find the language line "users input status"
+ERROR - 2017-05-11 13:23:36 --> Could not find the language line "users input status"
+ERROR - 2017-05-11 13:23:40 --> Could not find the language line "users input status"
+ERROR - 2017-05-11 13:23:40 --> Severity: Notice --> Undefined index: id C:\wamp\www\mlm\application\views\admin\users\form.php 141
+ERROR - 2017-05-11 13:23:46 --> Could not find the language line "users input status"
+ERROR - 2017-05-11 13:23:52 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:23:52 --> Severity: Notice --> Undefined index: id C:\wamp\www\mlm\application\views\admin\customers\form.php 135
+ERROR - 2017-05-11 13:23:55 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:23:55 --> Severity: Notice --> Undefined index: id C:\wamp\www\mlm\application\views\admin\customers\form.php 135
+ERROR - 2017-05-11 13:24:16 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:25:46 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:26:12 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:27:34 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:28:22 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:28:40 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:29:58 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:30:44 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:32:52 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:32:52 --> Severity: Notice --> Undefined index: customer_type_id C:\wamp\www\mlm\application\models\Customers_model.php 222
+ERROR - 2017-05-11 13:32:52 --> Query error: Unknown column 'client_id' in 'field list' - Invalid query: UPDATE `customers` SET `client_id` = '', `customername` = '', `first_name` = 'register2', `last_name` = 'register2', `email_id` = 'register2@gmail.com', `phone_no_work` = '', `phone_no` = '', `mobile_no` = '1234567890', `activation_code` = '', `registration_date` = '', `ip_address` = '127.0.0.1', `note` = '', `customer_type_id` = NULL, `updated_by` = NULL, `updated_on` = '2017-05-11 13:32:52', `is_active` = '0', `access_level_id` = '2', `is_admin` = 1
+WHERE `customer_id` = '15'
+ERROR - 2017-05-11 13:34:40 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:34:40 --> Severity: Notice --> Undefined index: customer_type_id C:\wamp\www\mlm\application\models\Customers_model.php 211
+ERROR - 2017-05-11 13:34:40 --> Query error: Unknown column 'client_id' in 'field list' - Invalid query: UPDATE `customers` SET `client_id` = '', `customername` = '', `first_name` = 'register2', `last_name` = 'register2', `email_id` = 'register2@gmail.com', `phone_no_work` = '', `phone_no` = '', `mobile_no` = '1234567890', `activation_code` = '', `registration_date` = '', `ip_address` = '127.0.0.1', `note` = '', `customer_type_id` = NULL, `updated_by` = NULL, `updated_on` = '2017-05-11 13:34:40', `is_active` = '0', `access_level_id` = '2', `is_admin` = 1
+WHERE `customer_id` = '15'
+ERROR - 2017-05-11 13:37:23 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:37:23 --> Query error: Unknown column 'client_id' in 'field list' - Invalid query: UPDATE `customers` SET `client_id` = '', `first_name` = 'register2', `last_name` = 'register2', `email_id` = 'register2@gmail.com', `mobile_no` = '1234567890', `registration_date` = '', `ip_address` = '127.0.0.1', `note` = '', `updated_by` = NULL, `updated_on` = '2017-05-11 13:37:23', `is_active` = '0'
+WHERE `customer_id` = '15'
+ERROR - 2017-05-11 13:38:47 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:38:47 --> Query error: Unknown column 'client_id' in 'field list' - Invalid query: UPDATE `customers` SET `client_id` = '', `first_name` = 'register2', `last_name` = 'register2', `email_id` = 'register2@gmail.com', `mobile_no` = '1234567890', `registration_date` = '', `ip_address` = '127.0.0.1', `note` = '', `updated_by` = NULL, `updated_on` = '2017-05-11 13:38:47', `is_active` = '0'
+WHERE `customer_id` = '15'
+ERROR - 2017-05-11 13:39:02 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:39:02 --> Query error: Unknown column 'client_id' in 'field list' - Invalid query: UPDATE `customers` SET `client_id` = '', `first_name` = 'register2', `last_name` = 'register2', `email_id` = 'register2@gmail.com', `mobile_no` = '1234567890', `registration_date` = '', `ip_address` = '127.0.0.1', `note` = '', `updated_by` = NULL, `updated_on` = '2017-05-11 13:39:02', `is_active` = '0'
+WHERE `customer_id` = '15'
+ERROR - 2017-05-11 13:39:13 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:39:20 --> Could not find the language line "users input status"
+ERROR - 2017-05-11 13:39:26 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:39:26 --> Severity: Notice --> Undefined index: id C:\wamp\www\mlm\application\views\admin\customers\form.php 84
+ERROR - 2017-05-11 13:39:31 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:39:31 --> Severity: Notice --> Undefined index: registration_date C:\wamp\www\mlm\application\models\Customers_model.php 201
+ERROR - 2017-05-11 13:39:36 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:39:36 --> Severity: Notice --> Undefined index: id C:\wamp\www\mlm\application\views\admin\customers\form.php 84
+ERROR - 2017-05-11 13:39:43 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:39:51 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:39:51 --> Severity: Notice --> Undefined index: registration_date C:\wamp\www\mlm\application\models\Customers_model.php 201
+ERROR - 2017-05-11 13:39:54 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:39:54 --> Severity: Notice --> Undefined index: id C:\wamp\www\mlm\application\views\admin\customers\form.php 84
+ERROR - 2017-05-11 13:40:10 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:40:32 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:40:43 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:40:43 --> Query error: Column 'created_by' cannot be null - Invalid query: INSERT INTO `customers` (`first_name`, `last_name`, `email_id`, `mobile_no`, `password`, `salt`, `ip_address`, `note`, `created_by`, `created_on`, `is_active`) VALUES ('Pratik', 'Nayak', 'pratiknyk@gmail.com', '9998319151', 'c5bdbb1b6fa4d4ec6475eb843dc9a245c3badcf46587315297cbce6d3240b819199488f273bb24f1775637312cd9174a706e31e38a6003bf011e5cb11f1d303d', 'ba7d2195aa24f8b0b9724fa2af38739f451a424dafd744cfd31dbd49771c9c32eabb0e93d29aa4ad21c66afec0dd6e1c991039a9a4025547b8205c5ce0696f7f', '127.0.0.1', 'test', NULL, '2017-05-11 13:40:43', '0')
+ERROR - 2017-05-11 13:42:27 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:43:15 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:43:21 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:43:29 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:43:29 --> Severity: Notice --> Undefined index: registration_date C:\wamp\www\mlm\application\models\Customers_model.php 201
+ERROR - 2017-05-11 13:43:44 --> Could not find the language line "categorys input first name"
+ERROR - 2017-05-11 13:43:51 --> Could not find the language line "categorys input first name"
+ERROR - 2017-05-11 13:49:07 --> Could not find the language line "categorys input first name"
+ERROR - 2017-05-11 13:49:24 --> Could not find the language line "categorys input first name"
+ERROR - 2017-05-11 13:49:28 --> Could not find the language line "categorys input first name"
+ERROR - 2017-05-11 13:56:46 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:56:52 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:56:54 --> Could not find the language line "customers input status"
+ERROR - 2017-05-11 13:56:54 --> Severity: Notice --> Undefined index: registration_date C:\wamp\www\mlm\application\models\Customers_model.php 201
+ERROR - 2017-05-11 13:59:40 --> Could not find the language line "users input status"
+ERROR - 2017-05-11 13:59:40 --> Severity: Notice --> Undefined index: id C:\wamp\www\mlm\application\views\admin\users\form.php 141

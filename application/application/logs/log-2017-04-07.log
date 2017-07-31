@@ -1,0 +1,599 @@
+ERROR - 2017-04-07 14:12:04 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 14:29:24 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 14:31:50 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 14:33:41 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 14:34:27 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 14:34:32 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 15:14:31 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 15:14:36 --> 404 Page Not Found: admin/Candidates/index
+ERROR - 2017-04-07 16:20:56 --> Query error: Unknown column 'candidate_id' in 'order clause' - Invalid query: 
+            SELECT SQL_CALC_FOUND_ROWS *
+            FROM company
+            WHERE deleted = '0'
+         ORDER BY candidate_id asc LIMIT 0, 10
+ERROR - 2017-04-07 16:21:33 --> Severity: error --> Exception: C:\wamp64\www\myopeneyes\application\models/Candidates_model.php exists, but doesn't declare class Candidates_model C:\wamp64\www\myopeneyes\system\core\Loader.php 336
+ERROR - 2017-04-07 16:21:52 --> Severity: Notice --> Undefined property: Candidates::$clients_model C:\wamp64\www\myopeneyes\application\controllers\admin\Candidates.php 132
+ERROR - 2017-04-07 16:21:52 --> Severity: Error --> Call to a member function get_all() on null C:\wamp64\www\myopeneyes\application\controllers\admin\Candidates.php 132
+ERROR - 2017-04-07 16:22:46 --> Could not find the language line "candidates col candidate_id"
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:22:46 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 15:22:47 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 16:52:48 --> Could not find the language line "candidates col candidate_id"
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:52:48 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 15:52:49 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 16:55:01 --> Could not find the language line "candidates col candidate_id"
+ERROR - 2017-04-07 16:55:01 --> Could not find the language line "candidates col name"
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:55:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 15:55:01 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 16:55:55 --> Could not find the language line "candidates col candidate_id"
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 99
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:55:55 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 15:55:56 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 16:59:21 --> Could not find the language line "candidates col candidate_id"
+ERROR - 2017-04-07 16:59:21 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:59:21 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:59:21 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:59:21 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:59:21 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:59:21 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:59:21 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:59:21 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:59:21 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:59:21 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 16:59:21 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:59:21 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:59:21 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:59:21 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:59:21 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:59:21 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:59:21 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:59:21 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:59:21 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:59:21 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 15:59:22 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 17:01:01 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 17:01:01 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 17:01:01 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 17:01:01 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 17:01:01 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 17:01:01 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 17:01:01 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 17:01:01 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 17:01:01 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 17:01:01 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 108
+ERROR - 2017-04-07 17:01:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 17:01:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 17:01:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 17:01:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 17:01:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 17:01:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 17:01:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 17:01:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 17:01:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 17:01:01 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 175
+ERROR - 2017-04-07 16:01:01 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 17:02:35 --> Could not find the language line "candidates col last name"
+ERROR - 2017-04-07 17:02:35 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 114
+ERROR - 2017-04-07 17:02:35 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 114
+ERROR - 2017-04-07 17:02:35 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 114
+ERROR - 2017-04-07 17:02:35 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 114
+ERROR - 2017-04-07 17:02:35 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 114
+ERROR - 2017-04-07 17:02:35 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 114
+ERROR - 2017-04-07 17:02:35 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 114
+ERROR - 2017-04-07 17:02:35 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 114
+ERROR - 2017-04-07 17:02:35 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 114
+ERROR - 2017-04-07 17:02:35 --> Severity: Notice --> Undefined index: phone1 C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 114
+ERROR - 2017-04-07 17:02:36 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 181
+ERROR - 2017-04-07 17:02:36 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 181
+ERROR - 2017-04-07 17:02:36 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 181
+ERROR - 2017-04-07 17:02:36 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 181
+ERROR - 2017-04-07 17:02:36 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 181
+ERROR - 2017-04-07 17:02:36 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 181
+ERROR - 2017-04-07 17:02:36 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 181
+ERROR - 2017-04-07 17:02:36 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 181
+ERROR - 2017-04-07 17:02:36 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 181
+ERROR - 2017-04-07 17:02:36 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 181
+ERROR - 2017-04-07 16:02:36 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 17:07:11 --> Could not find the language line "candidates input last name"
+ERROR - 2017-04-07 16:07:12 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 16:08:24 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 16:08:29 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 16:08:32 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 16:09:21 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 16:09:24 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 16:10:00 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 16:10:06 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 16:10:08 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 16:10:11 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 16:10:39 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 16:10:44 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 16:11:03 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 16:11:08 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 16:11:25 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 16:11:30 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 16:11:43 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 16:13:17 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 17:13:32 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:14:05 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:19:36 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:20:23 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:20:57 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:21:07 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:22:23 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:24:59 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:25:29 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:25:54 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:28:33 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:29:09 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:29:18 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:29:25 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:30:00 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:30:12 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:32:09 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:32:13 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:32:41 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:33:26 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:34:56 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:37:36 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:38:15 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:41:28 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:42:43 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:42:43 --> Could not find the language line "candidates input address"
+ERROR - 2017-04-07 17:42:51 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:43:45 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:44:28 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:45:02 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:46:16 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:49:57 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:54:34 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:56:10 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:56:10 --> Severity: Parsing Error --> syntax error, unexpected ''), '' (T_CONSTANT_ENCAPSED_STRING) C:\wamp64\www\myopeneyes\application\views\admin\candidates\form.php 93
+ERROR - 2017-04-07 17:56:20 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:56:50 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 16:59:19 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 18:06:49 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 18:07:25 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 18:07:26 --> Severity: Error --> Call to undefined function form_file() C:\wamp64\www\myopeneyes\application\views\admin\candidates\form.php 94
+ERROR - 2017-04-07 18:07:36 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 17:13:20 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 17:13:22 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 17:13:25 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 17:13:31 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 17:14:12 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 18:17:54 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 18:18:37 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 18:18:52 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 18:27:06 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 18:27:06 --> Severity: Error --> Call to undefined function form_file() C:\wamp64\www\myopeneyes\application\views\admin\candidates\form.php 94
+ERROR - 2017-04-07 18:27:13 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 18:28:16 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 18:28:35 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 18:28:44 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 18:30:20 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 18:30:27 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 18:30:37 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 18:30:43 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 18:30:49 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 18:32:43 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 18:35:42 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 18:40:38 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 19:11:57 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 19:11:57 --> Could not find the language line "candidates input company hot company"
+ERROR - 2017-04-07 19:13:19 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 19:15:24 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 19:18:39 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 19:21:26 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 19:23:06 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 19:24:16 --> Could not find the language line "candidates input company name"
+ERROR - 2017-04-07 18:36:30 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 19:14:46 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 19:14:47 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 19:30:01 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 19:30:43 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 19:30:48 --> 404 Page Not Found: Uploadfile/upload
+ERROR - 2017-04-07 20:44:40 --> Query error: Unknown column 'id' in 'field list' - Invalid query: 
+            SELECT id
+            FROM candidate
+            WHERE email1 = '2585shah@gmail.com'
+            LIMIT 1
+        
+ERROR - 2017-04-07 20:47:26 --> Severity: Notice --> Undefined index: can_relocate C:\wamp64\www\myopeneyes\application\models\Candidates_model.php 162
+ERROR - 2017-04-07 20:47:26 --> Severity: Notice --> Undefined index: current_employer C:\wamp64\www\myopeneyes\application\models\Candidates_model.php 165
+ERROR - 2017-04-07 20:47:26 --> Query error: Column 'can_relocate' cannot be null - Invalid query: 
+                INSERT INTO candidate (
+                    site_id,
+					last_name,
+					first_name,
+					middle_name,
+					phone_home,
+                    phone_cell,
+					phone_work,
+                    address,
+                    city,
+                    state,
+                    zip, 
+                    source,
+                    date_available,
+					can_relocate,
+					notes,
+                    key_skills,
+					current_employer,
+                    date_created,
+                    date_modified,
+					entered_by,
+					owner,
+					email1,
+					email2,
+					web_site,
+					desired_pay,
+					current_pay,
+					best_time_to_call
+                ) VALUES (
+					'1',
+                    'Shah',
+					'Parthiv',
+					'R',
+					'7383119597',
+					'',
+					'',
+					'P-104  Rajeswer gold view ,\r\nharni road \r\nBaroda',
+                    'Baroda',
+                    'Guajrat',
+                    '390019', 
+                    '',
+                    '2015-10-10',
+					NULL,
+					'PHP Cde ',
+                    'php',
+					NULL,                    
+                    '2017-04-07 20:47:26',
+                    '2017-04-07 20:47:26',
+					'1',
+					'1',
+					'2585shah1@gmail.com',
+					'',
+					'www.youmewebs.com',
+					'40000',
+					'35000',
+					'After 10 OC'
+                )
+            
+ERROR - 2017-04-07 20:49:03 --> Severity: Notice --> Undefined index: current_employer C:\wamp64\www\myopeneyes\application\models\Candidates_model.php 165
+ERROR - 2017-04-07 19:49:04 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 19:49:08 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 20:49:26 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\controllers\admin\Candidates.php 262
+ERROR - 2017-04-07 20:59:04 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\application\controllers\admin\Candidates.php 262
+ERROR - 2017-04-07 21:15:21 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:16:20 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:16:20 --> Severity: Notice --> Undefined index: current_employer C:\wamp64\www\myopeneyes\application\models\Candidates_model.php 226
+ERROR - 2017-04-07 21:16:20 --> Could not find the language line "candidates msg edit_client_success"
+ERROR - 2017-04-07 20:16:20 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:16:24 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:16:50 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:16:50 --> Severity: Notice --> Undefined index: current_employer C:\wamp64\www\myopeneyes\application\models\Candidates_model.php 226
+ERROR - 2017-04-07 21:16:50 --> Could not find the language line "candidates msg edit_client_success"
+ERROR - 2017-04-07 20:16:51 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:16:53 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:17:14 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:17:14 --> Severity: Notice --> Undefined index: current_employer C:\wamp64\www\myopeneyes\application\models\Candidates_model.php 226
+ERROR - 2017-04-07 21:17:14 --> Could not find the language line "candidates msg edit_client_success"
+ERROR - 2017-04-07 20:17:15 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:17:17 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:18:53 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:19:00 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:19:00 --> Could not find the language line "candidates msg edit_client_success"
+ERROR - 2017-04-07 20:19:01 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:19:03 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:19:36 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 20:19:37 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:21:36 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:23:37 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:23:38 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:23:52 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:23:52 --> Could not find the language line "candidates msg edit_client_success"
+ERROR - 2017-04-07 20:23:53 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 20:24:01 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 20:24:09 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:24:11 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:24:11 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:24:20 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:24:20 --> Could not find the language line "candidates msg edit_client_success"
+ERROR - 2017-04-07 20:24:21 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:24:24 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:24:24 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:25:45 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:25:46 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:25:54 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:25:55 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:25:56 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:25:56 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:26:31 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:26:32 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:26:47 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:26:47 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:27:09 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:27:09 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:28:33 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:28:34 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:28:34 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:28:34 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:28:34 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:34:54 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:34:55 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:36:06 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:36:07 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:37:18 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:37:18 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:37:50 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:37:50 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:38:23 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:38:24 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:39:27 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:39:28 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:39:49 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:39:50 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:40:59 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:40:59 --> Could not find the language line "candidates msg edit_client_success"
+ERROR - 2017-04-07 20:40:59 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:41:03 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:41:03 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:42:33 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:42:33 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:42:49 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:42:50 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:43:03 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:43:03 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:43:12 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:43:13 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:43:22 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:43:22 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:43:33 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:43:34 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:44:24 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:44:24 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:45:38 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:45:39 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:46:01 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:46:02 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:46:12 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:46:12 --> Could not find the language line "candidates msg edit_client_success"
+ERROR - 2017-04-07 20:46:13 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:46:50 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 20:46:51 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:36:44 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:36:45 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:37:00 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 22:37:00 --> Severity: Notice --> Undefined variable: candidate C:\wamp64\www\myopeneyes\application\views\admin\candidates\form.php 104
+ERROR - 2017-04-07 22:37:00 --> Severity: Notice --> Undefined variable: cancel_url C:\wamp64\www\myopeneyes\application\views\admin\candidates\form.php 155
+ERROR - 2017-04-07 22:37:34 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:37:35 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:37:47 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 22:38:39 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:38:39 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:38:44 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 22:38:44 --> Severity: Notice --> Undefined variable: _FILE C:\wamp64\www\myopeneyes\application\controllers\admin\Candidates.php 314
+ERROR - 2017-04-07 22:39:27 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:39:27 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:39:33 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 22:39:37 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:39:37 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:40:05 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:40:05 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:40:49 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 22:41:14 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:41:14 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:41:20 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 22:42:09 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:42:09 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:42:18 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 22:42:47 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:42:48 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:42:51 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 22:46:13 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 22:53:17 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:53:17 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:55:52 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:55:55 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:56:23 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 22:57:07 --> Query error: Column count doesn't match value count at row 1 - Invalid query: 
+                INSERT INTO candidate (
+                    data_item_id,
+					data_item_type,
+					site_id,
+					text
+					
+                ) VALUES (
+					'1',
+                    109,
+					'100',
+					'1',
+					'Your use of this software is subject to the terms and conditions of the license agreement by which you acquired this software.  If you are a volume license customer, use of this software is subject to your volume license agreement.  You may not use this software if you have not validly acquired a license for the software from Microsoft or its licensed distributors.\r\nYour use of this software is subject to the terms and conditions of the license agreement by which you acquired this software.  If you are a volume license customer, use of this software is subject to your volume license agreement.  You may not use this software if you have not validly acquired a license for the software from Microsoft or its licensed distributors.' 
+                )
+            
+ERROR - 2017-04-07 21:58:02 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:58:40 --> Query error: Column count doesn't match value count at row 1 - Invalid query: 
+                INSERT INTO attachment (
+                    data_item_id,
+					data_item_type,
+					site_id,
+					text
+					
+                ) VALUES (
+					'1',
+                    110,
+					'100',
+					'1',
+					'Your use of this software is subject to the terms and conditions of the license agreement by which you acquired this software.  If you are a volume license customer, use of this software is subject to your volume license agreement.  You may not use this software if you have not validly acquired a license for the software from Microsoft or its licensed distributors.\r\n\r\n\r\n' 
+                )
+            
+ERROR - 2017-04-07 21:59:12 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:59:23 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:59:29 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:59:32 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 21:59:33 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 21:59:33 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 23:07:18 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 22:07:18 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 23:09:04 --> Severity: Error --> Call to undefined method Candidates_model::get_company() C:\wamp64\www\myopeneyes\application\controllers\admin\Candidates.php 275
+ERROR - 2017-04-07 23:09:28 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 22:09:29 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 23:12:37 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 22:12:38 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 23:12:50 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 22:12:51 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 23:13:22 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 22:13:23 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 23:13:30 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 23:13:30 --> Severity: Notice --> Undefined index: can_relocate C:\wamp64\www\myopeneyes\application\models\Candidates_model.php 248
+ERROR - 2017-04-07 23:13:31 --> Could not find the language line "candidates msg edit_client_success"
+ERROR - 2017-04-07 22:13:31 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 23:13:35 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 22:13:35 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 23:13:47 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 23:13:47 --> Severity: Notice --> Undefined index: can_relocate C:\wamp64\www\myopeneyes\application\models\Candidates_model.php 248
+ERROR - 2017-04-07 23:13:47 --> Could not find the language line "candidates msg edit_client_success"
+ERROR - 2017-04-07 22:13:47 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 23:13:49 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 22:13:50 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 23:17:11 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 22:17:12 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 23:17:24 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 22:17:25 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 23:17:30 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 22:17:30 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:31:13 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 23:31:18 --> Could not find the language line "users input email"
+ERROR - 2017-04-07 22:31:19 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:31:43 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:32:15 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:33:51 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:35:57 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:36:26 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:37:19 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:37:22 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:37:27 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:38:47 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:38:54 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:39:35 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:40:23 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 23:40:53 --> Severity: Notice --> Undefined index: date_created C:\wamp64\www\myopeneyes\application\views\admin\contact\list.php 89
+ERROR - 2017-04-07 22:40:53 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:41:10 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:41:29 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:41:32 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:49:23 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-07 22:49:30 --> 404 Page Not Found: Themes/admin

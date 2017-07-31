@@ -1,0 +1,869 @@
+ERROR - 2017-07-20 15:18:59 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-20 10:49:07 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 10:49:07 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:49:07 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:49:07 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 10:49:07 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:49:07 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:49:07 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:49:07 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:49:07 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:49:07 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:49:07 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:49:07 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:49:07 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:49:07 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:49:07 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:49:07 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:49:07 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:49:07 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:49:07 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:49:07 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:49:07 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:49:07 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:49:07 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:49:07 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:49:07 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:49:07 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:49:10 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 10:49:10 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 10:51:08 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 10:51:08 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:51:08 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:51:08 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 10:51:08 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:51:08 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:51:08 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:51:08 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:51:08 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:51:08 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:51:08 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:51:08 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:51:08 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:51:08 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:51:08 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:51:08 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:51:08 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:51:08 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:51:08 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:51:08 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:51:08 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:51:08 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:51:08 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:51:08 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:51:08 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:51:08 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:51:10 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 10:51:10 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 10:51:12 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 10:51:12 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:51:12 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:51:12 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 10:51:12 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:51:12 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:51:12 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:51:12 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:51:12 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:51:12 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:51:12 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:51:12 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:51:12 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:51:12 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:51:12 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:51:12 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:51:12 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:51:12 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:51:12 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:51:12 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:51:12 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:51:12 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:51:12 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:51:12 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:51:12 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:51:12 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:51:15 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 10:51:15 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 10:52:16 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 10:52:16 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:52:16 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:52:16 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 10:52:16 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:52:16 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:52:16 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:52:16 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:52:16 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:52:16 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:52:16 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:52:16 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:52:16 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:52:16 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:52:16 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:52:16 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:52:16 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:52:16 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:52:16 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:52:16 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:52:16 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:52:16 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:52:16 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:52:16 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:52:16 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:52:16 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:52:19 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 10:52:19 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 10:53:30 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 10:53:30 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:53:30 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:53:30 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 10:53:30 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:53:30 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:53:30 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:30 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:30 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:30 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:30 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:30 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:30 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:30 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:30 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:30 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:30 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:30 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:30 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:30 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:30 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:30 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:30 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:30 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:30 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:30 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:32 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 10:53:32 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 15:23:35 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-20 10:53:41 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 10:53:41 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:53:41 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:53:41 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 10:53:41 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:53:41 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:53:41 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:41 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:41 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:41 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:41 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:41 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:41 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:41 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:41 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:41 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:41 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:41 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:41 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:41 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:41 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:41 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:41 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:41 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:41 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:41 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:43 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 10:53:43 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 10:53:51 --> Could not find the language line "feeds msg edit_feed_success"
+ERROR - 2017-07-20 10:53:51 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 10:53:51 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:53:51 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:53:51 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 10:53:51 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:53:51 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:53:51 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:51 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:51 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:51 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:51 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:51 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:51 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:51 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:51 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:51 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:51 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:51 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:51 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:51 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:51 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:51 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:51 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:51 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:51 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:53:51 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:53:55 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 10:53:55 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 10:54:25 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 10:54:25 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 10:54:49 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 10:54:49 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:54:49 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:54:49 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 10:54:49 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:54:49 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:54:49 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:54:49 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:54:49 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:54:49 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:54:49 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:54:49 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:54:49 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:54:49 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:54:49 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:54:49 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:54:49 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:54:49 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:54:49 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:54:49 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:54:49 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:54:49 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:54:49 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:54:49 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:54:49 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:54:49 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:54:53 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 10:54:53 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 10:55:36 --> Could not find the language line "feeds msg edit_feed_success"
+ERROR - 2017-07-20 10:55:37 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 10:55:37 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:55:37 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:55:37 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 10:55:37 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:55:37 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:55:37 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:55:37 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:55:37 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:55:37 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:55:37 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:55:37 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:55:37 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:55:37 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:55:37 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:55:37 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:55:37 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:55:37 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:55:37 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:55:37 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:55:37 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:55:37 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:55:37 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:55:37 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:55:37 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:55:37 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:56:09 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 10:56:09 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 10:56:37 --> Could not find the language line "feeds msg edit_feed_success"
+ERROR - 2017-07-20 10:56:37 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 10:56:37 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:56:37 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:56:37 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 10:56:37 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:56:37 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:56:37 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:56:37 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:56:37 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:56:37 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:56:37 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:56:37 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:56:37 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:56:37 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:56:37 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:56:37 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:56:37 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:56:37 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:56:37 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:56:37 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:56:37 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:56:37 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:56:37 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:56:37 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:56:37 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:56:37 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:56:38 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 10:56:38 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:56:38 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:56:38 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 10:56:38 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:56:38 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:56:38 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:56:38 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:56:38 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:56:38 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:56:38 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:56:38 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:56:38 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:56:38 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:56:38 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:56:38 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:56:38 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:56:38 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:56:38 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:56:38 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:56:38 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:56:38 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:56:38 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:56:38 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:56:38 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:56:38 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:56:41 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 10:56:41 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 10:56:51 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 10:56:51 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 10:59:22 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 10:59:22 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:59:22 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:59:22 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 10:59:22 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 10:59:22 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 10:59:22 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:59:22 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:59:22 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:59:22 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:59:22 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:59:22 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:59:22 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:59:22 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:59:22 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:59:22 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:59:22 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:59:22 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:59:22 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:59:22 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:59:22 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:59:22 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:59:22 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:59:22 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:59:22 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 10:59:22 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 10:59:25 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 10:59:25 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 11:00:29 --> Could not find the language line "feeds msg edit_feed_success"
+ERROR - 2017-07-20 11:00:30 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 11:00:30 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 11:00:30 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 11:00:30 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 11:00:30 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 11:00:30 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 11:00:30 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:00:30 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:00:30 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:00:30 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:00:30 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:00:30 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:00:30 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:00:30 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:00:30 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:00:30 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:00:30 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:00:30 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:00:30 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:00:30 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:00:30 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:00:30 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:00:30 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:00:30 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:00:30 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:00:30 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:01:43 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 11:01:43 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 11:01:56 --> Could not find the language line "feeds msg edit_feed_success"
+ERROR - 2017-07-20 11:01:56 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 11:01:56 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 11:01:56 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 11:01:56 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 11:01:56 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 11:01:56 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 11:01:56 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:01:56 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:01:56 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:01:56 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:01:56 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:01:56 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:01:56 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:01:56 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:01:56 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:01:56 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:01:56 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:01:56 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:01:56 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:01:56 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:01:56 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:01:56 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:01:56 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:01:56 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:01:56 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:01:56 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:02:39 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 11:02:39 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 11:02:48 --> Could not find the language line "feeds msg edit_feed_success"
+ERROR - 2017-07-20 11:02:48 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 11:02:48 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 11:02:48 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 11:02:48 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 11:02:48 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 11:02:48 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 11:02:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:02:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:02:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:02:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:02:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:02:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:02:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:02:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:02:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:02:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:02:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:02:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:02:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:02:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:02:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:02:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:02:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:02:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:02:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:02:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:02:54 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 11:02:54 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 11:07:14 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 11:07:14 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 11:07:14 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 11:07:14 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 11:07:14 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 11:07:14 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 11:07:14 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:07:14 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:07:14 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:07:14 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:07:14 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:07:14 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:07:14 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:07:14 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:07:14 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:07:14 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:07:14 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:07:14 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:07:14 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:07:14 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:07:14 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:07:14 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:07:14 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:07:14 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:07:14 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:07:14 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:07:18 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 11:07:18 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 15:47:33 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-20 11:48:56 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 11:48:56 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 11:48:56 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 11:48:56 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 11:48:56 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 11:48:56 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 11:48:56 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:48:56 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:48:56 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:48:56 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:48:56 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:48:56 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:48:56 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:48:56 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:48:56 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:48:56 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:48:56 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:48:56 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:48:56 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:48:56 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:48:56 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:48:56 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:48:56 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:48:56 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:48:56 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 11:48:56 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 11:48:59 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 11:48:59 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 16:20:07 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-20 16:54:05 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-20 12:24:11 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 12:24:11 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 12:24:11 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 12:24:11 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 12:24:11 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 12:24:11 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 12:24:11 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 12:24:11 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 12:24:11 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 12:24:11 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 12:24:11 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 12:24:11 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 12:24:11 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 12:24:11 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 12:24:11 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 12:24:11 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 12:24:11 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 12:24:11 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 12:24:11 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 12:24:11 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 12:24:11 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 12:24:11 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 12:24:11 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 12:24:11 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 12:24:11 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 12:24:11 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 12:24:15 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 12:24:15 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 12:24:31 --> Could not find the language line "feeds msg edit_feed_success"
+ERROR - 2017-07-20 12:24:31 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 12:24:31 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 12:24:31 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 12:24:31 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 12:24:31 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 12:24:31 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 12:24:31 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 12:24:31 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 12:24:31 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 12:24:31 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 12:24:31 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 12:24:31 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 12:24:31 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 12:24:31 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 12:24:31 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 12:24:31 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 12:24:31 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 12:24:31 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 12:24:31 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 12:24:31 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 12:24:31 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 12:24:31 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 12:24:31 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 12:24:31 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 12:24:31 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 12:24:31 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 12:24:36 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 12:24:36 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 17:36:19 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-20 18:00:36 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-20 13:30:43 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 13:30:43 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 13:30:43 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 13:30:43 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 13:30:43 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 13:30:43 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 13:30:43 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:30:43 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:30:43 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:30:43 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:30:43 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:30:43 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:30:43 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:30:43 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:30:43 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:30:43 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:30:43 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:30:43 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:30:43 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:30:43 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:30:43 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:30:43 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:30:43 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:30:43 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:30:43 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:30:43 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:31:44 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 13:31:44 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 13:34:21 --> Could not find the language line "feeds msg edit_feed_success"
+ERROR - 2017-07-20 13:34:21 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 13:34:21 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 13:34:21 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 13:34:21 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 13:34:21 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 13:34:21 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 13:34:21 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:34:21 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:34:21 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:34:21 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:34:21 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:34:21 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:34:21 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:34:21 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:34:21 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:34:21 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:34:21 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:34:21 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:34:21 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:34:21 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:34:21 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:34:21 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:34:21 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:34:21 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:34:21 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:34:21 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:35:36 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 13:35:36 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 13:35:46 --> Could not find the language line "feeds msg edit_feed_success"
+ERROR - 2017-07-20 13:35:48 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 13:35:48 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 13:35:48 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 13:35:48 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 13:35:48 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 13:35:48 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 13:35:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:35:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:35:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:35:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:35:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:35:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:35:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:35:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:35:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:35:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:35:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:35:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:35:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:35:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:35:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:35:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:35:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:35:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:35:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:35:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:37:11 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 13:37:11 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 13:37:19 --> Could not find the language line "feeds msg edit_feed_success"
+ERROR - 2017-07-20 13:37:19 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 13:37:19 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 13:37:19 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 13:37:19 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 13:37:19 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 13:37:19 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 13:37:19 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:37:19 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:37:19 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:37:19 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:37:19 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:37:19 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:37:19 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:37:19 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:37:19 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:37:19 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:37:19 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:37:19 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:37:19 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:37:19 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:37:19 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:37:19 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:37:19 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:37:19 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:37:19 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:37:19 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:43:52 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 13:43:52 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 13:43:57 --> Could not find the language line "feeds msg edit_feed_success"
+ERROR - 2017-07-20 13:43:58 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 13:43:58 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 13:43:58 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 13:43:58 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 13:43:58 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 13:43:58 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 13:43:58 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:43:58 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:43:58 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:43:58 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:43:58 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:43:58 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:43:58 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:43:58 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:43:58 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:43:58 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:43:58 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:43:58 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:43:58 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:43:58 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:43:58 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:43:58 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:43:58 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:43:58 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:43:58 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:43:58 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:44:01 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 13:44:01 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 13:45:47 --> Could not find the language line "feeds msg edit_feed_success"
+ERROR - 2017-07-20 13:45:48 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 13:45:48 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 13:45:48 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 13:45:48 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 13:45:48 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 13:45:48 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 13:45:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:45:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:45:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:45:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:45:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:45:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:45:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:45:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:45:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:45:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:45:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:45:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:45:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:45:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:45:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:45:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:45:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:45:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:45:48 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:45:48 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:45:50 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 13:45:50 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 18:19:23 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-20 13:49:25 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 13:49:25 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 13:49:25 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 13:49:25 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 13:49:25 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 13:49:25 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 13:49:25 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:49:25 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:49:25 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:49:25 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:49:25 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:49:25 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:49:25 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:49:25 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:49:25 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:49:25 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:49:25 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:49:25 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:49:25 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:49:25 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:49:25 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:49:25 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:49:25 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:49:25 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:49:25 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:49:25 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:49:31 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 13:49:31 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 18:25:07 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-20 13:55:10 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 13:55:10 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 13:55:10 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 13:55:10 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 13:55:10 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 13:55:10 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 13:55:10 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:55:10 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:55:10 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:55:10 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:55:10 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:55:10 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:55:10 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:55:10 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:55:10 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:55:10 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:55:10 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:55:10 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:55:10 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:55:10 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:55:10 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:55:10 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:55:10 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:55:10 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:55:10 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:55:10 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:55:13 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 13:55:13 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 13:55:43 --> Could not find the language line "feeds msg edit_feed_success"
+ERROR - 2017-07-20 13:55:43 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 13:55:43 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 13:55:43 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 13:55:43 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 13:55:43 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 13:55:43 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 13:55:43 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:55:43 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:55:43 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:55:43 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:55:43 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:55:43 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:55:43 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:55:43 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:55:43 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:55:43 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:55:43 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:55:43 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:55:43 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:55:43 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:55:43 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:55:43 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:55:43 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:55:43 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:55:43 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 13:55:43 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 13:55:46 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 13:55:46 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 18:30:15 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-20 14:00:16 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 14:00:16 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 14:00:16 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 14:00:16 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 14:00:16 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 14:00:16 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 14:00:16 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 14:00:16 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 14:00:16 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 14:00:16 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 14:00:16 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 14:00:16 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 14:00:16 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 14:00:16 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 14:00:16 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 14:00:16 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 14:00:16 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 14:00:16 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 14:00:16 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 14:00:16 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 14:00:16 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 14:00:16 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 14:00:16 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 14:00:16 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 14:00:16 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 14:00:16 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 14:00:20 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 14:00:20 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 22:36:38 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-20 22:37:32 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-07-20 18:09:53 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-07-20 18:09:53 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 18:09:53 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 18:09:53 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-07-20 18:09:53 --> Could not find the language line "feeds input email"
+ERROR - 2017-07-20 18:09:53 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-07-20 18:09:53 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 18:09:53 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 18:09:53 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 18:09:53 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 18:09:53 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 18:09:53 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 18:09:53 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 18:09:53 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 18:09:53 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 18:09:53 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 18:09:53 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 18:09:53 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 18:09:53 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 18:09:53 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 18:09:53 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 18:09:53 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 18:09:53 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 18:09:53 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 18:09:53 --> Severity: Notice --> Undefined index: email_id /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 78
+ERROR - 2017-07-20 18:09:53 --> Severity: Notice --> Undefined index: mobile_no /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/list.php 82
+ERROR - 2017-07-20 18:09:55 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 18:09:55 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66
+ERROR - 2017-07-20 18:33:54 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-07-20 18:33:54 --> Severity: Notice --> Undefined variable: paymentlist /home/aneroidtech29543/public_html/addanyproject.com/weleva/application/application/views/admin/feeds/form.php 66

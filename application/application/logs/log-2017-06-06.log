@@ -1,0 +1,43 @@
+ERROR - 2017-06-06 11:47:48 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-06-06 12:48:16 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-06-06 12:48:16 --> Could not find the language line "feeds button add_new_feed"
+ERROR - 2017-06-06 12:48:16 --> Could not find the language line "feeds input email"
+ERROR - 2017-06-06 12:48:16 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-06-06 12:48:16 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-06-06 12:48:16 --> Could not find the language line "feeds input email"
+ERROR - 2017-06-06 12:48:16 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-06-06 12:48:16 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 117
+ERROR - 2017-06-06 12:48:16 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 121
+ERROR - 2017-06-06 12:48:16 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 117
+ERROR - 2017-06-06 12:48:16 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 121
+ERROR - 2017-06-06 12:48:16 --> Could not find the language line "feeds title feed_delete"
+ERROR - 2017-06-06 12:48:16 --> Could not find the language line "feeds msg delete_confirm"
+ERROR - 2017-06-06 12:48:16 --> Could not find the language line "feeds title feed_delete"
+ERROR - 2017-06-06 12:48:16 --> Could not find the language line "feeds msg delete_confirm"
+ERROR - 2017-06-06 12:48:23 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-06 12:48:23 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-06 12:48:27 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-06-06 12:48:27 --> Could not find the language line "feeds button add_new_feed"
+ERROR - 2017-06-06 12:48:27 --> Could not find the language line "feeds input email"
+ERROR - 2017-06-06 12:48:27 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-06-06 12:48:27 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-06-06 12:48:27 --> Could not find the language line "feeds input email"
+ERROR - 2017-06-06 12:48:27 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-06-06 12:48:27 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 117
+ERROR - 2017-06-06 12:48:27 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 121
+ERROR - 2017-06-06 12:48:27 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 117
+ERROR - 2017-06-06 12:48:27 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 121
+ERROR - 2017-06-06 12:48:27 --> Could not find the language line "feeds title feed_delete"
+ERROR - 2017-06-06 12:48:27 --> Could not find the language line "feeds msg delete_confirm"
+ERROR - 2017-06-06 12:48:27 --> Could not find the language line "feeds title feed_delete"
+ERROR - 2017-06-06 12:48:27 --> Could not find the language line "feeds msg delete_confirm"
+ERROR - 2017-06-06 12:48:32 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-06-06 12:48:32 --> Severity: Notice --> Undefined variable: paymentlist /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/form.php 62
+ERROR - 2017-06-06 12:49:32 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-06 12:49:32 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-06 12:49:41 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-06 12:50:17 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-06 12:50:17 --> Could not find the language line "customers input last_name"
+ERROR - 2017-06-06 12:50:40 --> Could not find the language line "form_validation__check_login"
+ERROR - 2017-06-06 11:59:56 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-06-06 11:59:56 --> 404 Page Not Found: Themes/admin

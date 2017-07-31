@@ -1,0 +1,167 @@
+ERROR - 2017-04-13 14:15:25 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 14:38:58 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 14:39:42 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 14:39:52 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 14:40:03 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 14:40:10 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 14:48:13 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 14:49:31 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 15:49:40 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-13 15:49:41 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-13 14:49:41 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 15:49:45 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-13 15:49:45 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-13 15:49:45 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-13 15:49:45 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-13 15:49:45 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-13 15:49:45 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-13 14:49:46 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 14:50:01 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 14:50:08 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 14:50:19 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 15:52:12 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-13 15:52:12 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-13 14:52:12 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 15:52:16 --> Could not find the language line "joborders input title"
+ERROR - 2017-04-13 15:52:16 --> Could not find the language line "joborders input company_id"
+ERROR - 2017-04-13 15:52:16 --> Could not find the language line "joborders input city"
+ERROR - 2017-04-13 15:52:16 --> Could not find the language line "joborders input state"
+ERROR - 2017-04-13 15:52:16 --> Could not find the language line "joborders input recruiter"
+ERROR - 2017-04-13 15:52:16 --> Could not find the language line "joborders input owner"
+ERROR - 2017-04-13 14:52:16 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 14:53:13 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 16:17:01 --> Severity: Error --> Call to undefined method CI_Session::data() C:\wamp64\www\myopeneyes\application\core\Admin_Controller.php 53
+ERROR - 2017-04-13 15:21:36 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 16:34:10 --> Severity: Notice --> Undefined variable: page_title C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 6
+ERROR - 2017-04-13 16:34:10 --> Severity: Notice --> Undefined variable: page_header C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 91
+ERROR - 2017-04-13 16:35:21 --> Severity: Notice --> Undefined variable: page_title C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 6
+ERROR - 2017-04-13 16:35:35 --> Severity: Notice --> Undefined variable: page_title C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 6
+ERROR - 2017-04-13 16:35:52 --> Severity: Notice --> Undefined variable: page_title C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 6
+ERROR - 2017-04-13 16:35:56 --> Severity: Notice --> Undefined variable: page_title C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 6
+ERROR - 2017-04-13 16:41:05 --> Severity: Notice --> Undefined variable: page_title C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 6
+ERROR - 2017-04-13 16:41:05 --> Severity: Notice --> Undefined variable: page_header C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 91
+ERROR - 2017-04-13 16:42:14 --> Severity: Notice --> Use of undefined constant REFERRER - assumed 'REFERRER' C:\wamp64\www\myopeneyes\application\controllers\admin\Accessdenied.php 12
+ERROR - 2017-04-13 16:42:14 --> Severity: Notice --> Use of undefined constant THIS_URL - assumed 'THIS_URL' C:\wamp64\www\myopeneyes\application\controllers\admin\Accessdenied.php 18
+ERROR - 2017-04-13 16:42:14 --> Severity: Notice --> Undefined variable: page_title C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 6
+ERROR - 2017-04-13 16:42:14 --> Severity: Notice --> Undefined variable: page_header C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 91
+ERROR - 2017-04-13 16:43:01 --> Severity: Notice --> Use of undefined constant REFERRER - assumed 'REFERRER' C:\wamp64\www\myopeneyes\application\controllers\admin\Accessdenied.php 12
+ERROR - 2017-04-13 16:43:01 --> Severity: Notice --> Use of undefined constant THIS_URL - assumed 'THIS_URL' C:\wamp64\www\myopeneyes\application\controllers\admin\Accessdenied.php 18
+ERROR - 2017-04-13 16:43:01 --> Severity: Notice --> Undefined variable: page_title C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 6
+ERROR - 2017-04-13 16:43:01 --> Severity: Notice --> Undefined variable: page_header C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 91
+ERROR - 2017-04-13 15:43:41 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 15:44:36 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 15:45:05 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 15:45:20 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 16:45:39 --> Severity: Notice --> Undefined variable: page_title C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 6
+ERROR - 2017-04-13 16:45:39 --> Severity: Notice --> Undefined variable: page_header C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 91
+ERROR - 2017-04-13 16:45:47 --> Severity: Notice --> Undefined variable: page_title C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 6
+ERROR - 2017-04-13 16:45:47 --> Severity: Notice --> Undefined variable: page_header C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 91
+ERROR - 2017-04-13 16:45:54 --> Severity: Notice --> Undefined variable: page_title C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 6
+ERROR - 2017-04-13 16:45:54 --> Severity: Notice --> Undefined variable: page_header C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 91
+ERROR - 2017-04-13 15:46:02 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 15:46:12 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 15:46:30 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 15:46:39 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 16:46:51 --> Severity: Notice --> Undefined variable: page_title C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 6
+ERROR - 2017-04-13 16:46:51 --> Severity: Notice --> Undefined variable: page_header C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 91
+ERROR - 2017-04-13 15:46:58 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 15:47:22 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 16:47:57 --> Severity: Notice --> Use of undefined constant REFERRER - assumed 'REFERRER' C:\wamp64\www\myopeneyes\application\controllers\admin\Accessdenied.php 18
+ERROR - 2017-04-13 16:47:57 --> Severity: Notice --> Use of undefined constant THIS_URL - assumed 'THIS_URL' C:\wamp64\www\myopeneyes\application\controllers\admin\Accessdenied.php 24
+ERROR - 2017-04-13 16:48:06 --> Severity: Notice --> Use of undefined constant REFERRER - assumed 'REFERRER' C:\wamp64\www\myopeneyes\application\controllers\admin\Accessdenied.php 31
+ERROR - 2017-04-13 16:48:06 --> Severity: Notice --> Use of undefined constant THIS_URL - assumed 'THIS_URL' C:\wamp64\www\myopeneyes\application\controllers\admin\Accessdenied.php 37
+ERROR - 2017-04-13 16:05:48 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 16:13:44 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 16:22:07 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 16:22:29 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 16:23:54 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 16:33:04 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 16:33:27 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 16:34:12 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 16:34:33 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 16:35:50 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 16:36:13 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:46:14 --> Severity: Error --> Call to undefined method CI_Loader::checkAuth() C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 8
+ERROR - 2017-04-13 17:47:34 --> Severity: Notice --> Use of undefined constant CHECK - assumed 'CHECK' C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 8
+ERROR - 2017-04-13 17:47:34 --> Severity: Notice --> Use of undefined constant USER - assumed 'USER' C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 8
+ERROR - 2017-04-13 17:47:34 --> Severity: Notice --> Use of undefined constant AUTH - assumed 'AUTH' C:\wamp64\www\myopeneyes\application\views\admin\users\list.php 8
+ERROR - 2017-04-13 16:53:57 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 16:54:51 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 16:55:05 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 16:59:27 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:00:00 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:00:19 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:00:21 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:09:22 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:10:07 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:10:31 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:11:19 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 18:15:26 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-13 18:15:26 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-13 17:15:27 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:16:57 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:21:08 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:21:15 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:21:18 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:22:43 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:22:46 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:22:51 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:22:57 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:23:16 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:23:37 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 18:23:43 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-13 18:23:43 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-13 17:23:44 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:23:49 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:25:53 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 18:26:00 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-13 18:26:00 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-13 17:26:00 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:26:04 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:26:07 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:26:36 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:27:43 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:28:07 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:32:22 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:32:27 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 18:32:28 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-13 18:32:28 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-13 17:32:29 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:32:43 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:36:00 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:36:10 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:36:13 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:36:56 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:36:58 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:40:36 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:42:16 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:43:51 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:44:00 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:51:33 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:51:34 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:51:41 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:51:43 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:52:07 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 17:59:31 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 18:08:41 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 18:12:59 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 18:16:41 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 19:59:22 --> Severity: Notice --> Undefined property: Ajax::$users_model C:\wamp64\www\myopeneyes\application\controllers\Ajax.php 74
+ERROR - 2017-04-13 19:59:23 --> Severity: Error --> Call to a member function username_exists() on null C:\wamp64\www\myopeneyes\application\controllers\Ajax.php 74
+ERROR - 2017-04-13 19:59:24 --> Severity: Notice --> Undefined property: Ajax::$users_model C:\wamp64\www\myopeneyes\application\controllers\Ajax.php 74
+ERROR - 2017-04-13 19:59:24 --> Severity: Error --> Call to a member function username_exists() on null C:\wamp64\www\myopeneyes\application\controllers\Ajax.php 74
+ERROR - 2017-04-13 19:32:30 --> 404 Page Not Found: admin/Users/images
+ERROR - 2017-04-13 19:32:39 --> 404 Page Not Found: admin/Users/images
+ERROR - 2017-04-13 19:32:48 --> 404 Page Not Found: admin/Images/loader.gif
+ERROR - 2017-04-13 19:32:52 --> 404 Page Not Found: Images/loader.gif
+ERROR - 2017-04-13 19:32:53 --> 404 Page Not Found: admin/Images/loader.gif
+ERROR - 2017-04-13 19:32:55 --> 404 Page Not Found: admin/Images/loader.gif
+ERROR - 2017-04-13 21:57:18 --> Severity: Parsing Error --> syntax error, unexpected '<' C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 151
+ERROR - 2017-04-13 22:05:23 --> Severity: Notice --> Undefined index: name C:\wamp64\www\myopeneyes\htdocs\themes\admin\template.php 40
+ERROR - 2017-04-13 22:07:44 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-13 22:07:44 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-13 22:10:41 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-13 22:10:41 --> Could not find the language line "joborders input company date created"
+ERROR - 2017-04-13 21:37:54 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 21:38:15 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-04-13 21:38:36 --> 404 Page Not Found: Themes/admin

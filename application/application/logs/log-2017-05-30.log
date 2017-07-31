@@ -1,0 +1,94 @@
+ERROR - 2017-05-30 05:57:45 --> Could not find the language line "users error invalid_login"
+ERROR - 2017-05-30 05:59:09 --> Could not find the language line "users error invalid_login"
+ERROR - 2017-05-30 06:31:33 --> Could not find the language line "customers input first_name"
+ERROR - 2017-05-30 05:37:03 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-30 06:37:39 --> Could not find the language line "customers col last_name"
+ERROR - 2017-05-30 06:37:39 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 06:37:45 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 06:38:39 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 06:38:42 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 06:38:45 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 06:39:43 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 06:46:15 --> Could not find the language line "customers col last_name"
+ERROR - 2017-05-30 06:46:15 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 06:46:19 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 06:46:21 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 06:47:44 --> Query error: Unknown column 'first_name' in 'field list' - Invalid query: 
+                SELECT
+                    first_name,
+                    last_name,
+                    customer_id, 
+                    email_id,
+                    is_active,
+					salt,
+					password 
+                FROM customers
+                WHERE email_id = 'sdsd'  LIMIT 1 
+ERROR - 2017-05-30 06:48:01 --> Severity: Notice --> Undefined index: first_name /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 154
+ERROR - 2017-05-30 06:48:01 --> Severity: Notice --> Undefined index: last_name /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 155
+ERROR - 2017-05-30 06:48:01 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 157
+ERROR - 2017-05-30 06:48:01 --> Severity: Notice --> Undefined index: birthdate /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 158
+ERROR - 2017-05-30 06:48:01 --> Query error: Unknown column 'first_name' in 'field list' - Invalid query: UPDATE `customers` SET `first_name` = NULL, `last_name` = NULL, `email_id` = 'pratiknyk@gmail.com', `mobile_no` = NULL, `birthdate` = NULL, `website` = 'http://localhost/wordpress', `ip_address` = '103.215.93.203', `updated_on` = '2017-05-30 06:48:01', `is_active` = '0', `payment_status` = '1'
+WHERE `customer_id` = '9'
+ERROR - 2017-05-30 06:50:53 --> Could not find the language line "customers col last_name"
+ERROR - 2017-05-30 06:50:53 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 06:50:56 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 06:50:59 --> Could not find the language line "customers col last_name"
+ERROR - 2017-05-30 06:50:59 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 06:54:30 --> Severity: Notice --> Undefined index: is_active /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 129
+ERROR - 2017-05-30 06:54:30 --> Severity: Notice --> Undefined index: payment_status /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 130
+ERROR - 2017-05-30 06:54:30 --> Query error: Column 'is_active' cannot be null - Invalid query: INSERT INTO `customers` (`full_name`, `email_id`, `website`, `password`, `salt`, `ip_address`, `created_on`, `is_active`, `payment_status`) VALUES ('Kashyap Nayak', 'kashyap_nayak@gmail.com', 'http://www.yahoo.com', '8eb679f3c13c0411fc6a075d92ac64461022ce3df66ba251e43bf3ccc888cf17b6a3c7f47c8fcd229bbea1e40649b10458d3f307ebed5cb336729bba7cceb02b', 'e962fb1e5367df63e53664f86aa49b180fe7fe8ef6b6c42864bb2cd7c3f270decb0118931f3df3effea560a9ae4cfe8818cbb99dbe42885461b248db61b38a29', '103.215.93.203', '2017-05-30 06:54:30', NULL, NULL)
+ERROR - 2017-05-30 06:57:49 --> Severity: Notice --> Undefined index: payment_status /home/youmeopc/public_html/demo/elevaweb/application/application/models/Customers_model.php 130
+ERROR - 2017-05-30 06:57:49 --> Query error: Column 'payment_status' cannot be null - Invalid query: INSERT INTO `customers` (`full_name`, `email_id`, `website`, `password`, `salt`, `ip_address`, `created_on`, `is_active`, `payment_status`) VALUES ('Kashyap Nayak', 'kashyap_nayak@gmail.com', 'http://www.yahoo.com', '4242366f7362f5cb2376bc8be75038194c41db9a7ad37626bb6c194d2cddf6d2c3acf082bcd50da6322b6fd86adf43b5da4b0efd09182e1b4b8a249489e1ed84', '531c3cf3eaac72ae8385eba15bdfad12425bc0429e4795e3d70bd3ea8ef306cd935211ab855dd1e6de74ac29a39b5530a896b0ba4db1d41e8b5e608bfef11ab3', '103.215.93.203', '2017-05-30 06:57:49', '1', NULL)
+ERROR - 2017-05-30 06:59:07 --> Could not find the language line "customers col last_name"
+ERROR - 2017-05-30 06:59:07 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 07:08:44 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 07:08:58 --> Could not find the language line "customers col last_name"
+ERROR - 2017-05-30 07:08:58 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 06:54:07 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-30 07:54:11 --> Could not find the language line "customers col last_name"
+ERROR - 2017-05-30 07:54:11 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 07:54:24 --> Could not find the language line "users error invalid_login"
+ERROR - 2017-05-30 07:55:05 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:00:35 --> Could not find the language line "users error invalid_login"
+ERROR - 2017-05-30 08:02:48 --> Could not find the language line "users error invalid_login"
+ERROR - 2017-05-30 08:03:23 --> Could not find the language line "users error invalid_login"
+ERROR - 2017-05-30 08:06:49 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:09:44 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:09:50 --> Could not find the language line "customers col last_name"
+ERROR - 2017-05-30 08:09:50 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:09:53 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:09:58 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:10:05 --> Could not find the language line "customers col last_name"
+ERROR - 2017-05-30 08:10:05 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:10:36 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:11:59 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:12:02 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:12:40 --> Severity: Parsing Error --> syntax error, unexpected ';' /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/form.php 52
+ERROR - 2017-05-30 08:12:42 --> Severity: Parsing Error --> syntax error, unexpected ';' /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/form.php 52
+ERROR - 2017-05-30 08:12:48 --> Severity: Parsing Error --> syntax error, unexpected ';' /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/customers/form.php 52
+ERROR - 2017-05-30 08:12:53 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:13:59 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:14:02 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:14:02 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:14:06 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:14:11 --> Could not find the language line "customers col last_name"
+ERROR - 2017-05-30 08:14:11 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:14:19 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:14:22 --> Could not find the language line "customers col last_name"
+ERROR - 2017-05-30 08:14:22 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:14:26 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:15:16 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:16:09 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:16:13 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:16:15 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:16:18 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:18:09 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:18:25 --> Could not find the language line "customers col last_name"
+ERROR - 2017-05-30 08:18:25 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 08:18:31 --> Could not find the language line "customers input last_name"
+ERROR - 2017-05-30 09:41:14 --> Could not find the language line "users error invalid_login"
+ERROR - 2017-05-30 19:17:18 --> Could not find the language line "users error invalid_login"
+ERROR - 2017-05-30 18:58:01 --> 404 Page Not Found: Api/changepassword
+ERROR - 2017-05-30 19:58:46 --> Could not find the language line "form_validation__check_changepass"
+ERROR - 2017-05-30 20:01:05 --> Could not find the language line "form_validation__check_changepass"

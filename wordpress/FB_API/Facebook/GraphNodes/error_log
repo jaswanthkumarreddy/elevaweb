@@ -1,0 +1,1 @@
+[29-May-2017 00:28:40 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/andarta/public_html/Facebook/GraphNodes/GraphObject.php on line 24

@@ -1,0 +1,146 @@
+ERROR - 2017-05-25 17:19:51 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-25 16:20:07 --> Could not find the language line "users input status"
+ERROR - 2017-05-25 16:20:17 --> Query error: Table 'youmeopc_mlm.customers' doesn't exist - Invalid query: 
+            SELECT SQL_CALC_FOUND_ROWS *
+            FROM customers
+            WHERE deleted = '0'
+         ORDER BY customer_id desc LIMIT 0, 10
+ERROR - 2017-05-25 17:31:45 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-25 16:32:10 --> Severity: Notice --> Undefined index: id D:\xampp\htdocs\elevaweb\application\controllers\admin\Settings.php 52
+ERROR - 2017-05-25 16:32:19 --> Severity: Notice --> Undefined index: id D:\xampp\htdocs\elevaweb\application\controllers\admin\Settings.php 52
+ERROR - 2017-05-25 16:33:08 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 16:34:34 --> Could not find the language line "categorys input first name"
+ERROR - 2017-05-25 16:37:15 --> Severity: error --> Exception: Unable to locate the model you have specified: Clients_model D:\xampp\htdocs\elevaweb\system\core\Loader.php 344
+ERROR - 2017-05-25 16:41:11 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 16:41:11 --> Severity: Notice --> Undefined variable: password_required D:\xampp\htdocs\elevaweb\application\views\admin\customers\form.php 65
+ERROR - 2017-05-25 16:41:11 --> Severity: Notice --> Undefined variable: password_required D:\xampp\htdocs\elevaweb\application\views\admin\customers\form.php 73
+ERROR - 2017-05-25 16:41:11 --> Severity: Notice --> Undefined variable: password_required D:\xampp\htdocs\elevaweb\application\views\admin\customers\form.php 77
+ERROR - 2017-05-25 16:43:02 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 16:44:29 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 16:44:46 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 16:46:27 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 16:48:52 --> Could not find the language line "users input status"
+ERROR - 2017-05-25 16:49:21 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 16:52:23 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 16:54:20 --> Severity: Parsing Error --> syntax error, unexpected ',' D:\xampp\htdocs\elevaweb\application\models\Customers_model.php 124
+ERROR - 2017-05-25 16:56:19 --> Severity: error --> Exception: D:\xampp\htdocs\elevaweb\application\models/Customers_model.php exists, but doesn't declare class Customers_model D:\xampp\htdocs\elevaweb\system\core\Loader.php 336
+ERROR - 2017-05-25 16:56:34 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 16:57:22 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 17:05:08 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 17:05:47 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 17:09:21 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 17:14:40 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 17:14:48 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 18:14:48 --> Severity: Compile Error --> Cannot redeclare Ajax::check_customeremail() D:\xampp\htdocs\elevaweb\application\controllers\Ajax.php 103
+ERROR - 2017-05-25 18:15:19 --> Severity: Compile Error --> Cannot redeclare Ajax::check_customeremail() D:\xampp\htdocs\elevaweb\application\controllers\Ajax.php 103
+ERROR - 2017-05-25 17:16:45 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 17:16:45 --> Query error: Unknown column 'birthdate' in 'field list' - Invalid query: INSERT INTO `customers` (`first_name`, `last_name`, `email_id`, `mobile_no`, `birthdate`, `password`, `salt`, `ip_address`, `created_by`, `created_on`, `is_active`) VALUES ('Parthiv', 'Shah', '2585shah@gmail.com', '7383119597', '2017-05-16', '3e60c49c9afe6ba240f058517ef19f53f17a8ca4fcd1942e2c12b4140e754675acbc256d7f3581aba121daa7a5f055fc2819778744e4898bb9d65c9110052f51', '8b44fa3fd479c5115bd51fc55e1babb7282a610d0f9bae6b7293b583bf29d4dc097bf2445aa303b0076a6588667d7e4bf6b777b30c3e298e51795522dcdc8052', '::1', '1', '2017-05-25 17:16:45', '1')
+ERROR - 2017-05-25 17:17:13 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 17:17:37 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 17:17:37 --> Severity: Notice --> Undefined property: Customers::$clients_model D:\xampp\htdocs\elevaweb\application\controllers\admin\Customers.php 374
+ERROR - 2017-05-25 17:17:37 --> Severity: Error --> Call to a member function clientDropDownList() on a non-object D:\xampp\htdocs\elevaweb\application\controllers\admin\Customers.php 374
+ERROR - 2017-05-25 17:18:37 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 17:19:33 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 17:19:46 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 17:20:04 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 17:20:54 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 17:22:09 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 17:22:09 --> Could not find the language line "customers input website"
+ERROR - 2017-05-25 17:22:54 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 17:23:11 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 17:24:00 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 17:24:12 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 17:24:16 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 17:26:37 --> Could not find the language line "menus input name"
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: id D:\xampp\htdocs\elevaweb\application\controllers\Api.php 44
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: email D:\xampp\htdocs\elevaweb\application\controllers\Api.php 46
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: id D:\xampp\htdocs\elevaweb\application\controllers\Api.php 44
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: email D:\xampp\htdocs\elevaweb\application\controllers\Api.php 46
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: id D:\xampp\htdocs\elevaweb\application\controllers\Api.php 44
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: email D:\xampp\htdocs\elevaweb\application\controllers\Api.php 46
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: id D:\xampp\htdocs\elevaweb\application\controllers\Api.php 44
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: email D:\xampp\htdocs\elevaweb\application\controllers\Api.php 46
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: id D:\xampp\htdocs\elevaweb\application\controllers\Api.php 44
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: email D:\xampp\htdocs\elevaweb\application\controllers\Api.php 46
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: id D:\xampp\htdocs\elevaweb\application\controllers\Api.php 44
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: email D:\xampp\htdocs\elevaweb\application\controllers\Api.php 46
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: id D:\xampp\htdocs\elevaweb\application\controllers\Api.php 44
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: email D:\xampp\htdocs\elevaweb\application\controllers\Api.php 46
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: id D:\xampp\htdocs\elevaweb\application\controllers\Api.php 44
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: email D:\xampp\htdocs\elevaweb\application\controllers\Api.php 46
+ERROR - 2017-05-25 17:29:41 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:29:41 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\elevaweb\system\core\Exceptions.php:271) D:\xampp\htdocs\elevaweb\application\helpers\core_helper.php 14
+ERROR - 2017-05-25 17:29:41 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\elevaweb\system\core\Exceptions.php:271) D:\xampp\htdocs\elevaweb\application\helpers\core_helper.php 15
+ERROR - 2017-05-25 17:29:41 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\elevaweb\system\core\Exceptions.php:271) D:\xampp\htdocs\elevaweb\application\helpers\core_helper.php 16
+ERROR - 2017-05-25 17:30:24 --> Severity: Notice --> Undefined index: email D:\xampp\htdocs\elevaweb\application\controllers\Api.php 46
+ERROR - 2017-05-25 17:30:24 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:30:24 --> Severity: Notice --> Undefined index: email D:\xampp\htdocs\elevaweb\application\controllers\Api.php 46
+ERROR - 2017-05-25 17:30:24 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:30:24 --> Severity: Notice --> Undefined index: email D:\xampp\htdocs\elevaweb\application\controllers\Api.php 46
+ERROR - 2017-05-25 17:30:24 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:30:24 --> Severity: Notice --> Undefined index: email D:\xampp\htdocs\elevaweb\application\controllers\Api.php 46
+ERROR - 2017-05-25 17:30:24 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:30:24 --> Severity: Notice --> Undefined index: email D:\xampp\htdocs\elevaweb\application\controllers\Api.php 46
+ERROR - 2017-05-25 17:30:24 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:30:24 --> Severity: Notice --> Undefined index: email D:\xampp\htdocs\elevaweb\application\controllers\Api.php 46
+ERROR - 2017-05-25 17:30:24 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:30:24 --> Severity: Notice --> Undefined index: email D:\xampp\htdocs\elevaweb\application\controllers\Api.php 46
+ERROR - 2017-05-25 17:30:24 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:30:24 --> Severity: Notice --> Undefined index: email D:\xampp\htdocs\elevaweb\application\controllers\Api.php 46
+ERROR - 2017-05-25 17:30:24 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:30:24 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\elevaweb\system\core\Exceptions.php:271) D:\xampp\htdocs\elevaweb\application\helpers\core_helper.php 14
+ERROR - 2017-05-25 17:30:24 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\elevaweb\system\core\Exceptions.php:271) D:\xampp\htdocs\elevaweb\application\helpers\core_helper.php 15
+ERROR - 2017-05-25 17:30:24 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\elevaweb\system\core\Exceptions.php:271) D:\xampp\htdocs\elevaweb\application\helpers\core_helper.php 16
+ERROR - 2017-05-25 17:30:38 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:30:38 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:30:38 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:30:38 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:30:38 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:30:38 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:30:38 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:30:38 --> Severity: Notice --> Undefined index: status D:\xampp\htdocs\elevaweb\application\controllers\Api.php 47
+ERROR - 2017-05-25 17:30:38 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\elevaweb\system\core\Exceptions.php:271) D:\xampp\htdocs\elevaweb\application\helpers\core_helper.php 14
+ERROR - 2017-05-25 17:30:38 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\elevaweb\system\core\Exceptions.php:271) D:\xampp\htdocs\elevaweb\application\helpers\core_helper.php 15
+ERROR - 2017-05-25 17:30:38 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\elevaweb\system\core\Exceptions.php:271) D:\xampp\htdocs\elevaweb\application\helpers\core_helper.php 16
+ERROR - 2017-05-25 17:51:38 --> Severity: Notice --> Undefined variable: username D:\xampp\htdocs\elevaweb\application\models\Customers_model.php 308
+ERROR - 2017-05-25 17:51:38 --> Could not find the language line "users error invalid_login"
+ERROR - 2017-05-25 17:58:49 --> Severity: Notice --> Undefined variable: username D:\xampp\htdocs\elevaweb\application\models\Customers_model.php 308
+ERROR - 2017-05-25 17:58:49 --> Could not find the language line "users error invalid_login"
+ERROR - 2017-05-25 17:59:43 --> Severity: Notice --> Undefined variable: username D:\xampp\htdocs\elevaweb\application\models\Customers_model.php 308
+ERROR - 2017-05-25 17:59:43 --> Could not find the language line "users error invalid_login"
+ERROR - 2017-05-25 18:00:11 --> Severity: Notice --> Undefined variable: username D:\xampp\htdocs\elevaweb\application\models\Customers_model.php 308
+ERROR - 2017-05-25 18:00:11 --> Could not find the language line "users error invalid_login"
+ERROR - 2017-05-25 18:01:13 --> Severity: Notice --> Undefined variable: username D:\xampp\htdocs\elevaweb\application\models\Customers_model.php 309
+ERROR - 2017-05-25 18:01:13 --> Could not find the language line "users error invalid_login"
+ERROR - 2017-05-25 18:01:27 --> Severity: Notice --> Undefined variable: username D:\xampp\htdocs\elevaweb\application\models\Customers_model.php 309
+ERROR - 2017-05-25 18:01:27 --> Could not find the language line "users error invalid_login"
+ERROR - 2017-05-25 18:01:38 --> Severity: Notice --> Undefined variable: username D:\xampp\htdocs\elevaweb\application\models\Customers_model.php 309
+ERROR - 2017-05-25 18:01:38 --> Could not find the language line "users error invalid_login"
+ERROR - 2017-05-25 18:01:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM customers
+                WHERE email_id = '2585shah@gmail.com'  LIMIT 1' at line 7 - Invalid query: 
+                SELECT
+                    first_name,
+                    last_name,
+                    customer_id, 
+                    email_id,
+                    is_active,  
+                FROM customers
+                WHERE email_id = '2585shah@gmail.com'  LIMIT 1 
+ERROR - 2017-05-25 18:02:12 --> Severity: Notice --> Undefined index: salt D:\xampp\htdocs\elevaweb\application\models\Customers_model.php 327
+ERROR - 2017-05-25 18:02:12 --> Severity: Notice --> Undefined index: password D:\xampp\htdocs\elevaweb\application\models\Customers_model.php 329
+ERROR - 2017-05-25 18:02:12 --> Could not find the language line "users error invalid_login"
+ERROR - 2017-05-25 18:02:52 --> Severity: Notice --> Undefined index: password D:\xampp\htdocs\elevaweb\application\models\Customers_model.php 330
+ERROR - 2017-05-25 18:02:52 --> Could not find the language line "users error invalid_login"
+ERROR - 2017-05-25 18:03:13 --> Could not find the language line "users error invalid_login"
+ERROR - 2017-05-25 17:14:04 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-25 18:14:11 --> Could not find the language line "customers input status"
+ERROR - 2017-05-25 18:14:40 --> Could not find the language line "menus input name"
+ERROR - 2017-05-25 18:25:43 --> Could not find the language line "users error invalid_login"
+ERROR - 2017-05-25 18:25:47 --> Could not find the language line "users error invalid_login"

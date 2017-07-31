@@ -1,0 +1,53 @@
+ERROR - 2017-06-05 06:40:00 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-06-05 07:40:03 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-06-05 07:40:03 --> Could not find the language line "feeds button add_new_feed"
+ERROR - 2017-06-05 07:40:03 --> Could not find the language line "feeds input email"
+ERROR - 2017-06-05 07:40:03 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-06-05 07:40:03 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-06-05 07:40:03 --> Could not find the language line "feeds input email"
+ERROR - 2017-06-05 07:40:03 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-06-05 07:40:03 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 117
+ERROR - 2017-06-05 07:40:03 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 121
+ERROR - 2017-06-05 07:40:03 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 117
+ERROR - 2017-06-05 07:40:03 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 121
+ERROR - 2017-06-05 07:40:03 --> Could not find the language line "feeds title feed_delete"
+ERROR - 2017-06-05 07:40:03 --> Could not find the language line "feeds msg delete_confirm"
+ERROR - 2017-06-05 07:40:03 --> Could not find the language line "feeds title feed_delete"
+ERROR - 2017-06-05 07:40:03 --> Could not find the language line "feeds msg delete_confirm"
+ERROR - 2017-06-05 07:40:17 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-06-05 07:40:17 --> Severity: Notice --> Undefined variable: paymentlist /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/form.php 62
+ERROR - 2017-06-05 12:44:51 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-06-05 13:44:56 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-06-05 13:44:56 --> Could not find the language line "feeds button add_new_feed"
+ERROR - 2017-06-05 13:44:56 --> Could not find the language line "feeds input email"
+ERROR - 2017-06-05 13:44:56 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-06-05 13:44:56 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-06-05 13:44:56 --> Could not find the language line "feeds input email"
+ERROR - 2017-06-05 13:44:56 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-06-05 13:44:56 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 117
+ERROR - 2017-06-05 13:44:56 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 121
+ERROR - 2017-06-05 13:44:56 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 117
+ERROR - 2017-06-05 13:44:56 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 121
+ERROR - 2017-06-05 13:44:56 --> Could not find the language line "feeds title feed_delete"
+ERROR - 2017-06-05 13:44:56 --> Could not find the language line "feeds msg delete_confirm"
+ERROR - 2017-06-05 13:44:56 --> Could not find the language line "feeds title feed_delete"
+ERROR - 2017-06-05 13:44:56 --> Could not find the language line "feeds msg delete_confirm"
+ERROR - 2017-06-05 13:45:25 --> Could not find the language line "feeds input payment_status"
+ERROR - 2017-06-05 13:45:25 --> Severity: Notice --> Undefined variable: paymentlist /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/form.php 62
+ERROR - 2017-06-05 16:09:34 --> Could not find the language line "feeds tooltip add_new_feed"
+ERROR - 2017-06-05 16:09:34 --> Could not find the language line "feeds button add_new_feed"
+ERROR - 2017-06-05 16:09:34 --> Could not find the language line "feeds input email"
+ERROR - 2017-06-05 16:09:34 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-06-05 16:09:34 --> Could not find the language line "feeds input feed_name"
+ERROR - 2017-06-05 16:09:34 --> Could not find the language line "feeds input email"
+ERROR - 2017-06-05 16:09:34 --> Could not find the language line "feeds input mobile_no"
+ERROR - 2017-06-05 16:09:34 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 117
+ERROR - 2017-06-05 16:09:34 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 121
+ERROR - 2017-06-05 16:09:34 --> Severity: Notice --> Undefined index: email_id /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 117
+ERROR - 2017-06-05 16:09:34 --> Severity: Notice --> Undefined index: mobile_no /home/youmeopc/public_html/demo/elevaweb/application/application/views/admin/feeds/list.php 121
+ERROR - 2017-06-05 16:09:34 --> Could not find the language line "feeds title feed_delete"
+ERROR - 2017-06-05 16:09:34 --> Could not find the language line "feeds msg delete_confirm"
+ERROR - 2017-06-05 16:09:34 --> Could not find the language line "feeds title feed_delete"
+ERROR - 2017-06-05 16:09:34 --> Could not find the language line "feeds msg delete_confirm"
+ERROR - 2017-06-05 18:38:43 --> Could not find the language line "customers col last_name"
+ERROR - 2017-06-05 18:38:43 --> Could not find the language line "customers input last_name"
